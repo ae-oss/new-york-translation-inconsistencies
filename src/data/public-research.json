@@ -11,7 +11,7 @@
       "english": {
         "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf",
         "pdf_pages": 7,
-        "revision_marker": null
+        "revision_marker": "PSL_FAQ-G (2/22)"
       },
       "translations": [
         {
@@ -22,7 +22,7 @@
           "status": "excluded_edition_mismatch",
           "targeted_units": 0,
           "valid_targeted_comparison": false,
-          "target_edition_marker": null,
+          "target_edition_marker": "PSL_FAQ-G (12/20)",
           "language_designation": "Spanish",
           "script_variety_note": null,
           "coverage_note": null
