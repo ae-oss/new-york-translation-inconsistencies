@@ -1,0 +1,1261 @@
+{
+  "as_of": "2026-10-26",
+  "scope": "Model A government guidance, notices, and forms",
+  "notice": "Research updated 26 October 2026. Published findings are independently verified differences in government-published wording; potential consequences are not documented legal outcomes. Coverage is limited to recorded meaning units.",
+  "documents": [
+    {
+      "id": "ny-source:ny-dol-psl-faq",
+      "title": "Paid Sick Leave FAQ",
+      "issuer": "New York State Department of Labor",
+      "category": "guidance",
+      "english": {
+        "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf",
+        "pdf_pages": 7,
+        "revision_marker": null
+      },
+      "translations": [
+        {
+          "id": "NY-DOL-PSL-FAQ",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_Spanish.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-dol-psl-faq:bn",
+          "language": "Bengali",
+          "code": "bn",
+          "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_Bengali.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "PSL_FAQ-G (12/20)",
+          "language_designation": "Bengali",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-dol-psl-faq:zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_Chinese.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "PSL_FAQ-G (12/20)",
+          "language_designation": "Chinese",
+          "script_variety_note": "Simplified-form Chinese characters observed; regional variety not designated.",
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-dol-psl-faq:ht",
+          "language": "Haitian Creole",
+          "code": "ht",
+          "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_HaitianCreole.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "PSL_FAQ-G (12/20)",
+          "language_designation": "Haitian-Creole",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-dol-psl-faq:ko",
+          "language": "Korean",
+          "code": "ko",
+          "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_Korean.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "PSL_FAQ-G (12/20)",
+          "language_designation": "Korean",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-dol-psl-faq:pl",
+          "language": "Polish",
+          "code": "pl",
+          "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_Polish.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "PSL_FAQ-G (12/20)",
+          "language_designation": "Polish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-dol-psl-faq:ru",
+          "language": "Russian",
+          "code": "ru",
+          "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_Russian.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "PSL_FAQ-G (12/20)",
+          "language_designation": "Russian",
+          "script_variety_note": null,
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:ny-dol-psl-safe",
+      "title": "Paid Sick and Safe Leave fact sheet",
+      "issuer": "New York State Department of Labor",
+      "category": "fact_sheet",
+      "english": {
+        "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_SafeLeave_factsheet.pdf",
+        "pdf_pages": 2,
+        "revision_marker": null
+      },
+      "translations": [
+        {
+          "id": "NY-DOL-PSL-SAFE",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_SLS.pdf",
+          "status": "eligible_bounded",
+          "targeted_units": 2,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:ny-wcb-c3",
+      "title": "Employee Claim C-3",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/c3.pdf",
+        "pdf_pages": 4,
+        "revision_marker": "C-3.0 (6-22)"
+      },
+      "translations": [
+        {
+          "id": "NY-WCB-C3",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C3_S.pdf",
+          "status": "eligible_bounded",
+          "targeted_units": 3,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-wcb-c3:pl",
+          "language": "Polish",
+          "code": "pl",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C3_P.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 2,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "C-3.0 (6-22)",
+          "language_designation": "Polski",
+          "script_variety_note": null,
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        },
+        {
+          "id": "ny-lead:ny-wcb-c3:zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C3_C.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 2,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "C-3.0 (6-22)",
+          "language_designation": "中文",
+          "script_variety_note": "Traditional-form Han observed in PDF text; regional variety not designated.",
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:ny-wcb-c430s",
+      "title": "Statement of Rights C-430S",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "notice",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/c430s.pdf",
+        "pdf_pages": 1,
+        "revision_marker": "C-430S (5/23)"
+      },
+      "translations": [
+        {
+          "id": "NY-WCB-C430S",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://www.wcb.ny.gov/content/main/forms/c430s_S.pdf",
+          "status": "eligible_bounded",
+          "targeted_units": 5,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-wcb-c430s:zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.wcb.ny.gov/content/main/forms/c430s_C.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 2,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "C-430S (5/23)",
+          "language_designation": "中文",
+          "script_variety_note": "Mixed traditional- and simplified-form characters observed; regional variety not designated.",
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:ny-wcb-rfa1w",
+      "title": "Request for Assistance by Injured Worker RFA-1W",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/rfa-1w.pdf",
+        "pdf_pages": 3,
+        "revision_marker": "RFA-1W (5-22)"
+      },
+      "translations": [
+        {
+          "id": "NY-WCB-RFA1W",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://www.wcb.ny.gov/content/main/forms/rfa-1w_S.pdf",
+          "status": "eligible_bounded",
+          "targeted_units": 1,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-wcb-rfa1w:pl",
+          "language": "Polish",
+          "code": "pl",
+          "url": "https://www.wcb.ny.gov/content/main/forms/rfa-1w_P.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 2,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "RFA-1W (5-22)",
+          "language_designation": "Polski",
+          "script_variety_note": null,
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        },
+        {
+          "id": "ny-lead:ny-wcb-rfa1w:zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.wcb.ny.gov/content/main/forms/rfa-1w_C.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 3,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "RFA-1W (5-22)",
+          "language_designation": "中文",
+          "script_variety_note": "Predominantly traditional-form Han observed; regional variety not designated.",
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:ny-wcb-c31",
+      "title": "Provider-selection notice C-3.1/C-3.1S",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "notice",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/C3_1.pdf",
+        "pdf_pages": 1,
+        "revision_marker": "C-3.1 (3-04)"
+      },
+      "translations": [
+        {
+          "id": "NY-WCB-C31",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C3_1.pdf",
+          "status": "eligible_bounded",
+          "targeted_units": 1,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-wcb-c31:pl",
+          "language": "Polish",
+          "code": "pl",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C3_1_P.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "C-3.1P (10-12)",
+          "language_designation": "Polski",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:ny-wcb-c31:zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C3_1_C.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "C-3.1C (10-12)",
+          "language_designation": "中文",
+          "script_variety_note": "Traditional-form Han observed in PDF text; regional variety not designated.",
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:ny-dhr-hrl-poster",
+      "title": "Human Rights Law establishment poster",
+      "issuer": "New York State Division of Human Rights",
+      "category": "poster",
+      "english": {
+        "url": "https://dhr.ny.gov/nysdhr-poster",
+        "pdf_pages": 1,
+        "revision_marker": null
+      },
+      "translations": [
+        {
+          "id": "NY-DHR-HRL-POSTER",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://dhr.ny.gov/nysdhr-poster",
+          "status": "eligible_bounded",
+          "targeted_units": 1,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:hcr-01",
+      "title": "Rent Stabilization and Rent Control / Fact Sheet 1",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-1",
+        "pdf_pages": 3,
+        "revision_marker": "FS-01 (01/2024)"
+      },
+      "translations": [
+        {
+          "id": "HCR-01",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://hcr.ny.gov/spanish-fact-sheet-1",
+          "status": "conditional_local_alignment",
+          "targeted_units": 1,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:hcr-01:fr",
+          "language": "French",
+          "code": "fr",
+          "url": "https://hcr.ny.gov/french-fact-sheet-1",
+          "status": "conditional_local_alignment",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "Revision (01/2024)",
+          "language_designation": "French",
+          "script_variety_note": null,
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:hcr-17",
+      "title": "Harassment / Fact Sheet 17",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-17",
+        "pdf_pages": 2,
+        "revision_marker": "FS-17 (11/2023)"
+      },
+      "translations": [
+        {
+          "id": "HCR-17",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://hcr.ny.gov/spanish-fact-sheet-17",
+          "status": "eligible_bounded",
+          "targeted_units": 3,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:hcr-18",
+      "title": "Petition for Administrative Review / Fact Sheet 18",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-18",
+        "pdf_pages": 3,
+        "revision_marker": "FS-18 (11/2023)"
+      },
+      "translations": [
+        {
+          "id": "HCR-18",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://hcr.ny.gov/spanish-fact-sheet-18",
+          "status": "eligible_bounded",
+          "targeted_units": 3,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:hcr-18:fr",
+          "language": "French",
+          "code": "fr",
+          "url": "https://hcr.ny.gov/french-fact-sheet-18",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 2,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "11/2023",
+          "language_designation": "French",
+          "script_variety_note": null,
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        },
+        {
+          "id": "ny-lead:hcr-18:ur",
+          "language": "Urdu",
+          "code": "ur",
+          "url": "https://hcr.ny.gov/urdu-fact-sheet-18",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "11/2023",
+          "language_designation": "Urdu",
+          "script_variety_note": null,
+          "coverage_note": "Edition matched, but assigned Urdu units were not fully examined; no meaning verdict."
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:oag-nyvra",
+      "title": "New York Voting Rights Act factsheet",
+      "issuer": "Office of the New York State Attorney General",
+      "category": "fact_sheet",
+      "english": {
+        "url": "https://ag.ny.gov/sites/default/files/2025-05/nyvra-factsheet.pdf",
+        "pdf_pages": 2,
+        "revision_marker": null
+      },
+      "translations": [
+        {
+          "id": "OAG-NYVRA",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://ag.ny.gov/sites/default/files/2025-05/nyvra-factsheet-spanish.pdf",
+          "status": "conditional_local_alignment",
+          "targeted_units": 1,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:oag-nyvra:zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://ag.ny.gov/sites/default/files/2025-05/nyvra-factsheet-chinese.pdf",
+          "status": "conditional_local_alignment",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": null,
+          "language_designation": "中文 (Chinese)",
+          "script_variety_note": "Publisher designation recorded; script/variety not independently established for this pair.",
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:oag-nyvra:ar",
+          "language": "Arabic",
+          "code": "ar",
+          "url": "https://ag.ny.gov/sites/default/files/2025-08/nyvra-factsheet-arabic.pdf",
+          "status": "conditional_local_alignment",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": null,
+          "language_designation": "العربية (Arabic)",
+          "script_variety_note": null,
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:oag-language",
+      "title": "Language access in New York",
+      "issuer": "Office of the New York State Attorney General",
+      "category": "guide",
+      "english": {
+        "url": "https://ag.ny.gov/sites/default/files/2026-06/languageaccess-english.pdf",
+        "pdf_pages": 72,
+        "revision_marker": "Current as of January 2026"
+      },
+      "translations": [
+        {
+          "id": "OAG-LANGUAGE",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://ag.ny.gov/sites/default/files/2026-08/languageaccess-booklet-spanish.pdf",
+          "status": "conditional_local_alignment",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:oag-language:zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://ag.ny.gov/sites/default/files/2026-08/languageaccess-booklet-chinese.pdf",
+          "status": "located_not_verified",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": null,
+          "language_designation": "中文 (Chinese)",
+          "script_variety_note": "Publisher designation recorded; script/variety not independently established for this pair.",
+          "coverage_note": null
+        },
+        {
+          "id": "ny-lead:oag-language:ar",
+          "language": "Arabic",
+          "code": "ar",
+          "url": "https://ag.ny.gov/sites/default/files/2026-09/languageaccess-booklet-arabic.pdf",
+          "status": "conditional_local_alignment",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "Current as of January 2026",
+          "language_designation": "العربية (Arabic)",
+          "script_variety_note": null,
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "pilot",
+      "translation_directory": null
+    },
+    {
+      "id": "ny-source:r2-hcr-fs03",
+      "title": "Fact Sheet #3: Required and Essential Services",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-3",
+        "pdf_pages": 2,
+        "revision_marker": "FS-03 (11/2024)"
+      },
+      "translations": [
+        {
+          "id": "ny:launch:HCR-FS03:en-es",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://hcr.ny.gov/spanish-fact-sheet-3",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 1,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "Modificado (11/24) #3",
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": "November 2024 aligned edition; repair and IAI consent unit examined."
+        }
+      ],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs04",
+      "title": "Fact Sheet #4: Lease Renewal in Rent Stabilized Apartments",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-4",
+        "pdf_pages": 4,
+        "revision_marker": "FS-04 (04/2023)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs05",
+      "title": "Fact Sheet #5: Vacancy Leases in Rent Stabilized Apartments",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-5",
+        "pdf_pages": 3,
+        "revision_marker": "FS-05 (11/2024)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs09",
+      "title": "Fact Sheet #9: Renting an Apartment - Security Deposits and Other Charges",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-9",
+        "pdf_pages": 2,
+        "revision_marker": "FS-09 (11/2025)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs14",
+      "title": "Fact Sheet #14: Rent Reductions For Decreased Services",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-14",
+        "pdf_pages": 4,
+        "revision_marker": "FS-14 (11/2023)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs15",
+      "title": "Fact Sheet #15: Heat and Hot Water",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-15",
+        "pdf_pages": 2,
+        "revision_marker": "FS-15 (12/2022)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs16",
+      "title": "Fact Sheet #16: Collecting Overcharges in Rent Stabilized Apartments",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-16",
+        "pdf_pages": 3,
+        "revision_marker": "FS-16 (07/2025)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs20",
+      "title": "Fact Sheet #20: Special Rights of Disabled Persons",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-20",
+        "pdf_pages": 3,
+        "revision_marker": "FS-20 (09/2026)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs21",
+      "title": "Fact Sheet #21: Special Rights of Senior Citizens",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-21",
+        "pdf_pages": 3,
+        "revision_marker": "FS-21 (09/2026)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs24",
+      "title": "Fact Sheet #24: Major Capital Improvements (MCI)",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-24",
+        "pdf_pages": 9,
+        "revision_marker": "FS-24 (04/2025)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs25",
+      "title": "Fact Sheet #25: Window Guards",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-25",
+        "pdf_pages": 2,
+        "revision_marker": "FS-25 (11/2020)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs26",
+      "title": "Fact Sheet #26: Guide to Rent Increases for Rent Stabilized Apartments",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-26",
+        "pdf_pages": 5,
+        "revision_marker": "FS-26 (07/2026)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs30",
+      "title": "Fact Sheet #30: Succession Rights",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-30",
+        "pdf_pages": 3,
+        "revision_marker": "FS-30 (11/2023)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs32",
+      "title": "Fact Sheet #32: Eviction",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-32",
+        "pdf_pages": 3,
+        "revision_marker": "FS-32 (01/2024)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs34",
+      "title": "Fact Sheet #34: Expedited Proceedings",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-34",
+        "pdf_pages": 1,
+        "revision_marker": "FS-34 (06/2019)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs40",
+      "title": "Fact Sheet #40: Preferential Rents",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-40",
+        "pdf_pages": 3,
+        "revision_marker": "FS-40 (05/2024)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs44",
+      "title": "Fact Sheet #44: Fees",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-44",
+        "pdf_pages": 3,
+        "revision_marker": "FS-44 (12/2022)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-hcr-fs45",
+      "title": "Fact Sheet #45: Housing Rights of Foreign-Born Tenants (for Building Owners)",
+      "issuer": "New York State Homes and Community Renewal",
+      "category": "agency_fact_sheet",
+      "english": {
+        "url": "https://hcr.ny.gov/fact-sheet-45",
+        "pdf_pages": 3,
+        "revision_marker": "FS-45 (2/2025)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+    },
+    {
+      "id": "ny-source:r2-wcb-a9",
+      "title": "A-9 notice of possible responsibility for medical costs",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "board_form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/a9.pdf",
+        "pdf_pages": 1,
+        "revision_marker": "A-9 (11-21)"
+      },
+      "translations": [
+        {
+          "id": "ny:round2:R2-WCB-A9:en-zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.wcb.ny.gov/content/main/forms/A9_C.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 3,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "A-9 (11-21)",
+          "language_designation": "中文 (publisher index)",
+          "script_variety_note": "Predominantly traditional-form Han observed; regional variety not designated.",
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        }
+      ],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+    },
+    {
+      "id": "ny-source:r2-wcb-aff1",
+      "title": "AFF-1 affirmation for death benefits",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "board_form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/AFF-1.pdf",
+        "pdf_pages": 11,
+        "revision_marker": "AFF-1 (1-24)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+    },
+    {
+      "id": "ny-source:r2-wcb-c33",
+      "title": "C-3.3 limited release of health information",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "board_form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/c3_3.pdf",
+        "pdf_pages": 1,
+        "revision_marker": "C-3.3 (12/09)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+    },
+    {
+      "id": "ny-source:r2-wcb-c257",
+      "title": "C-257 medical and travel expense reimbursement record",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "board_form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/c257.pdf",
+        "pdf_pages": 2,
+        "revision_marker": "C-257 (11/21)"
+      },
+      "translations": [
+        {
+          "id": "ny:round2:R2-WCB-C257:en-zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C-257_C.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 2,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "C-257 (11-21)",
+          "language_designation": "中文 (publisher index)",
+          "script_variety_note": "Publisher designation recorded; script/variety not independently established for this pair.",
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        },
+        {
+          "id": "ny:launch:WCB-C257:en-pl",
+          "language": "Polish",
+          "code": "pl",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C-257_P.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 1,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "C-257 (11-21)",
+          "language_designation": "Polish",
+          "script_variety_note": null,
+          "coverage_note": "Aligned 11-21 edition; reimbursement receipt/travel unit examined; one lexical lead uncertain."
+        }
+      ],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+    },
+    {
+      "id": "ny-source:r2-wcb-c32",
+      "title": "C-32 Section 32 waiver agreement",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "board_form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/c32.pdf",
+        "pdf_pages": 4,
+        "revision_marker": "C-32 (8-25)"
+      },
+      "translations": [
+        {
+          "id": "ny:round2:R2-WCB-C32:en-zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.wcb.ny.gov/content/main/forms/C-32_C.pdf",
+          "status": "excluded_edition_mismatch",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": "C-32 (3-25)",
+          "language_designation": "中文 (publisher index)",
+          "script_variety_note": "Script and regional variety not established; current English is a different edition.",
+          "coverage_note": "English C-32 (8-25) versus Chinese C-32 (3-25); excluded from meaning comparison."
+        }
+      ],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+    },
+    {
+      "id": "ny-source:r2-wcb-rb893",
+      "title": "RB-89.3 rebuttal of full-board review application",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "board_form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/rb89_3.pdf",
+        "pdf_pages": 4,
+        "revision_marker": "RB-89.3 (5/26)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+    },
+    {
+      "id": "ny-source:r2-wcb-c258",
+      "title": "C-258 job-search efforts record",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "board_form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/c258.pdf",
+        "pdf_pages": 2,
+        "revision_marker": "C-258 (5-19)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+    },
+    {
+      "id": "ny-source:r2-wcb-rb89",
+      "title": "RB-89 application for Board review",
+      "issuer": "New York State Workers' Compensation Board",
+      "category": "board_form",
+      "english": {
+        "url": "https://www.wcb.ny.gov/content/main/forms/rb89.pdf",
+        "pdf_pages": 4,
+        "revision_marker": "RB-89 (4-24)"
+      },
+      "translations": [
+        {
+          "id": "ny:round2:R2-WCB-RB89:en-zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://www.wcb.ny.gov/content/main/forms/rb89_C.pdf",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 3,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "RB-89 (4-24)",
+          "language_designation": "中文 (publisher index)",
+          "script_variety_note": "Mixed script forms observed; regional variety not designated.",
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        }
+      ],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+    },
+    {
+      "id": "ny-source:r2-dol-p741",
+      "title": "Language Services at NYSDOL fact sheet and complaint form",
+      "issuer": "New York State Department of Labor",
+      "category": "fact_sheet_or_required_notice",
+      "english": {
+        "url": "https://dol.ny.gov/language-services-nysdol-p741-english",
+        "pdf_pages": 2,
+        "revision_marker": null
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://dol.ny.gov/nys-dol-language-services"
+    },
+    {
+      "id": "ny-source:r2-dol-p700",
+      "title": "General Minimum Wage fact sheet",
+      "issuer": "New York State Department of Labor",
+      "category": "fact_sheet_or_required_notice",
+      "english": {
+        "url": "https://dol.ny.gov/fact-sheet-general-minimum-wage-p700",
+        "pdf_pages": 1,
+        "revision_marker": "P700 (12/25)"
+      },
+      "translations": [
+        {
+          "id": "ny:round2:R2-DOL-P700:en-es",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://dol.ny.gov/p700s-spanish",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 3,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "P700 (12/25)",
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": "Second-round targeted units; no full-document examination."
+        },
+        {
+          "id": "ny:launch:DOL-P700:en-zh",
+          "language": "Chinese",
+          "code": "zh",
+          "url": "https://dol.ny.gov/fact-sheet-general-minimum-wage-chinese-p700c",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 1,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "P700 (12/25)",
+          "language_designation": "Chinese",
+          "script_variety_note": "Simplified-form characters observed; regional variety not designated.",
+          "coverage_note": "Aligned 12/25 edition; 2026 wage-rate unit examined."
+        }
+      ],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://dol.ny.gov/minimum-wage"
+    },
+    {
+      "id": "ny-source:r2-dol-ia999",
+      "title": "Construction Industry Fair Play Act notice",
+      "issuer": "New York State Department of Labor",
+      "category": "fact_sheet_or_required_notice",
+      "english": {
+        "url": "https://forms.labor.ny.gov/UI/IA999.pdf",
+        "pdf_pages": 1,
+        "revision_marker": "IA 999 (12/25)"
+      },
+      "translations": [],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://dol.ny.gov/IA999-doc"
+    },
+    {
+      "id": "ny-source:r2-oag-goodcause",
+      "title": "New York State Good Cause Eviction Law: What you should know",
+      "issuer": "Office of the New York State Attorney General",
+      "category": "public_guidance_booklet",
+      "english": {
+        "url": "https://ag.ny.gov/sites/default/files/2026-03/goodcause-eviction-english.pdf",
+        "pdf_pages": 14,
+        "revision_marker": null
+      },
+      "translations": [
+        {
+          "id": "ny:round2:R2-OAG-GOODCAUSE:en-es",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://ag.ny.gov/sites/default/files/2026-03/goodcause-eviction-spanish.pdf",
+          "status": "english_opened_target_opened_edition_pending",
+          "targeted_units": 0,
+          "valid_targeted_comparison": false,
+          "target_edition_marker": null,
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": null
+        }
+      ],
+      "research_stage": "round2_english_inventory",
+      "translation_directory": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+    }
+  ],
+  "findings": [
+    {
+      "id": "NY-WCB-C3-ES-FEE-SOURCE",
+      "publication_status": "approved_supported",
+      "approval_date": "2026-10-26",
+      "comparison_id": "NY-WCB-C3",
+      "document_id": "ny-source:ny-wcb-c3",
+      "title": "Representative fee described as additional to compensation",
+      "language": "Spanish",
+      "language_code": "es",
+      "language_designation": "Spanish",
+      "original_quote": {
+        "text": "out of any compensation benefits due",
+        "lang": "en",
+        "anchor": "C-3.0 (6-22), PDF page 4, Your Rights, point 6",
+        "url": "https://www.wcb.ny.gov/content/main/forms/c3.pdf"
+      },
+      "translated_quote": {
+        "text": "además de los beneficios de compensación pagaderos",
+        "lang": "es",
+        "anchor": "C-3.0 (6-22), PDF page 4, Sus derechos, point 6",
+        "url": "https://www.wcb.ny.gov/content/main/forms/C3_S.pdf",
+        "dir": "ltr"
+      },
+      "faithful_english": "in addition to the compensation benefits payable",
+      "difference": "The English says the approved representative fee comes out of benefits due; the Spanish describes the fee as in addition to payable benefits. Both say the employer or insurer remits an approved fee and the worker should not pay the representative directly.",
+      "significance": "Major",
+      "confidence": "Moderate translation confidence; low confidence in any legal-effect change",
+      "same_facts_example": "Illustration only: on a $10,000 award with a $1,500 approved fee, the English wording describes $8,500 remaining after deduction. A literal Spanish reading can suggest the worker retains $10,000 while the carrier separately pays $1,500. This is not a statutory fee calculation for a particular claim.",
+      "counterargument": "Both forms identify the employer or insurer as remitter, so the Spanish could describe a separate remittance rather than a separate economic source.",
+      "response": "The ordinary meaning of además de is in addition to, whereas out of identifies the award as the source. Current Board representation guidance says the fee is deducted from the award.",
+      "potential_consequence": "A claimant reading only Spanish could form a materially inaccurate expectation of the net award. The form cannot itself alter the governing fee rule.",
+      "documented_consequence": "No actual changed payment, claimant reliance, dispute, or translation-caused harm was established in the bounded official-source search.",
+      "independent_review": "Independent reviewer checked matched official four-page 6-22 PDFs, saved SHA-256 captures, rendered PDF page 4 images, aligned context, Board guidance, and a bounded official case-law search.",
+      "authority_note": "WCB claimant representation guidance says approved fees are deducted from awards. The 2026 Gonzalez decision describes the fee as a lien on the award; it did not decide a translation dispute.",
+      "authorities": [
+        {
+          "label": "WCB representation guidance",
+          "url": "https://www.wcb.ny.gov/content/main/Reps/findRep.jsp"
+        },
+        {
+          "label": "WCB 2023 §24 implementation notice",
+          "url": "https://apps.wcb.ny.gov/content/main/SubjectNos/sn046_1572.jsp"
+        },
+        {
+          "label": "Gonzalez v State of New York, 2026",
+          "url": "https://www.nycourts.gov/reporter/3dseries/2026/2026_01443.htm"
+        }
+      ],
+      "case_law_status": "Bounded official-court search found no decision on Spanish C-3 wording or claimant reliance; Gonzalez concerns fee calculation, not translation.",
+      "coverage_note": "One aligned rights-instruction meaning unit within a four-page form; the project has not certified full-form review.",
+      "current_relevance": "The WCB forms index still linked both C-3.0 (6-22) editions when rechecked on 26 October 2026; the 2023 fee schedule affects any real-case calculation.",
+      "captured_source_sha256": {
+        "english": "facfc29ace5d31a2d4b35a09e695cdd14fa79df9c920fc8ae6d0c248163f5b17",
+        "target": "def40219674d53e3ca3ad0e5325ec88abff84e4d40f6e7a58666349a47b04e79"
+      }
+    },
+    {
+      "id": "NY-HCR-FS18-ES-LABEL",
+      "publication_status": "approved_supported",
+      "approval_date": "2026-10-26",
+      "comparison_id": "HCR-18",
+      "document_id": "ny-source:hcr-18",
+      "title": "Mailing label rendered as an envelope",
+      "language": "Spanish",
+      "language_code": "es",
+      "language_designation": "Spanish",
+      "original_quote": {
+        "text": "a self-sticking 4” wide and 1” high mailing label",
+        "lang": "en",
+        "anchor": "Fact Sheet #18 (11/2023), PDF page 1, Filing Requirements",
+        "url": "https://hcr.ny.gov/fact-sheet-18"
+      },
+      "translated_quote": {
+        "text": "un sobre postal con adhesivo, de 4 pulgadas de ancho por 1 pulgada de alto",
+        "lang": "es",
+        "anchor": "Fact Sheet #18, Modificado (11/2023), PDF page 1, Requisitos de presentación",
+        "url": "https://hcr.ny.gov/spanish-fact-sheet-18",
+        "dir": "ltr"
+      },
+      "faithful_english": "an adhesive mailing envelope, 4 inches wide by 1 inch high",
+      "difference": "For an owner filing a Petition for Administrative Review affecting multiple tenants, English requests an addressed adhesive mailing label; Spanish requests an adhesive mailing envelope of the same dimensions.",
+      "significance": "Limited",
+      "confidence": "High confidence in the noun contrast; context may help readers infer the intended label",
+      "same_facts_example": "An owner preparing an otherwise complete multi-tenant appeal follows the Spanish sentence and supplies addressed envelopes rather than the 4-by-1-inch labels specified in the English fact sheet and RAR-2 instructions.",
+      "counterargument": "An envelope only one inch high is physically unusual, so the stated dimensions and address context may tell a careful reader that a label was intended.",
+      "response": "Sobre postal ordinarily means envelope, not label; the Spanish paragraph does not use etiqueta. The operative RAR-2 instructions confirm labels are requested.",
+      "potential_consequence": "Wrong stationery may trigger a correction request or delay service. The reviewed rules do not show that this specific error automatically forfeits an appeal.",
+      "documented_consequence": "No actual rejection, missed deadline, reliance, or translation-caused harm was established in the bounded official-source search.",
+      "independent_review": "Independent reviewer checked matching November 2023 three-page official PDFs, saved SHA-256 captures, rendered PDF page 1 images, RAR-2 instructions, bulletin 90-1r, and the sheet’s procedural-correction paragraph.",
+      "authority_note": "HCR says these English-origin translations are guidance that does not replace English originals. RAR-2 and Operational Bulletin 90-1r require labels for multi-tenant PARs; the fact sheet describes a correction route for procedural defects.",
+      "authorities": [
+        {
+          "label": "RAR-2 form and instructions",
+          "url": "https://hcr.ny.gov/form-rar-2"
+        },
+        {
+          "label": "Operational Bulletin 90-1r",
+          "url": "https://hcr.ny.gov/operational-bulletin-90-1-requiring-owners-submit-sufficient-copies-designated-applications-dhcr"
+        },
+        {
+          "label": "HCR translation disclaimer",
+          "url": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+        }
+      ],
+      "case_law_status": "Bounded official-source search found no decision tying this Spanish wording to loss of a PAR.",
+      "coverage_note": "One aligned filing-requirements meaning unit within a three-page fact sheet; the project has not certified full-sheet review.",
+      "current_relevance": "HCR’s translation directory still linked both November 2023 editions when rechecked on 26 October 2026.",
+      "captured_source_sha256": {
+        "english": "643ee7f912f346dc537d521a6ad87cf3ec77c241e8ac387b36842d1c282f0594",
+        "target": "82c1b96ebeb118521b230761705cd64f033f3254a8aa8d509bd014b64034dcf6"
+      }
+    }
+  ]
+}

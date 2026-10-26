@@ -1,0 +1,3 @@
+export default function Legislation() {
+  return <main className="container main"><div className="page-heading"><div className="eyebrow">Model B</div><h1>Enacted legislation</h1><p>This part of the project is at source-feasibility stage. No enacted New York Act has been screened in this round.</p></div><div className="empty-state"><h2>No legislative comparison yet</h2><p>Government guidance, forms, and notices in Model A are kept separate from enacted legislation. A bilingual law would first need confirmed official source identity, comparable editions, and authority assessment.</p></div></main>;
+}
