@@ -1,0 +1,22 @@
+# Initial publication check — 30 October 2026
+
+The user's 30 October instruction prompted this final source check and publication preparation. Live replacement remains subject to explicit approval. This check updates, rather than erases, the [29 October review record](publication-check-2026-10-29.md) and the earlier [independent challenge](review.md). Two findings meet the project's source, legal, confidence, and independent-review gates; the remaining leads do not become published findings.
+
+## Current-source results
+
+| Finding | Current agency claim | Governing source and assessment |
+| --- | --- | --- |
+| Special COVID quarantine leave | The [DOL FARE page](https://dol.ny.gov/nys-hero-act-and-covid-19-regulations-fare-grant) still says COVID leave benefits and protections have no expiration date and links quarantine-specific fact sheets. | Final Part M of signed [L. 2024, ch. 56](https://www.nysenate.gov/legislation/bills/2023/A8806/amendment/C) ended the special 2020 quarantine law on 31 July 2025. The [Workers' Compensation Board](https://apps.wcb.ny.gov/covid-19/information-employers-payers.jsp) confirms expiration; ordinary [Labor Law § 196-b](https://www.nysenate.gov/legislation/laws/LAB/196-B) survives separately. High-confidence material conflict with major *potential* significance. |
+| Unemployment hearing request | The [DOL contact page](https://dol.ny.gov/unemployment-insurance-contact) still says a written request **must be received** within 30 days and then gives a mailing address. | The [Appeal Board-posted 12 NYCRR § 461.1(a)](https://uiappeals.ny.gov/appeal-board-rules-0) says a timely postmark within 30 days of the party's receipt of the determination suffices, subject to its proof and filing rules. The Board applied the receipt calculation in [decision 640066, mailed 7 May 2026](https://uiappeals.ny.gov/system/files/documents/2026/05/640066-appeal-decision.pdf). [Labor Law § 620(1)(a)](https://www.nysenate.gov/legislation/laws/LAB/620) supplies the statutory frame. High-confidence material conflict with major *potential* significance. |
+
+The [DOL Top FAQ](https://dol.ny.gov/unemployment-insurance-top-frequently-asked-questions) still gives a categorical notice-date trigger. It is recorded in the same hearing-deadline cluster, not counted as a second finding. The [DOL Hearing Process FAQ](https://dol.ny.gov/hearing-process-frequently-asked-questions) gives more complete guidance. No actual worker reliance, lost benefit, missed hearing, or agency correction has been verified.
+
+## Rule currency limit
+
+The New York Department of State says its [official NYCRR is a printed compilation](https://dos.ny.gov/rules-and-regulations). The freely accessible [online compilation](https://govt.westlaw.com/nycrr/Document/I59d7829bc22411dd9a32ea0b9ef507a5?contextData=%28sc.Default%29&originationContext=documenttoc&transitionType=CategoryPageItem&viewType=FullText) is expressly unofficial and indicates the last produced official supplement covering this rule section was in 2022. We could not directly inspect the latest printed supplement; the online page also challenged direct browser access. Targeted searches did not locate a later conflicting adoption, but this was not an exhaustive State Register audit. The Appeal Board still publishes the text, and its May 2026 decision applies the receipt calculation. The hearing case presents the printed-source limit and does not adjudicate whether the regulation is valid against the statute.
+
+## Preserved evidence and coverage
+
+Ten official source responses/PDFs and two browser screenshots were captured on 30 October. Their filenames and SHA-256 hashes are in [the dated manifest](evidence/manifest-2026-10-30.sha256). The DOL claim HTML and Board rule PDF are byte-identical to the 29 October copies; the Senate and statutory page responses changed at the byte level without changing the operative passages used here. The public projection links the dated screenshots and hashes of the two lead DOL pages. Both pages were visually inspected.
+
+The underlying sweeps remain partial: 13 government publications had relevant portions screened, 24 individual claim records were assessed, and no whole document was certified fully screened. The two approved cases are bounded claim-level findings. Later research or new legal information may require correction or withdrawal with a recorded change history.

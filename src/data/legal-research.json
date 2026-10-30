@@ -1,0 +1,1108 @@
+{
+  "as_of": "2026-10-30",
+  "stage": "Initial published research",
+  "notice": "Two bounded issue sweeps produced two independently reviewed, high-confidence findings. Coverage remains partial; each case states its legal qualifications and evidence limits.",
+  "issues": [
+    {
+      "id": "paid-sick-leave",
+      "title": "Paid sick leave and expired COVID-19 quarantine leave",
+      "summary": "Current explanations of ordinary paid sick leave and the separate COVID quarantine-leave sunset.",
+      "scope": "New York State agency guidance relevant to private-sector paid sick leave; selected NYC point only where the Attorney General discusses it.",
+      "legal_questions": [
+        "What leave must private employers provide under Labor Law 196-b, including amount, accrual, use, documentation, carryover, and paid prenatal leave?",
+        "Do currently accessible New York State agency pages accurately explain whether the separate COVID-19 quarantine leave enacted in 2020 remains available after its July 31, 2025 statutory sunset?",
+        "Where a state agency describes New York City sick leave, is that description consistent with the city's binding rule?"
+      ],
+      "agency_ids": [
+        "ny-dol",
+        "ny-ag"
+      ],
+      "status": "Initial finding approved after independent and 30 October source checks",
+      "limitations": "The lead agency page and governing sources were recaptured on 30 October 2026. Remaining documents are only partially screened. The 2022 FAQ is still linked but visibly older. The 68-page P737 compendium has not been fully reviewed. No actual worker harm was found.",
+      "claims_identified_topic_level": 63,
+      "claims_screened_topic_level": 28
+    },
+    {
+      "id": "unemployment-hearings",
+      "title": "New York unemployment insurance hearing and appeal deadlines",
+      "summary": "Hearing-request and appeal deadlines in current unemployment insurance guidance.",
+      "scope": "Bounded initial issue sweep of current NYSDOL public pages on claimant hearing requests, appeal deadlines, and selected benefit guidance. This is a targeted claim screen, not a full-document screen or exhaustive audit.",
+      "legal_questions": [
+        "For a claimant disputing an initial unemployment insurance determination, does a mailed hearing request have to reach NYSDOL within 30 days, or does a timely postmark suffice?",
+        "What is the deadline for an appeal from an administrative law judge to the Unemployment Insurance Appeal Board?",
+        "Do currently displayed benefit summaries use day-of-work eligibility language that may misstate current partial-benefit rules?"
+      ],
+      "agency_ids": [
+        "ny-dol"
+      ],
+      "status": "Initial finding approved after independent and 30 October source checks",
+      "limitations": "Only selected page sections and claims have been checked. The Appeal Board still posts the rule and applied its receipt calculation in a May 2026 decision; its latest official printed NYCRR supplement was not available for direct inspection. No actual lost appeal was found.",
+      "claims_identified_topic_level": 8,
+      "claims_screened_topic_level": 8
+    }
+  ],
+  "agencies": [
+    {
+      "id": "ny-dol",
+      "name": "New York State Department of Labor",
+      "jurisdiction": "New York State",
+      "url": "https://dol.ny.gov/"
+    },
+    {
+      "id": "ny-ag",
+      "name": "Office of the New York State Attorney General",
+      "jurisdiction": "New York State",
+      "url": "https://ag.ny.gov/"
+    }
+  ],
+  "sources": [
+    {
+      "id": "psl:DOL-FARE-COVID",
+      "issue_id": "paid-sick-leave",
+      "agency_id": "ny-dol",
+      "title": "NYS HERO Act and COVID-19 Regulations (FARE Grant)",
+      "url": "https://dol.ny.gov/nys-hero-act-and-covid-19-regulations-fare-grant",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "psl:PSL-COVID-001",
+        "psl:PSL-COVID-002"
+      ],
+      "screen_note": "complete relevant COVID-leave paragraph; entire short webpage read",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/psl-covid-dol-fare-2026-10-30.raw.html",
+        "sha256": "6169ad193b897b9a6dcec7586a303dd8a8f66be5445cfede0c72f8dc98420c2b",
+        "captured_at": "2026-10-30",
+        "kind": "raw official HTTP response HTML",
+        "image": "psl-covid-dol-fare-2026-10-30.png",
+        "image_sha256": "12872a95e88da10847d4700eec781cccd7a2c83bb6004edc15d11d1ec3990956"
+      }
+    },
+    {
+      "id": "psl:DOL-HERO",
+      "issue_id": "paid-sick-leave",
+      "agency_id": "ny-dol",
+      "title": "NY HERO Act: Health & Safety Precautions for Worksites",
+      "url": "https://dol.ny.gov/ny-hero-act",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "psl:PSL-COVID-003"
+      ],
+      "screen_note": "COVID-regulations overview only; remainder outside issue scope",
+      "capture": null
+    },
+    {
+      "id": "psl:NY-PSL-LANDING",
+      "issue_id": "paid-sick-leave",
+      "agency_id": "ny-dol",
+      "title": "Paid Sick Leave Eligibility and Information",
+      "url": "https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "psl:PSL-BASE-001",
+        "psl:PSL-BASE-002",
+        "psl:PSL-BASE-003",
+        "psl:PSL-BASE-004"
+      ],
+      "screen_note": "amount, accrual, eligibility, permitted uses, documentation, carryover, recordkeeping screened at topic level; policy/CBA nuances sampled",
+      "capture": null
+    },
+    {
+      "id": "psl:NY-PSL-FAQ-2022",
+      "issue_id": "paid-sick-leave",
+      "agency_id": "ny-dol",
+      "title": "New York State Paid Sick Leave FAQ",
+      "url": "https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf",
+      "language": "en",
+      "publication_date": "2022-02 edition marker; exact issuance date not established",
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Residual",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "psl:PSL-COVID-004",
+        "psl:PSL-BASE-007",
+        "psl:PSL-BASE-008",
+        "psl:PSL-BASE-009",
+        "psl:PSL-BASE-010"
+      ],
+      "screen_note": "all 7 pages text-layer scanned for issue leads; nine specific legal claims checked, remaining FAQs not individually verified",
+      "capture": null
+    },
+    {
+      "id": "psl:DOL-WAGES-FAQ",
+      "issue_id": "paid-sick-leave",
+      "agency_id": "ny-dol",
+      "title": "Wages and Hours Frequently Asked Questions",
+      "url": "https://dol.ny.gov/node/6461",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "psl:PSL-BASE-005"
+      ],
+      "screen_note": "complete paid-sick-leave answer only; other wage topics outside scope",
+      "capture": null
+    },
+    {
+      "id": "psl:AG-LEAVE",
+      "issue_id": "paid-sick-leave",
+      "agency_id": "ny-ag",
+      "title": "Family, medical, and other types of leave",
+      "url": "https://ag.ny.gov/resources/individuals/workers-rights/benefits-and-leave",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "psl:PSL-BASE-006"
+      ],
+      "screen_note": "state sick leave, NYC documentation, and small-employer threshold checked; other FMLA/PFL sections outside this issue",
+      "capture": null
+    },
+    {
+      "id": "psl:DOL-P737-2026",
+      "issue_id": "paid-sick-leave",
+      "agency_id": "ny-dol",
+      "title": "P737 Employment Laws/Labor Standards FAQ",
+      "url": "https://dol.ny.gov/system/files/documents/2026/03/p737-2-26.pdf",
+      "language": "en",
+      "publication_date": "2026 edition; exact posting date not established",
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "psl:PSL-BASE-011",
+        "psl:PSL-BASE-012"
+      ],
+      "screen_note": "paid-sick-leave FAQ segment around PDF pp. 52-58; 68-page compendium not fully screened",
+      "capture": null
+    },
+    {
+      "id": "ui:DOL-UI-CONTACT",
+      "issue_id": "unemployment-hearings",
+      "agency_id": "ny-dol",
+      "title": "Unemployment Insurance Contact",
+      "url": "https://dol.ny.gov/unemployment-insurance-contact",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "ui:UI-01"
+      ],
+      "screen_note": "relevant section read; full document not certified",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/ui-hearing-dol-contact-2026-10-30.raw.html",
+        "sha256": "86c0149221707427ca8e1b0d1c0b611a2dc04b3b22a01e042c4870c406447a56",
+        "captured_at": "2026-10-30",
+        "kind": "raw official HTTP response HTML",
+        "image": "ui-hearing-dol-contact-2026-10-30.png",
+        "image_sha256": "3c4ac53cca65bab36e3fb25aa49b986151959dc5e6954408f9cbe1a3492e7566"
+      }
+    },
+    {
+      "id": "ui:DOL-UI-TOP-FAQ",
+      "issue_id": "unemployment-hearings",
+      "agency_id": "ny-dol",
+      "title": "Unemployment Insurance Top Frequently Asked Questions",
+      "url": "https://dol.ny.gov/unemployment-insurance-top-frequently-asked-questions",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "ui:UI-02"
+      ],
+      "screen_note": "hearing question 15 read; full document not certified",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/ui-hearing-dol-top-faq-2026-10-30.raw.html",
+        "sha256": "24e8470d3b01e5899c93aac54d5f99d403a6b3f5f7605498b90947f4733d06f9",
+        "captured_at": "2026-10-30",
+        "kind": "raw official HTTP response HTML",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "ui:DOL-HEARING-FAQ",
+      "issue_id": "unemployment-hearings",
+      "agency_id": "ny-dol",
+      "title": "The Hearing Process Frequently Asked Questions",
+      "url": "https://dol.ny.gov/hearing-process-frequently-asked-questions",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "ui:UI-03",
+        "ui:UI-04"
+      ],
+      "screen_note": "hearing-request and ALJ-appeal questions read; full document not certified",
+      "capture": null
+    },
+    {
+      "id": "ui:DOL-BENEFIT-PROCESS",
+      "issue_id": "unemployment-hearings",
+      "agency_id": "ny-dol",
+      "title": "The Unemployment Claimant Benefit Process",
+      "url": "https://dol.ny.gov/unemployment-claimant-benefit-process-0",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "ui:UI-05",
+        "ui:UI-06"
+      ],
+      "screen_note": "overview and hearings subsection read; full document not certified",
+      "capture": null
+    },
+    {
+      "id": "ui:DOL-EMPLOYER-GLOSSARY",
+      "issue_id": "unemployment-hearings",
+      "agency_id": "ny-dol",
+      "title": "Glossary of Unemployment Terms for Employers",
+      "url": "https://dol.ny.gov/glossary-unemployment-terms-employers",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "ui:UI-07"
+      ],
+      "screen_note": "selected definitions read; full document not certified",
+      "capture": null
+    },
+    {
+      "id": "ui:DOL-PARTIAL-ELIGIBILITY",
+      "issue_id": "unemployment-hearings",
+      "agency_id": "ny-dol",
+      "title": "Partial Unemployment Eligibility",
+      "url": "https://dol.ny.gov/unemployment/partial-unemployment-eligibility",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-26",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "ui:UI-08"
+      ],
+      "screen_note": "overview and hours chart read; full document not certified",
+      "capture": null
+    }
+  ],
+  "rules": [
+    {
+      "id": "psl:LAB-196B",
+      "issue_id": "paid-sick-leave",
+      "citation": "N.Y. Labor Law § 196-b(1), (3)-(13)",
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/196-B",
+      "text": "For covered private employees, provides the size/income tiers, at least one hour accrued per 30 hours worked, enumerated sick/safe uses, 20 hours separate paid prenatal leave from January 1, 2025, limits on verification/disclosure, carryover with annual use caps, protection against retaliation, and records on request. The ordinary sick-leave entitlement remains in force after the separate COVID quarantine statute expired.",
+      "exact_text": "Every employer shall be required to provide its employees with sick leave as follows:",
+      "effective_date": "Ordinary sick-leave accrual began 2020-09-30 and use began 2021-01-01; paid prenatal provision effective 2025-01-01.",
+      "applicability": "Employee works in New York for a private employer. Unpaid versus paid leave depends on employer headcount and previous-tax-year net income. Existing equivalent policies and qualifying collective bargaining agreements may satisfy or vary § 196-b requirements; NYC may enforce stronger local rules.",
+      "qualifications": "Employee works in New York for a private employer. Unpaid versus paid leave depends on employer headcount and previous-tax-year net income. Existing equivalent policies and qualifying collective bargaining agreements may satisfy or vary § 196-b requirements; NYC may enforce stronger local rules.",
+      "corroboration": []
+    },
+    {
+      "id": "psl:COVID-SUNSET",
+      "issue_id": "paid-sick-leave",
+      "citation": "L. 2024, ch. 56, Part M, § 1 (amending L. 2020, ch. 25, § 2)",
+      "url": "https://www.nysenate.gov/legislation/bills/2023/A8806/amendment/C",
+      "text": "The special 2020 COVID-19 mandatory/precautionary quarantine or isolation leave law was made to expire and be deemed repealed July 31, 2025. The Senate's A8806C page records the final bill as signed chapter 56 on April 20, 2024; final Part M appears at page text lines 14862-14872.",
+      "exact_text": "shall expire and be deemed repealed July 31, 2025",
+      "effective_date": "2025-07-31 sunset",
+      "applicability": "Addresses only the special COVID quarantine/isolation leave and associated benefits under the 2020 act. It does not repeal ordinary sick leave under Labor Law § 196-b, other existing protections, or necessarily resolve claims that arose before sunset.",
+      "qualifications": "Addresses only the special COVID quarantine/isolation leave and associated benefits under the 2020 act. It does not repeal ordinary sick leave under Labor Law § 196-b, other existing protections, or necessarily resolve claims that arose before sunset.",
+      "corroboration": [
+        {
+          "label": "Current Workers' Compensation Board confirmation",
+          "url": "https://apps.wcb.ny.gov/covid-19/information-employers-payers.jsp"
+        }
+      ]
+    },
+    {
+      "id": "psl:NYCRR-196-1-3",
+      "issue_id": "paid-sick-leave",
+      "citation": "12 NYCRR § 196-1.3(a)-(d)",
+      "url": "https://dos.ny.gov/system/files/documents/2021/12/122221.pdf",
+      "text": "Ordinary sick-leave verification may not be required for an absence shorter than three consecutive previously scheduled workdays/shifts. At three or more such days, permitted documentation is narrowly limited; no confidential reason or employee-paid verification costs.",
+      "exact_text": null,
+      "effective_date": null,
+      "applicability": "NYC's local law has a distinct, more protective threshold for its own protected time-off entitlement.",
+      "qualifications": "NYC's local law has a distinct, more protective threshold for its own protected time-off entitlement.",
+      "corroboration": []
+    },
+    {
+      "id": "psl:NYC-20-914",
+      "issue_id": "paid-sick-leave",
+      "citation": "N.Y.C. Admin. Code § 20-914(a)(2), (b)(2)",
+      "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-202162",
+      "text": "For NYC protected time off, the employer may require reasonable documentation only after more than three consecutive workdays, subject to policy and reimbursement requirements. This is distinct from the state regulation's three-or-more scheduled-day threshold.",
+      "exact_text": null,
+      "effective_date": null,
+      "applicability": "Only NYC covered employment; included because the NY Attorney General expressly discusses NYC.",
+      "qualifications": "Only NYC covered employment; included because the NY Attorney General expressly discusses NYC.",
+      "corroboration": []
+    },
+    {
+      "id": "ui:LAB-620-1a",
+      "issue_id": "unemployment-hearings",
+      "citation": "N.Y. Labor Law § 620(1)(a)",
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/620",
+      "text": "A claimant dissatisfied with an initial determination may request a hearing within thirty days after mailing or personal delivery of notice. A referee may extend the period where physical condition or mental incapacity prevented the claimant from filing within thirty days.",
+      "exact_text": "within thirty days after the mailing or personal delivery of notice of such determination, request a hearing",
+      "effective_date": "Current statutory text rechecked 2026-10-30; latest revision date shown by NY Senate: 2014-09-22.",
+      "applicability": "§ 620(1)(a)",
+      "qualifications": "Check party, notice, filing method, and any statutory exception.",
+      "corroboration": []
+    },
+    {
+      "id": "ui:NYCRR-461-1a",
+      "issue_id": "unemployment-hearings",
+      "citation": "12 NYCRR § 461.1(a)",
+      "url": "https://uiappeals.ny.gov/appeal-board-rules-0",
+      "text": "A hearing request is timely if postmarked within 30 days of the party's receipt of the determination, or if there is specified other proof of submission, including electronic submission, fax acknowledgment, certified mailing receipt, stamped receipt, or neutral-party proof of personal service. Absent contrary proof, determination is deemed mailed on date stated and received no later than five business days later.",
+      "exact_text": "A request for a hearing shall be timely if it is postmarked within 30 days of the party's receipt of the determination",
+      "effective_date": "Exact amendment effective date not established; Appeal Board-hosted rule and a May 2026 Board application rechecked 2026-10-30.",
+      "applicability": "PDF page 8 (zero-index page 7), section 461.1(a)",
+      "qualifications": "The Appeal Board still posts this rule and applied its receipt calculation in a May 2026 decision. The latest official printed NYCRR supplement was not available for direct inspection. A targeted search found no later conflicting adoption; this is not an exhaustive State Register audit. Confirm the party, notice, filing method, and any applicable exception.",
+      "corroboration": [
+        {
+          "label": "Appeal Board decision 640066 (May 2026)",
+          "url": "https://uiappeals.ny.gov/system/files/documents/2026/05/640066-appeal-decision.pdf"
+        },
+        {
+          "label": "DOL hearing process FAQ",
+          "url": "https://dol.ny.gov/hearing-process-frequently-asked-questions"
+        }
+      ]
+    },
+    {
+      "id": "ui:LAB-621-1",
+      "issue_id": "unemployment-hearings",
+      "citation": "N.Y. Labor Law § 621(1)",
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/621",
+      "text": "Appeal from the referee/administrative law judge decision to the Appeal Board within twenty days after mailing or personal delivery of notice; statutory party-specific qualifications apply.",
+      "exact_text": null,
+      "effective_date": "Current statutory text checked 2026-10-26; latest revision date shown by NY Senate: 2014-09-22.",
+      "applicability": "§ 621(1)",
+      "qualifications": "Check party, notice, filing method, and any statutory exception.",
+      "corroboration": []
+    },
+    {
+      "id": "ui:NYCRR-463-1b",
+      "issue_id": "unemployment-hearings",
+      "citation": "12 NYCRR § 463.1(b)",
+      "url": "https://uiappeals.ny.gov/appeal-board-rules-0",
+      "text": "A claimant's Appeal Board notice of appeal must be postmarked or faxed within 20 days after mailing or personal delivery of the ALJ decision.",
+      "exact_text": null,
+      "effective_date": "Exact amendment effective date not established; current Appeal Board-hosted compilation retrieved 2026-10-26.",
+      "applicability": "PDF page 12 (zero-index page 11), section 463.1(b)",
+      "qualifications": "Check party, notice, filing method, and any statutory exception.",
+      "corroboration": []
+    },
+    {
+      "id": "ui:LAB-590-4",
+      "issue_id": "unemployment-hearings",
+      "citation": "N.Y. Labor Law § 590(4)",
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/590",
+      "text": "Ordinary benefits in a benefit year are capped at 26 times the claimant's weekly benefit rate, subject to enumerated statutory exceptions.",
+      "exact_text": null,
+      "effective_date": "Current statutory text checked 2026-10-26.",
+      "applicability": "§ 590(4)",
+      "qualifications": "Check party, notice, filing method, and any statutory exception.",
+      "corroboration": []
+    },
+    {
+      "id": "ui:LAB-590-6",
+      "issue_id": "unemployment-hearings",
+      "citation": "N.Y. Labor Law § 590(6)",
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/590",
+      "text": "No effective week counts absent notification in a manner prescribed by the commissioner.",
+      "exact_text": null,
+      "effective_date": "Current statutory text checked 2026-10-26.",
+      "applicability": "§ 590(6)",
+      "qualifications": "Check party, notice, filing method, and any statutory exception.",
+      "corroboration": []
+    },
+    {
+      "id": "ui:LAB-522-523",
+      "issue_id": "unemployment-hearings",
+      "citation": "N.Y. Labor Law §§ 522–523",
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/522",
+      "text": "Current text defines partial unemployment and an effective week by part-time work and compensation criteria; timing of a 2025 statutory transition and related regulations needs a separate applicability check before any partial-benefit finding.",
+      "exact_text": null,
+      "effective_date": "Transition applicability unresolved for this sweep.",
+      "applicability": "See linked legal text and source record",
+      "qualifications": "Check party, notice, filing method, and any statutory exception.",
+      "corroboration": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "psl:PSL-COVID-001",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:DOL-FARE-COVID",
+      "rule_ids": [
+        "psl:COVID-SUNSET",
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "NYS COVID-19 Leave benefits and protections are still in effect and have no expiration date.",
+      "location": "body paragraph below title, source text line 60",
+      "surrounding_context": "The surrounding DOL paragraph discusses mandatory or precautionary COVID quarantine/isolation orders and links special COVID Paid Sick Leave fact sheets.",
+      "outcome": "supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Major",
+      "current_relevance": "Active",
+      "historical_classification": "Outdated guidance",
+      "analysis": "A currently presented no-expiration claim directly conflicts with the enacted July 31, 2025 expiration of the special 2020 COVID quarantine leave. The ordinary §196-b sick-leave entitlement still exists, but it is a different benefit.",
+      "counterargument": "The DOL could mean general sick leave for COVID illness under §196-b; however its specific reference to quarantine/isolation orders, extra protections, and linked special COVID fact sheets points to the repealed 2020 program.",
+      "reviewer_outcome": "Independent reviewer verified the DOL sentence, signed sunset, WCB confirmation, and surviving ordinary sick leave. The source set was recaptured on 30 October 2026 before initial publication.",
+      "example": "A covered worker receives a new COVID isolation order in October 2026 after using available ordinary sick leave, and expects extra quarantine leave under the 2020 act. That special statutory entitlement expired in July 2025; other leave depends on separate facts.",
+      "potential_consequence": "A worker may plan around extra quarantine leave that the 2020 act no longer provides, potentially delaying a request for other available leave or benefits. No reliance has been documented.",
+      "documented_consequence": "None established.",
+      "limitations": "DOL's original posting date is unknown. The current source and law were recaptured on 30 October 2026. No actual worker reliance or loss is documented. Other protections are not categorically assessed.",
+      "independently_reviewed": true,
+      "screened_at": "2026-10-30"
+    },
+    {
+      "id": "psl:PSL-COVID-002",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:DOL-FARE-COVID",
+      "rule_ids": [
+        "psl:COVID-SUNSET",
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "guaranteed job protection, financial compensation, and protection from discrimination and retaliation",
+      "location": "same body paragraph as PSL-COVID-001",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "uncertain_lead",
+      "confidence": "Moderate",
+      "significance": "Major",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "In context this appears to describe the repealed quarantine-specific package. Some job and anti-retaliation protections may nevertheless survive under ordinary sick-leave or other laws, so each asserted protection cannot all be declared false as a unit.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "needs benefit-by-benefit legal analysis; deduplicate with PSL-COVID-001",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-COVID-003",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:DOL-HERO",
+      "rule_ids": [
+        "psl:COVID-SUNSET",
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "providing benefits – including sick leave, paid family leave, and disability benefits",
+      "location": "Overview paragraph under Health & Safety Precautions for Worksites",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "uncertain_lead",
+      "confidence": "Moderate",
+      "significance": "Moderate",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Read as current COVID-quarantine benefits, the overview may imply the repealed special leave persists. It also summarizes historical measures in a section that begins 'New York State has enacted various laws', so present-tense entitlement is less clear than PSL-COVID-001.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "independent challenge requested; do not count as a separate discrepancy without distinct operative claim",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-COVID-004",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-FAQ-2022",
+      "rule_ids": [
+        "psl:COVID-SUNSET",
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "Sick leave under this law is separate and additional to the quarantine leave",
+      "location": "PDF page 2, question on temporary closure during public health emergency",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "uncertain_lead",
+      "confidence": "Moderate",
+      "significance": "Moderate",
+      "current_relevance": "Residual",
+      "historical_classification": "Undetermined",
+      "analysis": "The statement described a separate benefit at the 2022 edition date. The PDF remains linked from the current program page without an obvious sunset note. Need assess current-reader presentation and whether 2022 edition marker adequately signals historical status.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "not publication-ready; same underlying sunset as PSL-COVID-001",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-001",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-LANDING",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "Employers with 100 or more employees must provide up to 56 hours of paid sick leave per calendar year.",
+      "location": "Amount of Leave section",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Matches §196-b(1)(c), subject to actual accrual and annual use cap.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-002",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-LANDING",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "Leave must be accrued at a rate not less than one hour for every thirty hours worked.",
+      "location": "Accruals section",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Matches §196-b(3), with permitted full upfront provision and regulatory rounding qualifications.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent sample rechecked the source and cited rule; initial negative outcome provisionally upheld.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": true,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-003",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-LANDING",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "Employers are permitted to limit the leave taken in any year to the maximum amount required",
+      "location": "Permitted Uses, Leave Increments",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Consistent with §196-b(6)'s annual use cap; leave itself carries over.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-004",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-LANDING",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "Upon the request of an employee, employers are required to provide, within three business days, a summary",
+      "location": "Recordkeeping section",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Consistent with §196-b(11), subject to the employee's oral or written request and current/prior calendar-year amounts.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-005",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:DOL-WAGES-FAQ",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "employers with between 5 and 99 employees in any calendar year, must provide each employee with up to 40 hours of paid sick leave",
+      "location": "Sick time/holiday/vacation question",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Consistent with §196-b(1)(b). The full answer also separately identifies the ≤4-worker income exception and ≥100-worker tier.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent sample rechecked the source and cited rule; initial negative outcome provisionally upheld.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": true,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-006",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:AG-LEAVE",
+      "rule_ids": [
+        "psl:NYC-20-914",
+        "psl:NYCRR-196-1-3"
+      ],
+      "exact_quote": "Your employer cannot require you to provide documentation from medical professionals about needing sick leave unless you are out for more than three days in a row.",
+      "location": "New York City sick leave subsection",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The subsection expressly concerns NYC, whose local code and current DCWP FAQ use a more-than-three-consecutive-workdays threshold. The state's three-or-more scheduled-day verification threshold should not be substituted here.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-007",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-FAQ-2022",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "If net income is $1 million or less in the previous tax year",
+      "location": "PDF page 1, leave-amount table, 0–4 employees",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Residual",
+      "historical_classification": "Undetermined",
+      "analysis": "Matches §196-b(1)(a). A later summary says 'less than' without 'or equal', but the adjacent table gives the correct inclusive threshold; the isolated summary wording is not a supported material misrepresentation on this record.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-008",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-FAQ-2022",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "Employees are immediately eligible to accrue leave under the law.",
+      "location": "PDF page 3, Who Is Eligible",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Residual",
+      "historical_classification": "Undetermined",
+      "analysis": "Consistent with §196-b(3)'s accrual beginning at commencement of employment; availability of leave to use may depend on hours accrued or upfront grant.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent sample rechecked the source and cited rule; initial negative outcome provisionally upheld.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": true,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-009",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-FAQ-2022",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "Domestic workers are eligible for leave protections under the law",
+      "location": "PDF page 4, Who Is Eligible",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Residual",
+      "historical_classification": "Undetermined",
+      "analysis": "Consistent with the state's ordinary paid sick leave law and its size/income thresholds; independent local Westchester entitlements not decided here.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-010",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:NY-PSL-FAQ-2022",
+      "rule_ids": [],
+      "exact_quote": "Westchester County law currently provides that domestic workers accrue sick leave",
+      "location": "PDF page 6, Other Leave Laws",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "evidence_limitation",
+      "confidence": "Pending",
+      "significance": "Pending",
+      "current_relevance": "Residual",
+      "historical_classification": "Undetermined",
+      "analysis": "County code/administrative status not conclusively verified in this state-focused pass; do not infer error from secondary commentary. This local-law claim needs a separate primary local-law check if pursued.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-011",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:DOL-P737-2026",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "must therefore be paid in addition to any other State or federal leave entitlements.",
+      "location": "PDF page 57, paid-sick-leave FAQ overlapping requirements",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "uncertain_lead",
+      "confidence": "Low",
+      "significance": "Moderate",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Could be read to require stacking rather than concurrency, although the immediately preceding answer allows sick leave during PFL if employer permits. No binding rule establishing a concrete same-facts contradiction has yet been verified.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "sent for independent challenge; do not publish",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "psl:PSL-BASE-012",
+      "issue_id": "paid-sick-leave",
+      "source_id": "psl:DOL-P737-2026",
+      "rule_ids": [
+        "psl:LAB-196B"
+      ],
+      "exact_quote": "There is no specified notice or time period requirement under the law",
+      "location": "PDF page 58, notice FAQ",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Consistent with §196-b(4)(a) requiring an oral or written request, without imposing a fixed advance-notice period. Other federal/local leave regimes may have their own notice rules.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; source capture and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "ui:UI-01",
+      "issue_id": "unemployment-hearings",
+      "source_id": "ui:DOL-UI-CONTACT",
+      "rule_ids": [
+        "ui:NYCRR-461-1a",
+        "ui:LAB-620-1a"
+      ],
+      "exact_quote": "Your written request must be received within 30 days of the determination.",
+      "location": "Request a Hearing section",
+      "surrounding_context": "The Contact page places this categorical statement directly above an address for mailing a hearing request; it does not describe the postmark or receipt presumption there.",
+      "outcome": "supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Major",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "On an ordinary mailed request, 'received' requires agency receipt by day 30, whereas the Appeal Board rule expressly treats a request postmarked within 30 days of the party's receipt of the determination as timely. The public wording can make a claimant believe a timely mailed request is already too late.",
+      "counterargument": "The contact page may intend a cautious filing recommendation; other DOL pages accurately explain postmark. Yet the wording uses 'must' and 'received' under a mailing address, so it states a mandatory condition broader than the rule.",
+      "reviewer_outcome": "Independent reviewer confirmed the restrictive DOL wording, Appeal Board postmark/receipt rule, current DOL FAQ, and May 2026 Board application. The claim, rule PDF, statute, and decision were recaptured on 30 October 2026. No conflicting later rule was located; the latest official printed supplement was not directly inspected.",
+      "example": "A determination is received five business days after mailing. A claimant posts a signed hearing request 29 calendar days after receipt; DOL receives it four days later. The cited rule treats the postmark as timely, subject to contrary receipt proof and filing qualifications.",
+      "potential_consequence": "A person might forgo a hearing request or rush an unnecessary alternative submission based on an inaccurate perceived deadline. No real-world instance or loss established.",
+      "documented_consequence": "None established.",
+      "limitations": "The Appeal Board's posted rule PDF carries a 2020 internal revision date. The Board applied the receipt calculation in May 2026, but the latest official printed supplement was not available for direct inspection. No notice exemplar or actual lost appeal is documented.",
+      "independently_reviewed": true,
+      "screened_at": "2026-10-30"
+    },
+    {
+      "id": "ui:UI-02",
+      "issue_id": "unemployment-hearings",
+      "source_id": "ui:DOL-UI-TOP-FAQ",
+      "rule_ids": [
+        "ui:LAB-620-1a",
+        "ui:NYCRR-461-1a"
+      ],
+      "exact_quote": "Your online or mail request must be made or postmarked no later than 30 days from the date of the determination notice that you disagree with.",
+      "location": "Question 15, If you disagree with our determination",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The categorical instruction measures 30 days from the notice date, while the Appeal Board's posted rule measures timely postmark from the party's receipt. This is grouped with UI-01 as one deadline issue, not a second finding.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "A five-claim independent sample escalated this from a negative check; it belongs to the same hearing-deadline cluster as UI-01, not a second finding.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; regulation currency and independent review may be outstanding.",
+      "independently_reviewed": true,
+      "screened_at": "2026-10-30"
+    },
+    {
+      "id": "ui:UI-03",
+      "issue_id": "unemployment-hearings",
+      "source_id": "ui:DOL-HEARING-FAQ",
+      "rule_ids": [
+        "ui:LAB-620-1a",
+        "ui:NYCRR-461-1a"
+      ],
+      "exact_quote": "The request must be postmarked or otherwise proven to have been filed within 30 days after the mailing or personal delivery of the determination.",
+      "location": "How do I request a hearing?",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Pending",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Consistent with postmark/other-proof mechanisms. The following sentence additionally describes the five-business-day receipt presumption. This is counterevidence to UI-01, showing the agency publishes the correct rule elsewhere.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; regulation currency and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "ui:UI-04",
+      "issue_id": "unemployment-hearings",
+      "source_id": "ui:DOL-HEARING-FAQ",
+      "rule_ids": [
+        "ui:LAB-621-1",
+        "ui:NYCRR-463-1b"
+      ],
+      "exact_quote": "You have 20 days to appeal the judge's decision to the Unemployment Insurance Appeal Board.",
+      "location": "Can I appeal the administrative law judge's decision?",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Pending",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The 20-day period agrees with statute and rule. Exact start (mailing or personal delivery) and postmark/fax rules are in the primary sources and were not misstated in the checked sentence.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; regulation currency and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "ui:UI-05",
+      "issue_id": "unemployment-hearings",
+      "source_id": "ui:DOL-BENEFIT-PROCESS",
+      "rule_ids": [
+        "ui:LAB-620-1a",
+        "ui:NYCRR-461-1a"
+      ],
+      "exact_quote": "If you disagree, you may request a hearing within 30 days from the date of the determination.",
+      "location": "Hearing and Appeals subsection",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Pending",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Thirty-day general summary is broadly aligned. It does not say agency receipt is required and does not expressly foreclose mailing/receipt presumptions.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent sample rechecked the source and cited rule; initial negative outcome provisionally upheld.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; regulation currency and independent review may be outstanding.",
+      "independently_reviewed": true,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "ui:UI-06",
+      "issue_id": "unemployment-hearings",
+      "source_id": "ui:DOL-BENEFIT-PROCESS",
+      "rule_ids": [
+        "ui:LAB-590-4"
+      ],
+      "exact_quote": "New Yorkers who are receiving Unemployment Insurance benefits are eligible for up to 26 weeks of benefits.",
+      "location": "What You Need to Know list",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Pending",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "Ordinary benefits are capped at 26 times the weekly rate; statutory exceptions and partial weeks complicate a literal week count, but 'up to' is an acceptable general summary in this context. No material contradiction established.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; regulation currency and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "ui:UI-07",
+      "issue_id": "unemployment-hearings",
+      "source_id": "ui:DOL-EMPLOYER-GLOSSARY",
+      "rule_ids": [
+        "ui:LAB-522-523"
+      ],
+      "exact_quote": "If a claimant works less than four days in a week and earned less than the maximum benefit rate, the claimant may receive partial benefits.",
+      "location": "Partial benefits glossary entry",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "uncertain_lead",
+      "confidence": "Pending",
+      "significance": "Moderate",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The employer glossary uses older day-count language; current DOL partial-benefit page says a claimant may work up to seven days, subject to hour/earnings conditions. Binding-current legal effect and the 2025 statutory transition are not fully resolved, so this is not a supported misrepresentation yet.",
+      "counterargument": "The word 'may' could state a sufficient rather than necessary condition, and current statutory treatment of partial employment has recently changed. The glossary audience is employers and its old wording might be incomplete rather than materially false.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; regulation currency and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    },
+    {
+      "id": "ui:UI-08",
+      "issue_id": "unemployment-hearings",
+      "source_id": "ui:DOL-PARTIAL-ELIGIBILITY",
+      "rule_ids": [
+        "ui:LAB-522-523"
+      ],
+      "exact_quote": "Under the new rules, you can work up to 7 days per week without losing full unemployment benefits for that week, if you work 30 hours or fewer and earn less than the maximum benefit rate in gross pay excluding earnings from self-employment.",
+      "location": "Overview paragraph",
+      "surrounding_context": "Only the recorded excerpt has been checked; read the linked publication for its full context.",
+      "outcome": "evidence_limitation",
+      "confidence": "Pending",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "This page supplies agency context against UI-07, but its precise correspondence to recently amended statutory conditions has not been independently established. No adverse verdict assigned.",
+      "counterargument": "No specific counterargument recorded for this initial negative or unresolved check.",
+      "reviewer_outcome": "Independent challenge pending.",
+      "example": "",
+      "potential_consequence": "Not established for this claim.",
+      "documented_consequence": "None established.",
+      "limitations": "Initial bounded comparison; regulation currency and independent review may be outstanding.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-26"
+    }
+  ],
+  "findings": [
+    {
+      "id": "special-covid-leave-sunset",
+      "title": "Expired special COVID leave described as ongoing",
+      "claim_id": "psl:PSL-COVID-001",
+      "related_claim_ids": [
+        "psl:PSL-COVID-002",
+        "psl:PSL-COVID-003",
+        "psl:PSL-COVID-004"
+      ],
+      "publication_status": "approved",
+      "review_date": "2026-10-30",
+      "correction_status": "DOL FARE page still displayed the claim when recaptured on 30 October 2026; WCB separately explains the expiration. No correction or withdrawal of this DOL page was verified."
+    },
+    {
+      "id": "unemployment-hearing-deadline",
+      "title": "Hearing request said to require receipt by day 30",
+      "claim_id": "ui:UI-01",
+      "related_claim_ids": [
+        "ui:UI-02"
+      ],
+      "publication_status": "approved",
+      "review_date": "2026-10-30",
+      "correction_status": "DOL Contact page still displayed the claim when recaptured on 30 October 2026; DOL's hearing FAQ gives more complete filing guidance. No correction or withdrawal of this contact-page statement was verified."
+    }
+  ],
+  "audit": {
+    "method": "From 15 recorded negative claims, an independent reviewer selected every third ID after lexical sorting, beginning at position two. Five were checked; one was escalated into the existing deadline issue.",
+    "sampled_claim_ids": [
+      "psl:PSL-BASE-002",
+      "psl:PSL-BASE-005",
+      "psl:PSL-BASE-008",
+      "ui:UI-02",
+      "ui:UI-05"
+    ],
+    "limitations": "This is a small systematic sample of recorded negative claims, not a sample of all unextracted text; no overall error-detection rate is claimed."
+  }
+}

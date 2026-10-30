@@ -15,7 +15,7 @@ export default async function DocumentPage({ params }: { params: Promise<{ slug:
   return <main className="main reader-page">
     <div className="reader-heading">
       <Link href="/government-guidance/">← Change document</Link>
-      <div><div className="eyebrow">{doc.category.replaceAll("_", " ")} · {doc.issuer}</div><h1>{doc.title}</h1><p>{doc.research_stage === "pilot" ? "Pilot source" : "Second-round English source inventory"}{doc.english.revision_marker ? ` · English edition ${doc.english.revision_marker}` : ""}</p></div>
+      <div><div className="eyebrow">Historical translation research · {doc.category.replaceAll("_", " ")} · {doc.issuer}</div><h1>{doc.title}</h1><p>{doc.research_stage === "pilot" ? "Pilot source" : "Second-round English source inventory"}{doc.english.revision_marker ? ` · English edition ${doc.english.revision_marker}` : ""}</p></div>
     </div>
     <div className="reader-grid">
       <section className="reader-panel"><div className="reader-tab">English source</div><div className="reader-body">

@@ -16,7 +16,7 @@ export default function Statistics() {
     };
   });
   return <main className="container main">
-    <div className="page-heading"><div className="eyebrow">Research accounting</div><h1>Statistics and coverage</h1><p>These counts distinguish source documents, translation links, source clearance, and completed targeted comparison.</p></div>
+    <div className="page-heading"><div className="eyebrow">Historical translation coverage · separate from legal misrepresentation</div><h1>Statistics and coverage</h1><p>These counts distinguish source documents, translation links, source clearance, and completed targeted comparison.</p></div>
     <div className="stat-strip">
       <div><strong>{s.documents}</strong><span>unique English sources</span></div>
       <div><strong>{s.locatedLinks}</strong><span>translation links</span></div>

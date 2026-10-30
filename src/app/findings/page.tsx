@@ -1,8 +1,22 @@
-import { research } from "@/lib/research";
-import { FindingList } from "@/components/finding-list";
+import Link from "next/link";
+import { claimFor, legal, sourceFor } from "@/lib/legal-research";
+
+const labels: Record<string, string> = {
+  supported_misrepresentation: "Supported after review",
+  uncertain_lead: "Uncertain lead",
+  no_supported_misrepresentation: "No supported misrepresentation",
+  evidence_limitation: "Evidence limitation",
+};
 
 export default function Findings() {
-  return <main className="container main"><div className="page-heading"><div className="eyebrow">Research findings</div><h1>Potential translation discrepancies identified</h1><p>{research.findings.length} independently verified published-text {research.findings.length === 1 ? "finding" : "findings"} approved for publication. Significance describes potential effects, not a change in legal rights or documented harm.</p></div><FindingList findings={research.findings} />
-    <section className="research-status"><div className="eyebrow">Separate research status</div><h2>Still under review</h2><p><strong>Provisional:</strong> The Workers’ Compensation Board RB-89 Chinese appeal instruction appears to describe a judge’s decision rather than its filing date. Matched 4-24 PDFs and page images confirm the wording contrast, but administrative usage of <span lang="zh">作出决定</span> needs qualified Chinese-language review. It is excluded from the published finding count. <a href="https://www.wcb.ny.gov/content/main/forms/rb89_C.pdf" target="_blank" rel="noreferrer">Chinese form ↗</a></p><p><strong>Uncertain or rejected:</strong> A Polish C-257 doctor/provider expression remains uncertain. The Spanish P700 “liquidated damages” expression does not establish a different liability proposition. Other source-limited and rejected leads remain outside the published findings database. No enacted legislation has been screened.</p></section>
+  return <main className="container main"><div className="page-heading"><div className="eyebrow">Claim-level outcomes</div><h1>Findings and assessed claims</h1><p>Approved findings have source verification, independent review, and high-confidence legal comparisons. Uncertain leads and negative checks remain visible below.</p></div>
+    <section><h2>Approved findings</h2>{legal.findings.length === 0 && <p className="empty-state">No claim has passed the publication gate. Reviewed candidates and negative checks remain visible below.</p>}{legal.findings.map(f => {
+      const c = claimFor(f); if (!c) return null; const s = sourceFor(c);
+      return <article className="finding-card" key={f.id}><div className="eyebrow">{f.publication_status === "approved" ? "Approved" : "Preview · approval pending"}</div><h2><Link href={`/findings/${f.id}/`}>{f.title}</Link></h2><p>{c.analysis}</p><p className="muted">{s?.title} · {c.significance} potential significance · {c.current_relevance}</p><Link href={`/findings/${f.id}/`}>Read evidence →</Link></article>;
+    })}</section>
+    <section className="context-panel"><h2>All assessed claims</h2>{legal.claims.map(c => {
+      const source = sourceFor(c);
+      return <article className="claim-row" key={c.id}><div className="eyebrow">{labels[c.outcome]} · {c.confidence} confidence</div><h3>{source?.title ?? c.source_id}</h3><blockquote>{c.exact_quote}</blockquote><p>{c.analysis}</p><p className="muted">{c.independently_reviewed ? "Independent review recorded" : "Independent review pending"} · <Link href={`/issue-sweeps/${c.issue_id}/`}>View issue sweep</Link></p></article>;
+    })}</section>
   </main>;
 }

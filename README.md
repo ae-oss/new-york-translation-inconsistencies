@@ -1,24 +1,23 @@
-# New York Translation Inconsistencies
+# New York Legal Misrepresentation
 
-An independent multilingual research reader for New York government-published guidance, forms, and notices (Model A). It is separate from the Puerto Rico and EU projects. The current public projection contains 42 unique English source documents, 41 document-specific translation links, 23 pairs with valid targeted comparison, 48 examined meaning units, and two independently reviewed published-text findings. These are bounded checks, not full-document reviews.
+This is the existing New York GitHub Pages repository, adapted to examine whether current New York State agency guidance materially conflicts with applicable binding law. The earlier multilingual translation research remains available under the site's **Translation archive** and is excluded from the legal-misrepresentation counts.
 
-The public findings database is `src/data/public-research.json`. A finding can enter its `findings` array only after source and edition matching, exact-quote and PDF-image review, meaning challenge, governing-rule and consequence assessment, and independent publication review. `scripts/validate-public-data.mjs` rejects incomplete or non-approved findings. Provisional, uncertain, rejected, and source-limited work is kept separate from the approved finding count. The underlying research and saved source evidence live outside this public repository in `research/new-york/` in the local research workspace.
+The initial research is in `research/legal-misrepresentation/`: two bounded issue sweeps, independent adversarial review, dated source captures, and publication checks. `scripts/build-legal-preview.mjs` projects the reviewed research into `src/data/legal-research.json`, which drives the public issue, agency, coverage, and finding pages. The two approved findings were rechecked on 30 October 2026. The hearing case expressly states that the latest official printed NYCRR supplement could not be directly inspected.
 
-## Local checks
+## Build and verify
 
 Use Node 22 and pnpm 10:
 
 ```sh
 pnpm install --frozen-lockfile
+pnpm run refresh:legal
 pnpm run validate:data
 pnpm run typecheck
-NEXT_PUBLIC_BASE_PATH=/new-york-translation-inconsistencies pnpm run build
+pnpm run build
 ```
 
-The static output is written to `out/`. The site uses Next.js static export and GitHub Pages project-path links.
+The static export is in `out/`. `scripts/validate-legal-data.mjs` checks source/claim/rule joins, preserved evidence hashes, and publication gates. An approved finding requires a supported, high-confidence independently reviewed claim, dated source capture, exact legal text, and a review date. The research contains two approved findings, five uncertain leads, fourteen negative checks, and two evidence-limited comparisons. No whole document has been certified fully screened.
 
-## Publication workflow
+## Publication
 
-`.github/workflows/pages.yml` deploys only on a manual `workflow_dispatch` event. Updating source or adding research to the repository does not automatically publish a finding. Before dispatch, check the official PDFs and current index again, update review records, and run the local checks. The GitHub Pages deployment rebuilds from the locked dependencies, validates publication data, and uploads the static output.
-
-The site is research, not legal advice. Government publication of a translation does not itself establish legal authority, and no translation-caused harm is claimed without evidence.
+The manual `.github/workflows/pages.yml` workflow deploys to the existing free GitHub Pages path. It uses `NEXT_PUBLIC_BASE_PATH=/new-york-translation-inconsistencies` so archive and evidence URLs remain under the repository site. The site makes no claim of an exhaustive statewide audit or documented individual harm. Recapture and reassess sources before later corrections or new findings are published.

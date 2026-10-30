@@ -1,0 +1,124 @@
+{
+  "schema_version": "0.1-research",
+  "issue_id": "ny-paid-sick-leave-initial-sweep",
+  "title": "Paid sick leave and expired COVID-19 quarantine leave",
+  "capture_date": "2026-10-26",
+  "research_status": "initial_screening_independent_review_pending",
+  "jurisdiction": "New York State; New York City only where a state agency specifically discusses NYC rules",
+  "bounded_questions": [
+    "What leave must private employers provide under Labor Law 196-b, including amount, accrual, use, documentation, carryover, and paid prenatal leave?",
+    "Do currently accessible New York State agency pages accurately explain whether the separate COVID-19 quarantine leave enacted in 2020 remains available after its July 31, 2025 statutory sunset?",
+    "Where a state agency describes New York City sick leave, is that description consistent with the city's binding rule?"
+  ],
+  "out_of_scope": [
+    "Agency regulation validity or contested statutory interpretation",
+    "Private-employer publications",
+    "A complete audit of all county and municipal leave laws",
+    "Translations unless a consequential non-English claim is discovered during this issue sweep"
+  ],
+  "binding_rules": [
+    {
+      "id": "LAB-196B",
+      "citation": "N.Y. Labor Law § 196-b(1), (3)-(13)",
+      "official_url": "https://www.nysenate.gov/legislation/laws/LAB/196-B",
+      "operative_summary": "For covered private employees, provides the size/income tiers, at least one hour accrued per 30 hours worked, enumerated sick/safe uses, 20 hours separate paid prenatal leave from January 1, 2025, limits on verification/disclosure, carryover with annual use caps, protection against retaliation, and records on request. The ordinary sick-leave entitlement remains in force after the separate COVID quarantine statute expired.",
+      "effective_dates": "Ordinary sick-leave accrual began 2020-09-30 and use began 2021-01-01; paid prenatal provision effective 2025-01-01.",
+      "applicability_and_qualifications": "Employee works in New York for a private employer. Unpaid versus paid leave depends on employer headcount and previous-tax-year net income. Existing equivalent policies and qualifying collective bargaining agreements may satisfy or vary § 196-b requirements; NYC may enforce stronger local rules."
+    },
+    {
+      "id": "COVID-SUNSET",
+      "citation": "L. 2024, ch. 56, Part M, § 1 (amending L. 2020, ch. 25, § 2)",
+      "official_url": "https://www.nysenate.gov/legislation/bills/2023/A8806/amendment/C",
+      "operative_summary": "The special 2020 COVID-19 mandatory/precautionary quarantine or isolation leave law was made to expire and be deemed repealed July 31, 2025. The Senate's A8806C page records the final bill as signed chapter 56 on April 20, 2024; final Part M appears at page text lines 14862-14872.",
+      "effective_date": "2025-07-31 sunset",
+      "applicability_and_qualifications": "Addresses only the special COVID quarantine/isolation leave and associated benefits under the 2020 act. It does not repeal ordinary sick leave under Labor Law § 196-b, other existing protections, or necessarily resolve claims that arose before sunset.",
+      "corroborating_current_agency_source": "https://apps.wcb.ny.gov/covid-19/information-employers-payers.jsp"
+    },
+    {
+      "id": "NYCRR-196-1-3",
+      "citation": "12 NYCRR § 196-1.3(a)-(d)",
+      "official_agency_representation_url": "https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave",
+      "operative_summary": "Ordinary sick-leave verification may not be required for an absence shorter than three consecutive previously scheduled workdays/shifts. At three or more such days, permitted documentation is narrowly limited; no confidential reason or employee-paid verification costs.",
+      "applicability_and_qualifications": "NYC's local law has a distinct, more protective threshold for its own protected time-off entitlement."
+    },
+    {
+      "id": "NYC-20-914",
+      "citation": "N.Y.C. Admin. Code § 20-914(a)(2), (b)(2)",
+      "official_code_url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-202162",
+      "corroborating_agency_url": "https://www.nyc.gov/site/dca/about/paid-sick-leave-FAQs.page",
+      "operative_summary": "For NYC protected time off, the employer may require reasonable documentation only after more than three consecutive workdays, subject to policy and reimbursement requirements. This is distinct from the state regulation's three-or-more scheduled-day threshold.",
+      "applicability_and_qualifications": "Only NYC covered employment; included because the NY Attorney General expressly discusses NYC."
+    }
+  ],
+  "publications": [
+    {"id":"DOL-FARE-COVID","agency":"New York State Department of Labor","title":"NYS HERO Act and COVID-19 Regulations (FARE Grant)","url":"https://dol.ny.gov/nys-hero-act-and-covid-19-regulations-fare-grant","language":"English","publication_date":"not shown","discovered":true,"retrieved":true,"processed":true,"relevant_claims_identified":2,"claims_screened":2,"screening_extent":"complete relevant COVID-leave paragraph; entire short webpage read","current_exposure":"active agency webpage with direct links to multilingual COVID leave fact sheets"},
+    {"id":"DOL-HERO","agency":"New York State Department of Labor","title":"NY HERO Act: Health & Safety Precautions for Worksites","url":"https://dol.ny.gov/ny-hero-act","language":"English","publication_date":"not shown","discovered":true,"retrieved":true,"processed":true,"relevant_claims_identified":1,"claims_screened":1,"screening_extent":"COVID-regulations overview only; remainder outside issue scope","current_exposure":"active DOL page directly linked by DOL-FARE-COVID"},
+    {"id":"NY-PSL-LANDING","agency":"State of New York / New York State Department of Labor","title":"Paid Sick Leave Eligibility and Information","url":"https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave","language":"English","publication_date":"not shown","discovered":true,"retrieved":true,"processed":true,"relevant_claims_identified":12,"claims_screened":7,"screening_extent":"amount, accrual, eligibility, permitted uses, documentation, carryover, recordkeeping screened at topic level; policy/CBA nuances sampled","current_exposure":"active primary program page"},
+    {"id":"NY-PSL-FAQ-2022","agency":"State of New York / New York State Department of Labor","title":"New York State Paid Sick Leave FAQ","url":"https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf","language":"English","edition":"PSL_FAQ-G (2/22)","publication_date":"2022-02 edition marker; exact issuance date not established","discovered":true,"retrieved":true,"processed":true,"relevant_claims_identified":29,"claims_screened":9,"screening_extent":"all 7 pages text-layer scanned for issue leads; nine specific legal claims checked, remaining FAQs not individually verified","current_exposure":"older PDF still linked as Paid Sick Leave FAQs from active NY-PSL-LANDING"},
+    {"id":"DOL-WAGES-FAQ","agency":"New York State Department of Labor","title":"Wages and Hours Frequently Asked Questions","url":"https://dol.ny.gov/node/6461","language":"English","publication_date":"not shown","discovered":true,"retrieved":true,"processed":true,"relevant_claims_identified":4,"claims_screened":4,"screening_extent":"complete paid-sick-leave answer only; other wage topics outside scope","current_exposure":"active DOL page"},
+    {"id":"AG-LEAVE","agency":"Office of the New York State Attorney General","title":"Family, medical, and other types of leave","url":"https://ag.ny.gov/resources/individuals/workers-rights/benefits-and-leave","language":"English","publication_date":"not shown","discovered":true,"retrieved":true,"processed":true,"relevant_claims_identified":8,"claims_screened":3,"screening_extent":"state sick leave, NYC documentation, and small-employer threshold checked; other FMLA/PFL sections outside this issue","current_exposure":"active AG worker-rights page"},
+    {"id":"DOL-P737-2026","agency":"New York State Department of Labor","title":"P737 Employment Laws/Labor Standards FAQ","url":"https://dol.ny.gov/system/files/documents/2026/03/p737-2-26.pdf","language":"English","edition":"P737 (2/26)","publication_date":"2026 edition; exact posting date not established","discovered":true,"retrieved":true,"processed":true,"relevant_claims_identified":7,"claims_screened":2,"screening_extent":"paid-sick-leave FAQ segment around PDF pp. 52-58; 68-page compendium not fully screened","current_exposure":"current DOL-hosted PDF"}
+  ],
+  "claims": [
+    {
+      "id":"PSL-COVID-001","publication_id":"DOL-FARE-COVID","exact_agency_words":"NYS COVID-19 Leave benefits and protections are still in effect and have no expiration date.","location":"body paragraph below title, source text line 60","capture_date":"2026-10-26","audience":"New York workers and employers","rule_ids":["COVID-SUNSET","LAB-196B"],"outcome":"uncertain_lead","candidate_stage":"strong_initial_conflict_pending_independent_review","confidence":"high_on_source_and_sunset; independent_verification_pending","potential_significance":"major","current_relevance":"active","historical_classification":"outdated_guidance","comparison":"A currently presented no-expiration claim directly conflicts with the enacted July 31, 2025 expiration of the special 2020 COVID quarantine leave. The ordinary §196-b sick-leave entitlement still exists, but it is a different benefit.","strongest_counterargument":"The DOL could mean general sick leave for COVID illness under §196-b; however its specific reference to quarantine/isolation orders, extra protections, and linked special COVID fact sheets points to the repealed 2020 program.","same_facts_example":"A private-sector worker receives a COVID isolation order in October 2026 and believes this page guarantees extra quarantine leave separate from ordinary §196-b leave. The special statutory entitlement ended July 2025; ordinary accrued sick leave may still apply.","consequence_class":"legally_supported_potential_only; no documented individual reliance or loss established","review_status":"sent to independent reviewer; not approved for publication","claim_source_url":"https://dol.ny.gov/nys-hero-act-and-covid-19-regulations-fare-grant","law_source_url":"https://www.nysenate.gov/legislation/bills/2023/A8806/amendment/C","corroboration_url":"https://apps.wcb.ny.gov/covid-19/information-employers-payers.jsp"
+    },
+    {"id":"PSL-COVID-002","publication_id":"DOL-FARE-COVID","exact_agency_words":"guaranteed job protection, financial compensation, and protection from discrimination and retaliation","location":"same body paragraph as PSL-COVID-001","capture_date":"2026-10-26","rule_ids":["COVID-SUNSET","LAB-196B"],"outcome":"uncertain_lead","confidence":"moderate","potential_significance":"major","current_relevance":"active","historical_classification":"outdated_guidance_candidate","comparison":"In context this appears to describe the repealed quarantine-specific package. Some job and anti-retaliation protections may nevertheless survive under ordinary sick-leave or other laws, so each asserted protection cannot all be declared false as a unit.","review_status":"needs benefit-by-benefit legal analysis; deduplicate with PSL-COVID-001","claim_source_url":"https://dol.ny.gov/nys-hero-act-and-covid-19-regulations-fare-grant"},
+    {"id":"PSL-COVID-003","publication_id":"DOL-HERO","exact_agency_words":"providing benefits – including sick leave, paid family leave, and disability benefits","location":"Overview paragraph under Health & Safety Precautions for Worksites","capture_date":"2026-10-26","rule_ids":["COVID-SUNSET","LAB-196B"],"outcome":"uncertain_lead","confidence":"moderate","potential_significance":"moderate","current_relevance":"active","historical_classification":"undetermined","comparison":"Read as current COVID-quarantine benefits, the overview may imply the repealed special leave persists. It also summarizes historical measures in a section that begins 'New York State has enacted various laws', so present-tense entitlement is less clear than PSL-COVID-001.","review_status":"independent challenge requested; do not count as a separate discrepancy without distinct operative claim","claim_source_url":"https://dol.ny.gov/ny-hero-act"},
+    {"id":"PSL-COVID-004","publication_id":"NY-PSL-FAQ-2022","exact_agency_words":"Sick leave under this law is separate and additional to the quarantine leave","location":"PDF page 2, question on temporary closure during public health emergency","capture_date":"2026-10-26","rule_ids":["COVID-SUNSET","LAB-196B"],"outcome":"uncertain_lead","confidence":"moderate","potential_significance":"moderate","current_relevance":"residual","historical_classification":"historically_accurate_then_outdated_candidate","comparison":"The statement described a separate benefit at the 2022 edition date. The PDF remains linked from the current program page without an obvious sunset note. Need assess current-reader presentation and whether 2022 edition marker adequately signals historical status.","review_status":"not publication-ready; same underlying sunset as PSL-COVID-001","claim_source_url":"https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf"},
+    {"id":"PSL-BASE-001","publication_id":"NY-PSL-LANDING","exact_agency_words":"Employers with 100 or more employees must provide up to 56 hours of paid sick leave per calendar year.","location":"Amount of Leave section","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"high","potential_significance":"pending","current_relevance":"active","comparison":"Matches §196-b(1)(c), subject to actual accrual and annual use cap.","claim_source_url":"https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave"},
+    {"id":"PSL-BASE-002","publication_id":"NY-PSL-LANDING","exact_agency_words":"Leave must be accrued at a rate not less than one hour for every thirty hours worked.","location":"Accruals section","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"high","potential_significance":"pending","current_relevance":"active","comparison":"Matches §196-b(3), with permitted full upfront provision and regulatory rounding qualifications.","claim_source_url":"https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave"},
+    {"id":"PSL-BASE-003","publication_id":"NY-PSL-LANDING","exact_agency_words":"Employers are permitted to limit the leave taken in any year to the maximum amount required","location":"Permitted Uses, Leave Increments","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"high","potential_significance":"pending","current_relevance":"active","comparison":"Consistent with §196-b(6)'s annual use cap; leave itself carries over.","claim_source_url":"https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave"},
+    {"id":"PSL-BASE-004","publication_id":"NY-PSL-LANDING","exact_agency_words":"Upon the request of an employee, employers are required to provide, within three business days, a summary","location":"Recordkeeping section","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"high","potential_significance":"pending","current_relevance":"active","comparison":"Consistent with §196-b(11), subject to the employee's oral or written request and current/prior calendar-year amounts.","claim_source_url":"https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave"},
+    {"id":"PSL-BASE-005","publication_id":"DOL-WAGES-FAQ","exact_agency_words":"employers with between 5 and 99 employees in any calendar year, must provide each employee with up to 40 hours of paid sick leave","location":"Sick time/holiday/vacation question","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"high","potential_significance":"pending","current_relevance":"active","comparison":"Consistent with §196-b(1)(b). The full answer also separately identifies the ≤4-worker income exception and ≥100-worker tier.","claim_source_url":"https://dol.ny.gov/node/6461"},
+    {"id":"PSL-BASE-006","publication_id":"AG-LEAVE","exact_agency_words":"Your employer cannot require you to provide documentation from medical professionals about needing sick leave unless you are out for more than three days in a row.","location":"New York City sick leave subsection","capture_date":"2026-10-26","rule_ids":["NYC-20-914","NYCRR-196-1-3"],"outcome":"no_supported_misrepresentation","confidence":"high","potential_significance":"pending","current_relevance":"active","comparison":"The subsection expressly concerns NYC, whose local code and current DCWP FAQ use a more-than-three-consecutive-workdays threshold. The state's three-or-more scheduled-day verification threshold should not be substituted here.","claim_source_url":"https://ag.ny.gov/resources/individuals/workers-rights/benefits-and-leave"},
+    {"id":"PSL-BASE-007","publication_id":"NY-PSL-FAQ-2022","exact_agency_words":"If net income is $1 million or less in the previous tax year","location":"PDF page 1, leave-amount table, 0–4 employees","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"high","potential_significance":"pending","current_relevance":"residual","comparison":"Matches §196-b(1)(a). A later summary says 'less than' without 'or equal', but the adjacent table gives the correct inclusive threshold; the isolated summary wording is not a supported material misrepresentation on this record.","claim_source_url":"https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf"},
+    {"id":"PSL-BASE-008","publication_id":"NY-PSL-FAQ-2022","exact_agency_words":"Employees are immediately eligible to accrue leave under the law.","location":"PDF page 3, Who Is Eligible","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"high","potential_significance":"pending","current_relevance":"residual","comparison":"Consistent with §196-b(3)'s accrual beginning at commencement of employment; availability of leave to use may depend on hours accrued or upfront grant.","claim_source_url":"https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf"},
+    {"id":"PSL-BASE-009","publication_id":"NY-PSL-FAQ-2022","exact_agency_words":"Domestic workers are eligible for leave protections under the law","location":"PDF page 4, Who Is Eligible","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"moderate","potential_significance":"pending","current_relevance":"residual","comparison":"Consistent with the state's ordinary paid sick leave law and its size/income thresholds; independent local Westchester entitlements not decided here.","claim_source_url":"https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf"},
+    {"id":"PSL-BASE-010","publication_id":"NY-PSL-FAQ-2022","exact_agency_words":"Westchester County law currently provides that domestic workers accrue sick leave","location":"PDF page 6, Other Leave Laws","capture_date":"2026-10-26","rule_ids":[],"outcome":"evidence_limitation","confidence":"pending","potential_significance":"pending","current_relevance":"residual","comparison":"County code/administrative status not conclusively verified in this state-focused pass; do not infer error from secondary commentary. This local-law claim needs a separate primary local-law check if pursued.","claim_source_url":"https://www.ny.gov/sites/default/files/atoms/files/PSL_FAQ_PaidSickLeaveFAQ.pdf"},
+    {"id":"PSL-BASE-011","publication_id":"DOL-P737-2026","exact_agency_words":"must therefore be paid in addition to any other State or federal leave entitlements.","location":"PDF page 57, paid-sick-leave FAQ overlapping requirements","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"uncertain_lead","confidence":"low","potential_significance":"moderate","current_relevance":"active","comparison":"Could be read to require stacking rather than concurrency, although the immediately preceding answer allows sick leave during PFL if employer permits. No binding rule establishing a concrete same-facts contradiction has yet been verified.","review_status":"sent for independent challenge; do not publish","claim_source_url":"https://dol.ny.gov/system/files/documents/2026/03/p737-2-26.pdf"},
+    {"id":"PSL-BASE-012","publication_id":"DOL-P737-2026","exact_agency_words":"There is no specified notice or time period requirement under the law","location":"PDF page 58, notice FAQ","capture_date":"2026-10-26","rule_ids":["LAB-196B"],"outcome":"no_supported_misrepresentation","confidence":"moderate","potential_significance":"pending","current_relevance":"active","comparison":"Consistent with §196-b(4)(a) requiring an oral or written request, without imposing a fixed advance-notice period. Other federal/local leave regimes may have their own notice rules.","claim_source_url":"https://dol.ny.gov/system/files/documents/2026/03/p737-2-26.pdf"}
+  ],
+  "coverage": {
+    "issue_sweeps":1,
+    "defined_legal_questions":3,
+    "agencies_searched":["New York State Department of Labor","Office of the New York State Attorney General","New York State Workers' Compensation Board (corroboration)"],
+    "relevant_publications_found":7,
+    "documents_retrieved":7,
+    "documents_processed":7,
+    "documents_or_relevant_sections_fully_screened":2,
+    "documents_partially_screened":5,
+    "claim_units_identified_in_scope":63,
+    "claim_units_screened_at_least_at_topic_level":28,
+    "claims_with_individual_records":16,
+    "independently_reviewed_claims":0,
+    "supported_misrepresentations":0,
+    "strong_initial_candidates_pending_independent_review":1,
+    "uncertain_leads":5,
+    "no_supported_misrepresentation":10,
+    "evidence_limited":1,
+    "languages_screened":["English"],
+    "verified_corrections_or_withdrawals":0,
+    "counting_note":"Issue-level counts are not findings counts. Repeated COVID-sunset references are one underlying discrepancy cluster. Topic-level screenings are less thorough than individually documented claim comparisons; no claim of a complete audit of seven publications is made."
+  },
+  "quality_control": {
+    "unflagged_sample_method":"Judgmental cross-topic check of four non-candidate statements: large-employer hours, accrual rate, records deadline, and NYC documentation threshold. These were intentionally selected outside the COVID-sunset lead and checked against statute/regulation/code.",
+    "sample_claim_ids":["PSL-BASE-001","PSL-BASE-002","PSL-BASE-004","PSL-BASE-006"],
+    "sample_outcomes":"Four no-supported-misrepresentation outcomes; too small and nonrandom to estimate miss rate.",
+    "independent_review":"Pending for PSL-COVID-001 and other serious candidates. Do not present any finding as independently verified yet."
+  },
+  "source_capture_limitations": [
+    "Official pages/PDFs were opened through web retrieval on 2026-10-26, but no local binary or screenshot hash was preserved; obtain stable source evidence before public publication.",
+    "The 2022 FAQ remains on an active program page but its edition is visibly older; current-reader interpretation needs independent review.",
+    "No exhaustive search for judicial interpretation, local Westchester law, or changes after the cited statute/regulations was completed.",
+    "Only English claims were screened. Merely locating linked translations is not multilingual screening.",
+    "The 68-page P737 compendium was not fully reviewed."
+  ],
+  "recommended_next_checks": [
+    "Independently verify DOL-FARE-COVID exact current page text, signed enacted Part M, operative sunset, and coexistence of ordinary §196-b leave before labeling PSL-COVID-001 supported.",
+    "Capture PDF/page binaries or dated screenshots for serious candidates and archive URLs where available.",
+    "Review the additional linked COVID fact sheets for present-day caveats, grouping duplicates under the same sunset issue rather than multiplying finding counts.",
+    "Reconcile the DOL P737 stacking sentence against federal FMLA and NY Paid Family Leave concurrency rules before retaining it as a candidate.",
+    "Expand systematic claim-level checks across the remaining FAQ questions and randomly sample unflagged statements."
+  ]
+}

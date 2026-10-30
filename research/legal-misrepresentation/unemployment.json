@@ -1,0 +1,213 @@
+{
+  "issue_id": "ny-ui-hearing-deadlines-initial",
+  "title": "New York unemployment insurance hearing and appeal deadlines",
+  "jurisdiction": "New York State",
+  "agencies": ["New York State Department of Labor", "Unemployment Insurance Appeal Board"],
+  "capture_date": "2026-10-26",
+  "scope": "Bounded initial issue sweep of current NYSDOL public pages on claimant hearing requests, appeal deadlines, and selected benefit guidance. This is a targeted claim screen, not a full-document screen or exhaustive audit.",
+  "legal_questions": [
+    "For a claimant disputing an initial unemployment insurance determination, does a mailed hearing request have to reach NYSDOL within 30 days, or does a timely postmark suffice?",
+    "What is the deadline for an appeal from an administrative law judge to the Unemployment Insurance Appeal Board?",
+    "Do currently displayed benefit summaries use day-of-work eligibility language that may misstate current partial-benefit rules?"
+  ],
+  "legal_rules": [
+    {
+      "id": "LAB-620-1a",
+      "citation": "N.Y. Labor Law § 620(1)(a)",
+      "official_url": "https://www.nysenate.gov/legislation/laws/LAB/620",
+      "operative_summary": "A claimant dissatisfied with an initial determination may request a hearing within thirty days after mailing or personal delivery of notice. A referee may extend the period where physical condition or mental incapacity prevented the claimant from filing within thirty days.",
+      "effective_date": "Current statutory text checked 2026-10-26; latest revision date shown by NY Senate: 2014-09-22.",
+      "location": "§ 620(1)(a)",
+      "status": "official_primary_verified"
+    },
+    {
+      "id": "NYCRR-461-1a",
+      "citation": "12 NYCRR § 461.1(a)",
+      "official_url": "https://uiappeals.ny.gov/appeal-board-rules-0",
+      "operative_summary": "A hearing request is timely if postmarked within 30 days of the party's receipt of the determination, or if there is specified other proof of submission, including electronic submission, fax acknowledgment, certified mailing receipt, stamped receipt, or neutral-party proof of personal service. Absent contrary proof, determination is deemed mailed on date stated and received no later than five business days later.",
+      "effective_date": "Exact amendment effective date not established; current Appeal Board-hosted compilation retrieved 2026-10-26.",
+      "location": "PDF page 8 (zero-index page 7), section 461.1(a)",
+      "status": "official_primary_verified",
+      "currency_note": "Appeal Board PDF is presented on current official site; independent check of official state register/compilation currency remains a prepublication gate."
+    },
+    {
+      "id": "LAB-621-1",
+      "citation": "N.Y. Labor Law § 621(1)",
+      "official_url": "https://www.nysenate.gov/legislation/laws/LAB/621",
+      "operative_summary": "Appeal from the referee/administrative law judge decision to the Appeal Board within twenty days after mailing or personal delivery of notice; statutory party-specific qualifications apply.",
+      "effective_date": "Current statutory text checked 2026-10-26; latest revision date shown by NY Senate: 2014-09-22.",
+      "location": "§ 621(1)",
+      "status": "official_primary_verified"
+    },
+    {
+      "id": "NYCRR-463-1b",
+      "citation": "12 NYCRR § 463.1(b)",
+      "official_url": "https://uiappeals.ny.gov/appeal-board-rules-0",
+      "operative_summary": "A claimant's Appeal Board notice of appeal must be postmarked or faxed within 20 days after mailing or personal delivery of the ALJ decision.",
+      "effective_date": "Exact amendment effective date not established; current Appeal Board-hosted compilation retrieved 2026-10-26.",
+      "location": "PDF page 12 (zero-index page 11), section 463.1(b)",
+      "status": "official_primary_verified"
+    },
+    {
+      "id": "LAB-590-4",
+      "citation": "N.Y. Labor Law § 590(4)",
+      "official_url": "https://www.nysenate.gov/legislation/laws/LAB/590",
+      "operative_summary": "Ordinary benefits in a benefit year are capped at 26 times the claimant's weekly benefit rate, subject to enumerated statutory exceptions.",
+      "effective_date": "Current statutory text checked 2026-10-26.",
+      "location": "§ 590(4)",
+      "status": "official_primary_verified"
+    },
+    {
+      "id": "LAB-590-6",
+      "citation": "N.Y. Labor Law § 590(6)",
+      "official_url": "https://www.nysenate.gov/legislation/laws/LAB/590",
+      "operative_summary": "No effective week counts absent notification in a manner prescribed by the commissioner.",
+      "effective_date": "Current statutory text checked 2026-10-26.",
+      "location": "§ 590(6)",
+      "status": "official_primary_verified"
+    },
+    {
+      "id": "LAB-522-523",
+      "citation": "N.Y. Labor Law §§ 522–523",
+      "official_urls": ["https://www.nysenate.gov/legislation/laws/LAB/522", "https://www.nysenate.gov/legislation/laws/LAB/523"],
+      "operative_summary": "Current text defines partial unemployment and an effective week by part-time work and compensation criteria; timing of a 2025 statutory transition and related regulations needs a separate applicability check before any partial-benefit finding.",
+      "effective_date": "Transition applicability unresolved for this sweep.",
+      "status": "primary_text_retrieved_applicability_pending"
+    }
+  ],
+  "documents": [
+    {"id": "DOL-UI-CONTACT", "publisher": "New York State Department of Labor", "title": "Unemployment Insurance Contact", "url": "https://dol.ny.gov/unemployment-insurance-contact", "language": "en", "publication_date": null, "updated_date": null, "current_relevance": "active", "status": {"discovered": true, "retrieved": true, "processed": "relevant section read", "claims_identified": 1, "claims_screened": 1, "fully_screened": false}},
+    {"id": "DOL-UI-TOP-FAQ", "publisher": "New York State Department of Labor", "title": "Unemployment Insurance Top Frequently Asked Questions", "url": "https://dol.ny.gov/unemployment-insurance-top-frequently-asked-questions", "language": "en", "publication_date": null, "updated_date": null, "current_relevance": "active", "status": {"discovered": true, "retrieved": true, "processed": "hearing question 15 read", "claims_identified": 1, "claims_screened": 1, "fully_screened": false}},
+    {"id": "DOL-HEARING-FAQ", "publisher": "New York State Department of Labor", "title": "The Hearing Process Frequently Asked Questions", "url": "https://dol.ny.gov/hearing-process-frequently-asked-questions", "language": "en", "publication_date": null, "updated_date": null, "current_relevance": "active", "status": {"discovered": true, "retrieved": true, "processed": "hearing-request and ALJ-appeal questions read", "claims_identified": 2, "claims_screened": 2, "fully_screened": false}},
+    {"id": "DOL-BENEFIT-PROCESS", "publisher": "New York State Department of Labor", "title": "The Unemployment Claimant Benefit Process", "url": "https://dol.ny.gov/unemployment-claimant-benefit-process-0", "language": "en", "publication_date": null, "updated_date": null, "current_relevance": "active", "status": {"discovered": true, "retrieved": true, "processed": "overview and hearings subsection read", "claims_identified": 2, "claims_screened": 2, "fully_screened": false}},
+    {"id": "DOL-EMPLOYER-GLOSSARY", "publisher": "New York State Department of Labor", "title": "Glossary of Unemployment Terms for Employers", "url": "https://dol.ny.gov/glossary-unemployment-terms-employers", "language": "en", "publication_date": null, "updated_date": null, "current_relevance": "active", "status": {"discovered": true, "retrieved": true, "processed": "selected definitions read", "claims_identified": 1, "claims_screened": 1, "fully_screened": false}},
+    {"id": "DOL-PARTIAL-ELIGIBILITY", "publisher": "New York State Department of Labor", "title": "Partial Unemployment Eligibility", "url": "https://dol.ny.gov/unemployment/partial-unemployment-eligibility", "language": "en", "publication_date": null, "updated_date": null, "current_relevance": "active", "status": {"discovered": true, "retrieved": true, "processed": "overview and hours chart read", "claims_identified": 1, "claims_screened": 1, "fully_screened": false}}
+  ],
+  "claims": [
+    {
+      "id": "UI-01",
+      "document_id": "DOL-UI-CONTACT",
+      "exact_claim": "Your written request must be received within 30 days of the determination.",
+      "location": "Request a Hearing section",
+      "surrounding_context": "Immediately followed by Social Security number placement instruction and mailing address PO Box 15131, Albany.",
+      "audience": "unemployment claimant seeking hearing",
+      "rule_ids": ["LAB-620-1a", "NYCRR-461-1a"],
+      "outcome": "serious_candidate_pending_independent_review",
+      "confidence": "pending",
+      "potential_significance": "major",
+      "current_relevance": "active",
+      "historical_classification": "undetermined",
+      "comparison": "On an ordinary mailed request, 'received' requires agency receipt by day 30, whereas the Appeal Board rule expressly treats a request postmarked within 30 days of the party's receipt of the determination as timely. The public wording can make a claimant believe a timely mailed request is already too late.",
+      "same_facts_example": "A claimant receives a mailed determination, posts a signed hearing request on day 29, and NYSDOL receives it on day 33. The rule would treat the postmark as timely; the contact-page wording would tell the claimant the request had to be received by day 30.",
+      "counterargument": "The contact page may intend a cautious filing recommendation; other DOL pages accurately explain postmark. Yet the wording uses 'must' and 'received' under a mailing address, so it states a mandatory condition broader than the rule.",
+      "potential_consequence": "A person might forgo a hearing request or rush an unnecessary alternative submission based on an inaccurate perceived deadline. No real-world instance or loss established.",
+      "independent_review": "requested from separate reviewer; not yet final",
+      "publication_eligible": false
+    },
+    {
+      "id": "UI-02",
+      "document_id": "DOL-UI-TOP-FAQ",
+      "exact_claim": "Your online or mail request must be made or postmarked no later than 30 days from the date of the determination notice that you disagree with.",
+      "location": "Question 15, If you disagree with our determination",
+      "rule_ids": ["LAB-620-1a", "NYCRR-461-1a"],
+      "outcome": "no_supported_misrepresentation",
+      "comparison": "This page correctly tells claimants a timely mailing postmark is enough. It gives a conservative date based on the notice rather than discussing the rule's receipt presumption; no material denial of the postmark right is asserted in this excerpt.",
+      "publication_eligible": false
+    },
+    {
+      "id": "UI-03",
+      "document_id": "DOL-HEARING-FAQ",
+      "exact_claim": "The request must be postmarked or otherwise proven to have been filed within 30 days after the mailing or personal delivery of the determination.",
+      "location": "How do I request a hearing?",
+      "rule_ids": ["LAB-620-1a", "NYCRR-461-1a"],
+      "outcome": "no_supported_misrepresentation",
+      "comparison": "Consistent with postmark/other-proof mechanisms. The following sentence additionally describes the five-business-day receipt presumption. This is counterevidence to UI-01, showing the agency publishes the correct rule elsewhere.",
+      "publication_eligible": false
+    },
+    {
+      "id": "UI-04",
+      "document_id": "DOL-HEARING-FAQ",
+      "exact_claim": "You have 20 days to appeal the judge's decision to the Unemployment Insurance Appeal Board.",
+      "location": "Can I appeal the administrative law judge's decision?",
+      "rule_ids": ["LAB-621-1", "NYCRR-463-1b"],
+      "outcome": "no_supported_misrepresentation",
+      "comparison": "The 20-day period agrees with statute and rule. Exact start (mailing or personal delivery) and postmark/fax rules are in the primary sources and were not misstated in the checked sentence.",
+      "publication_eligible": false
+    },
+    {
+      "id": "UI-05",
+      "document_id": "DOL-BENEFIT-PROCESS",
+      "exact_claim": "If you disagree, you may request a hearing within 30 days from the date of the determination.",
+      "location": "Hearing and Appeals subsection",
+      "rule_ids": ["LAB-620-1a", "NYCRR-461-1a"],
+      "outcome": "no_supported_misrepresentation",
+      "comparison": "Thirty-day general summary is broadly aligned. It does not say agency receipt is required and does not expressly foreclose mailing/receipt presumptions.",
+      "publication_eligible": false
+    },
+    {
+      "id": "UI-06",
+      "document_id": "DOL-BENEFIT-PROCESS",
+      "exact_claim": "New Yorkers who are receiving Unemployment Insurance benefits are eligible for up to 26 weeks of benefits.",
+      "location": "What You Need to Know list",
+      "rule_ids": ["LAB-590-4"],
+      "outcome": "no_supported_misrepresentation",
+      "comparison": "Ordinary benefits are capped at 26 times the weekly rate; statutory exceptions and partial weeks complicate a literal week count, but 'up to' is an acceptable general summary in this context. No material contradiction established.",
+      "publication_eligible": false
+    },
+    {
+      "id": "UI-07",
+      "document_id": "DOL-EMPLOYER-GLOSSARY",
+      "exact_claim": "If a claimant works less than four days in a week and earned less than the maximum benefit rate, the claimant may receive partial benefits.",
+      "location": "Partial benefits glossary entry",
+      "rule_ids": ["LAB-522-523"],
+      "outcome": "uncertain_lead",
+      "confidence": "pending",
+      "potential_significance": "moderate",
+      "current_relevance": "active",
+      "historical_classification": "outdated_guidance_possible",
+      "comparison": "The employer glossary uses older day-count language; current DOL partial-benefit page says a claimant may work up to seven days, subject to hour/earnings conditions. Binding-current legal effect and the 2025 statutory transition are not fully resolved, so this is not a supported misrepresentation yet.",
+      "counterargument": "The word 'may' could state a sufficient rather than necessary condition, and current statutory treatment of partial employment has recently changed. The glossary audience is employers and its old wording might be incomplete rather than materially false.",
+      "publication_eligible": false
+    },
+    {
+      "id": "UI-08",
+      "document_id": "DOL-PARTIAL-ELIGIBILITY",
+      "exact_claim": "Under the new rules, you can work up to 7 days per week without losing full unemployment benefits for that week, if you work 30 hours or fewer and earn less than the maximum benefit rate in gross pay excluding earnings from self-employment.",
+      "location": "Overview paragraph",
+      "rule_ids": ["LAB-522-523"],
+      "outcome": "evidence_limitation",
+      "comparison": "This page supplies agency context against UI-07, but its precise correspondence to recently amended statutory conditions has not been independently established. No adverse verdict assigned.",
+      "publication_eligible": false
+    }
+  ],
+  "coverage": {
+    "issue_sweeps": 1,
+    "legal_questions": 3,
+    "agencies_searched": 2,
+    "government_publications_found": 6,
+    "documents_retrieved": 6,
+    "documents_partially_screened": 6,
+    "documents_fully_screened": 0,
+    "claims_extracted": 8,
+    "claims_assessed": 8,
+    "claims_independently_reviewed": 0,
+    "supported_misrepresentations": 0,
+    "serious_candidates_pending_review": 1,
+    "uncertain_leads": 1,
+    "no_supported_misrepresentation": 5,
+    "evidence_limitations": 1,
+    "languages_examined": ["en"],
+    "verified_corrections_or_withdrawals": 0
+  },
+  "quality_control": {
+    "method": "Manual targeted screen plus examination of selected unflagged sentences on the same issue; no random sample or detection-rate estimate.",
+    "negative_checks": ["UI-02", "UI-03", "UI-04", "UI-05", "UI-06"],
+    "limitations": "No full-document screen; no automated extraction audit; publication/update dates often absent from pages; regulatory currency and partial-benefit statutory transition require additional verification."
+  },
+  "next_checks": [
+    "Independent reviewer conclusion on UI-01, including latest official 12 NYCRR 461.1 text and any contrary exceptions or judicial authority.",
+    "Determine current applicability/effective dates of partial-benefit amendments before any conclusion on UI-07 or UI-08.",
+    "Capture durable source copies or hashes of all serious-candidate pages and official legal authorities.",
+    "Expand the defined issue corpus and conduct whole-document screening before claiming systematic coverage."
+  ]
+}

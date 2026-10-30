@@ -64,6 +64,13 @@ p{margin-bottom:10px}
 .finding-card details{margin-top:15px;border-top:1px solid var(--line);padding:12px 0}
 .finding-card summary{cursor:pointer;color:var(--blue)}
 .finding-card code{overflow-wrap:anywhere;font-size:12px}
+.claim-row,.rule-row,.source-row{border-top:1px solid var(--line);padding:17px 0}
+.claim-row blockquote,.source-row blockquote{font:18px/1.45 Georgia,"Times New Roman",serif;margin:9px 0 12px;white-space:pre-wrap}
+.claim-row p,.source-row p{max-width:980px}
+.legal-comparison code{overflow-wrap:anywhere;font-size:11px}
+.legal-comparison section{min-width:0}
+.legal-comparison section>div+div{border-top:1px solid var(--line);margin-top:18px;padding-top:18px}
+.home-heading h1{max-width:900px}
 .table-wrap{overflow-x:auto}
 .mobile-table-hint{display:none;font-size:13px;color:var(--muted)}
 table{width:100%;border-collapse:collapse;font-size:14px}

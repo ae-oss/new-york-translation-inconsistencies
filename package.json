@@ -5,8 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "validate:data": "node scripts/validate-public-data.mjs",
+    "validate:legal": "node scripts/validate-legal-data.mjs",
+    "refresh:legal": "node scripts/build-legal-preview.mjs && node scripts/validate-legal-data.mjs",
     "typecheck": "tsc --noEmit",
-    "build": "node scripts/validate-public-data.mjs && next build"
+    "build": "node scripts/validate-public-data.mjs && node scripts/validate-legal-data.mjs && next build"
   },
   "dependencies": {
     "next": "^15.5.0",
