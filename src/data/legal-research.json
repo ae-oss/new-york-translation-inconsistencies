@@ -1,7 +1,7 @@
 {
   "as_of": "2026-10-30",
-  "stage": "Initial published research",
-  "notice": "Two bounded issue sweeps produced two independently reviewed, high-confidence findings. Coverage remains partial; each case states its legal qualifications and evidence limits.",
+  "stage": "Published initial findings; second-round targeted screening in progress",
+  "notice": "Two independently reviewed findings remain published. Three new issue sweeps now show verified source inventories and limited claim screens; no new finding has passed independent review.",
   "issues": [
     {
       "id": "paid-sick-leave",
@@ -18,7 +18,7 @@
         "ny-ag"
       ],
       "status": "Initial finding approved after independent and 30 October source checks",
-      "limitations": "The lead agency page and governing sources were recaptured on 30 October 2026. Remaining documents are only partially screened. The 2022 FAQ is still linked but visibly older. The 68-page P737 compendium has not been fully reviewed. No actual worker harm was found.",
+      "limitations": "The lead agency page and governing sources were recaptured on 30 October 2026. Remaining documents are only partially screened. The 2022 FAQ is still linked but visibly older. P737's relevant paid-sick-leave portion (PDF pp. 51–59) was examined, not its unrelated chapters. No actual worker harm was found.",
       "claims_identified_topic_level": 63,
       "claims_screened_topic_level": 28
     },
@@ -39,6 +39,60 @@
       "limitations": "Only selected page sections and claims have been checked. The Appeal Board still posts the rule and applied its receipt calculation in a May 2026 decision; its latest official printed NYCRR supplement was not available for direct inspection. No actual lost appeal was found.",
       "claims_identified_topic_level": 8,
       "claims_screened_topic_level": 8
+    },
+    {
+      "id": "medicaid-appeals",
+      "title": "Medicaid managed-care appeals and continued benefits",
+      "summary": "What official model materials say about plan appeals, State fair hearings, and aid continuing.",
+      "scope": "New York State Department of Health model handbook, notices, charts, and related managed-care guidance. Only specified passages have been compared; plan type and notice type matter.",
+      "legal_questions": [
+        "After a plan's final adverse determination, when may an enrollee request a State fair hearing?",
+        "When must an enrollee request continuation of a previously authorized service?",
+        "Do model notices distinguish plan appeals from State fair hearings?"
+      ],
+      "agency_ids": [
+        "ny-doh"
+      ],
+      "status": "Second-round targeted screening in progress",
+      "limitations": "Eight official publications were captured, one located page was not retrievable. The model handbook is a template, not proof that a plan used it. Federal 42 CFR 438.408(f)(2) allows 90–120 days, while the displayed state 18 NYCRR 360-10.8 text still says 60 days; current rule hierarchy and adoption status require further review. No new finding has passed independent review.",
+      "claims_identified_topic_level": 3,
+      "claims_screened_topic_level": 2
+    },
+    {
+      "id": "rent-overcharge",
+      "title": "Rent-stabilization overcharge and appeal guidance",
+      "summary": "Overcharge remedies, review periods, and administrative appeal timing in HCR publications.",
+      "scope": "New York State Homes and Community Renewal guidance for rent-stabilized apartments, including both NYC and ETPA jurisdictions only where the document says so.",
+      "legal_questions": [
+        "How long does a party have to petition for administrative review of an HCR order?",
+        "When may a tenant collect an awarded overcharge penalty?",
+        "How do post-2019 and earlier complaint periods differ?"
+      ],
+      "agency_ids": [
+        "ny-hcr"
+      ],
+      "status": "Second-round targeted screening in progress",
+      "limitations": "Eight distinct HCR publications were captured; Fact Sheet 26 was located but its PDF endpoint did not permit a stable direct capture. Selected claims in Fact Sheet 16 were read. The current official printed rent-code supplement was not inspected; period and jurisdiction distinctions remain material. No new finding has passed independent review.",
+      "claims_identified_topic_level": 3,
+      "claims_screened_topic_level": 2
+    },
+    {
+      "id": "paid-family-leave",
+      "title": "Paid Family Leave eligibility and claims",
+      "summary": "Eligibility, benefit level, application, and payment guidance for New York Paid Family Leave.",
+      "scope": "Workers' Compensation Board and Paid Family Leave program publications; ordinary PFL is distinguished from expired COVID quarantine leave and from disability benefits.",
+      "legal_questions": [
+        "Which workers meet the usual 26-week or 175-day eligibility conditions?",
+        "What are the current duration and wage-replacement limits?",
+        "How are complete family-care claims submitted and decided?"
+      ],
+      "agency_ids": [
+        "ny-wcb"
+      ],
+      "status": "Second-round targeted screening in progress",
+      "limitations": "Nine official publications were captured; four additional official links were located but their file endpoints rejected stable direct capture. Selected eligibility and 2026 benefit claims were checked. A construction-worker rule taking effect in 2027 is excluded from current-law conclusions. No new finding has passed independent review.",
+      "claims_identified_topic_level": 3,
+      "claims_screened_topic_level": 2
     }
   ],
   "agencies": [
@@ -53,6 +107,24 @@
       "name": "Office of the New York State Attorney General",
       "jurisdiction": "New York State",
       "url": "https://ag.ny.gov/"
+    },
+    {
+      "id": "ny-doh",
+      "name": "New York State Department of Health",
+      "jurisdiction": "New York State",
+      "url": "https://www.health.ny.gov/"
+    },
+    {
+      "id": "ny-hcr",
+      "name": "New York State Homes and Community Renewal",
+      "jurisdiction": "New York State",
+      "url": "https://hcr.ny.gov/"
+    },
+    {
+      "id": "ny-wcb",
+      "name": "New York State Workers' Compensation Board",
+      "jurisdiction": "New York State",
+      "url": "https://www.wcb.ny.gov/"
     }
   ],
   "sources": [
@@ -181,15 +253,22 @@
       "url": "https://dol.ny.gov/system/files/documents/2026/03/p737-2-26.pdf",
       "language": "en",
       "publication_date": "2026 edition; exact posting date not established",
-      "accessed_at": "2026-10-26",
+      "accessed_at": "2026-10-30",
       "current_relevance": "Active",
       "coverage": "partially_screened",
       "claim_ids": [
         "psl:PSL-BASE-011",
         "psl:PSL-BASE-012"
       ],
-      "screen_note": "paid-sick-leave FAQ segment around PDF pp. 52-58; 68-page compendium not fully screened",
-      "capture": null
+      "screen_note": "Relevant paid-sick-leave portion reviewed on PDF pp. 51–59 (printed pp. 47–55), including accrual, use, notice, carryover, and overlap passages; remaining compendium topics outside this sweep. Two existing claims retained, one unresolved.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/psl-P737.pdf",
+        "sha256": "448eb2b856990143f1dab8c9be80b0ae1db7d50d0a74e7b6e26ccba8c271138e",
+        "captured_at": "2026-10-30",
+        "kind": "raw official PDF",
+        "image": null,
+        "image_sha256": null
+      }
     },
     {
       "id": "ui:DOL-UI-CONTACT",
@@ -307,6 +386,656 @@
         "ui:UI-08"
       ],
       "screen_note": "overview and hours chart read; full document not certified",
+      "capture": null
+    },
+    {
+      "id": "med:appeals-index",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Service Authorization and Appeals index",
+      "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/index.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/med-appeals-index.html",
+        "sha256": "b63b0b4de88d3f8b9465ff07d22b20fd989b09c6115d65d64262a152fdb99a81",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "med:timeframe-chart",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Medicaid Managed Care Service Authorization and Appeals Timeframe Comparison",
+      "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/authorize-appeals_timeframe_comparison.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/med-timeframe-chart.html",
+        "sha256": "a6ef228a3aac2122e3f60a66de5282045c62cf3ca75c91a1b8bcb2a26675cc3d",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "med:model-handbook",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Medicaid Managed Care Model Member Handbook",
+      "url": "https://www.health.ny.gov/health_care/managed_care/medicaid/mmc_model_member_handbook.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "med:hearing-120",
+        "med:aid-10"
+      ],
+      "screen_note": "Identified claim passages compared only; rest of publication not certified.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/med-model-handbook.html",
+        "sha256": "b8c44790a4ffcc56f7e34f6d59c7d2175312c8624aa93032de2ec22e06f83f7d",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "med:fad-guidance",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Guidance for Required Changes to Final Adverse Determination Notices",
+      "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/guidance/final_det_notices.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/med-fad-guidance.html",
+        "sha256": "759ce9b451f71974c4cd683b455cfed8f587bc86b2ea8053fe592adc54fd5f98",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "med:fair-hearing-guidance",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Enrollee Right to Fair Hearing and Aid Continuing",
+      "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/2017-12-15_fair_hearing.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/med-fair-hearing-guidance.html",
+        "sha256": "de406efa67a7f202a48139e818c137e47e0e29d2123f17917444269042bc122d",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "med:fad-denial",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Final Adverse Determination denial notice model",
+      "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/guidance/final_fad.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/med-fad-denial.html",
+        "sha256": "4ad2ddb3d1ccb248662098d1ee496c249e003662fd6cf8fb020e75b64ab78d4c",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "med:complaints",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Managed Care Complaints and Appeals",
+      "url": "https://www.health.ny.gov/health_care/managed_care/complaints/",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/med-complaints.html",
+        "sha256": "f9de56001e951a302faf3ac3bf3b5c9b839032ea6bbd81b5fcadf49d4fe1199e",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "med:health-home-policy",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Health Home Notices of Determination and Fair Hearing Policy",
+      "url": "https://www.health.ny.gov/health_care/medicaid/program/medicaid_health_homes/policy/hh0004_fair_hearing_nod_policy.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Uncertain",
+      "coverage": "discovered",
+      "claim_ids": [],
+      "screen_note": "Official link located; direct binary capture failed, so text and edition not certified.",
+      "capture": null
+    },
+    {
+      "id": "med:alj-info",
+      "issue_id": "medicaid-appeals",
+      "agency_id": "ny-doh",
+      "title": "Aid Continuing Information for ALJs",
+      "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/2018-04-20_alj_info.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/med-alj-info.html",
+        "sha256": "4dd756f2a7b7cdec4144aa0c93fa01a7747f8dbb1b1eb4eb580b866842facb19",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "rent:landing",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Rent Increases and Rent Overcharge",
+      "url": "https://hcr.ny.gov/rent-increases-and-rent-overcharge",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/rent-landing.html",
+        "sha256": "ae9f7066e8a92d913a91d1c4bf56779fad62cb2782a755ddfdf73d537df41169",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "rent:fact16",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Fact Sheet 16: Collecting Overcharges in Rent Stabilized Apartments",
+      "url": "https://hcr.ny.gov/system/files/documents/2025/07/fact-sheet-16-07-2025.pdf",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "rent:par-35",
+        "rent:treble-six"
+      ],
+      "screen_note": "Identified claim passages compared only; rest of publication not certified.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/rent-fact16.pdf",
+        "sha256": "2b551514e0fb6a419bf454fb7b3703055151aec619bf42e5450419bc28acd29c",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "rent:fact26",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Fact Sheet 26: Guide to Rent Increases for Rent Stabilized Apartments",
+      "url": "https://hcr.ny.gov/system/files/documents/2025/07/fact-sheet-26-07-2025.pdf",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Uncertain",
+      "coverage": "discovered",
+      "claim_ids": [],
+      "screen_note": "Official link located; direct binary capture failed, so text and edition not certified.",
+      "capture": null
+    },
+    {
+      "id": "rent:fact40",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Fact Sheet 40: Preferential Rents",
+      "url": "https://hcr.ny.gov/system/files/documents/2024/05/fact-sheet-40-05-2024_0.pdf",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/rent-fact40.pdf",
+        "sha256": "9c7a6e13d8b71eccd81137feab9cc3b016b912f148b0833b961ace172509c17b",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "rent:ra89",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Form RA-89: Tenant's Complaint of Rent Overcharge",
+      "url": "https://hcr.ny.gov/system/files/documents/2023/12/ra-89-fillable.pdf",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/rent-ra89.pdf",
+        "sha256": "6d5b5216e0b27805899a77494657c9ca2e0bf14ea62eff171b814155118f9c13",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "rent:forms",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Tenant and Owner Forms",
+      "url": "https://hcr.ny.gov/tenant-owner-forms",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/rent-forms.html",
+        "sha256": "adce2b68e65d55ab194acb9b096f091ab2fe7d00985d6637ca5ff34d2929531d",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "rent:leases",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Leases",
+      "url": "https://hcr.ny.gov/leases",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/rent-leases.html",
+        "sha256": "a7df42d79e8c62c5664a35341be4dbea70b6a811e8051fc14094a5a3b7b7ae9a",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "rent:stabilization",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Rent Stabilization and Emergency Tenant Protection Act",
+      "url": "https://hcr.ny.gov/rent-stabilization-and-emergency-tenant-protection-act",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/rent-stabilization.html",
+        "sha256": "2dec9ee58f76f33a4510f248c6a799abf0e6f4efd161f9e3a026293cd37e2a67",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "rent:office",
+      "issue_id": "rent-overcharge",
+      "agency_id": "ny-hcr",
+      "title": "Office of Rent Administration",
+      "url": "https://hcr.ny.gov/office-rent-administration-ora",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/rent-office.html",
+        "sha256": "06c29cff2ba2a0d35555797eaae331d788a5b6d2d4dcc979bde2e63710673bc4",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:eligibility",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Paid Family Leave Eligibility",
+      "url": "https://paidfamilyleave.ny.gov/eligibility",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "pfl:eligibility-26"
+      ],
+      "screen_note": "Identified claim passages compared only; rest of publication not certified.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-eligibility.html",
+        "sha256": "800ce2004bac3ebc02080fc1075c9dcc8847c2d61aa8370864ef63642a16dff2",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:protections",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Paid Family Leave Protections",
+      "url": "https://paidfamilyleave.ny.gov/protections",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-protections.html",
+        "sha256": "c80d8e23f2b6e7af2ecc3117100f23e0b0a8b296ef553a2536919e59e6cf4a47",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:forms",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Paid Family Leave Forms",
+      "url": "https://paidfamilyleave.ny.gov/forms",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-forms.html",
+        "sha256": "089ed128a3135fafdf6279d0c706457c794282d95937564948f4c80ff8467109",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:2026",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Paid Family Leave 2026",
+      "url": "https://paidfamilyleave.ny.gov/2026",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "pfl:benefit-2026"
+      ],
+      "screen_note": "Identified claim passages compared only; rest of publication not certified.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-2026.html",
+        "sha256": "c2c8e4c648f9f4b132eb175ecb9ebd4d96ed20dc14da96eabe427fcfec5fe987",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:family-care",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Paid Family Leave for Family Care",
+      "url": "https://paidfamilyleave.ny.gov/paid-family-leave-family-care",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-family-care.html",
+        "sha256": "41bae6a48e0b2048c0956b017c15592f96df51a5067d85e203515804779f4821",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:bonding",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Bonding Leave for the Birth of a Child",
+      "url": "https://paidfamilyleave.ny.gov/bonding-leave-birth-child",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-bonding.html",
+        "sha256": "6d36c4233599928d0eb4a2a0fe0743f01c71078c67b5208a759a5a2033634e6b",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:rights",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Statement of Rights for Paid Family Leave",
+      "url": "https://paidfamilyleave.ny.gov/system/files/documents/2025/09/pfl271s.pdf",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Uncertain",
+      "coverage": "discovered",
+      "claim_ids": [],
+      "screen_note": "Official link located; direct binary capture failed, so text and edition not certified.",
+      "capture": null
+    },
+    {
+      "id": "pfl:request",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Request for Paid Family Leave form and instructions",
+      "url": "https://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/PFL2.pdf",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Uncertain",
+      "coverage": "discovered",
+      "claim_ids": [],
+      "screen_note": "Official link located; direct binary capture failed, so text and edition not certified.",
+      "capture": null
+    },
+    {
+      "id": "pfl:family-form",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Family Care Paid Family Leave form and instructions",
+      "url": "https://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/PFL3.pdf",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Uncertain",
+      "coverage": "discovered",
+      "claim_ids": [],
+      "screen_note": "Official link located; direct binary capture failed, so text and edition not certified.",
+      "capture": null
+    },
+    {
+      "id": "pfl:military",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Assisting a Service Member Fact Sheet",
+      "url": "https://paidfamilyleave.ny.gov/assisting-service-member-fact-sheet",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-military.html",
+        "sha256": "22b424443689add68cd17960c49170aa0ad05821eb4070999b142b4c4581610a",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:rates",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "2026 Paid Family Leave rates announcement",
+      "url": "https://apps.wcb.ny.gov/content/main/PressRe/paid-family-leave-2026.jsp",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-rates.html",
+        "sha256": "303b2c8255d78aabf7a05c80a2c5a6ef46e0eb566e486dbe938a89d1db71ca4a",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:coverage",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Disability and Paid Family Leave Coverage Requirements",
+      "url": "https://www.wcb.ny.gov/content/main/coverage-required-db.jsp",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Active",
+      "coverage": "retrieved",
+      "claim_ids": [],
+      "screen_note": "Official copy captured; no claim-level screen completed.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/round-two/pfl-coverage.html",
+        "sha256": "a8cc98970b4b07d7af15bf2d2bc78a73757c0472d61501709b3db6587369136c",
+        "captured_at": "2026-10-30",
+        "kind": "official HTTP response; Health Department mirror used where recorded in manifest",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "pfl:employer",
+      "issue_id": "paid-family-leave",
+      "agency_id": "ny-wcb",
+      "title": "Employers' Rights and Responsibilities",
+      "url": "https://docs.paidfamilyleave.ny.gov/content/main/DisabilityBenefits/employers-rights-responsibilities.jsp",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-10-30",
+      "current_relevance": "Uncertain",
+      "coverage": "discovered",
+      "claim_ids": [],
+      "screen_note": "Official link located; direct binary capture failed, so text and edition not certified.",
       "capture": null
     }
   ],
@@ -456,6 +1185,90 @@
       "applicability": "See linked legal text and source record",
       "qualifications": "Check party, notice, filing method, and any statutory exception.",
       "corroboration": []
+    },
+    {
+      "id": "med:CFR-438-408",
+      "issue_id": "medicaid-appeals",
+      "citation": "42 CFR § 438.408(f)(2)",
+      "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-438/subpart-F/section-438.408",
+      "text": "For a managed-care plan appeal resolution, the State must allow 90 to 120 calendar days for a fair-hearing request.",
+      "exact_text": "The enrollee must have no less than 90 calendar days and no more than 120 calendar days from the date of the MCO's, PIHP's, or PAHP's notice of resolution to request a State fair hearing.",
+      "effective_date": "eCFR current through 2026-10-28",
+      "applicability": "Managed-care plan appeal resolution, not every Medicaid hearing type.",
+      "qualifications": "Federal rule sets a range. The displayed New York state regulation's older 60-day wording creates a rule-currentness issue that is not resolved by the handbook alone.",
+      "corroboration": [
+        {
+          "label": "DOH model handbook",
+          "url": "https://www.health.ny.gov/health_care/managed_care/medicaid/mmc_model_member_handbook.htm"
+        },
+        {
+          "label": "State regulation page showing 60 days",
+          "url": "https://regs.health.ny.gov/content/section-360-108-fair-hearings"
+        }
+      ]
+    },
+    {
+      "id": "med:CFR-438-420",
+      "issue_id": "medicaid-appeals",
+      "citation": "42 CFR § 438.420",
+      "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-438/subpart-F/section-438.420",
+      "text": "Continued benefits for a timely appeal of a reduction, suspension, or termination require the regulatory conditions and a timely continuation request.",
+      "exact_text": "The enrollee timely files for continuation of benefits.",
+      "effective_date": "eCFR current through 2026-10-28",
+      "applicability": "Previously authorized services under managed care; plan appeal and fair-hearing stages differ.",
+      "qualifications": "The provision defines timely filing as within 10 calendar days of notice or by intended effective date, whichever is later, and requires other conditions, including an unexpired authorization.",
+      "corroboration": [
+        {
+          "label": "DOH fair hearing and aid continuing guidance",
+          "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/2017-12-15_fair_hearing.htm"
+        }
+      ]
+    },
+    {
+      "id": "rent:NYCRR-2529-2",
+      "issue_id": "rent-overcharge",
+      "citation": "9 NYCRR § 2529.2",
+      "url": "https://govt.westlaw.com/nycrr/Document/I4f8cead1cd1711dda432a117e6e0f345?viewType=FullText",
+      "text": "A petition for administrative review of a Rent Administrator order is filed within 35 days after issuance.",
+      "exact_text": null,
+      "effective_date": null,
+      "applicability": "New York City rent-stabilization administrative review; ETPA rules require separate checking.",
+      "qualifications": "Online NYCRR copy is marked unofficial, and the latest official printed supplement was not directly inspected. HCR's own appeal page gives the same 35-day period.",
+      "corroboration": [
+        {
+          "label": "HCR Appealing an Order",
+          "url": "https://hcr.ny.gov/node/331"
+        }
+      ]
+    },
+    {
+      "id": "pfl:WKC-203",
+      "issue_id": "paid-family-leave",
+      "citation": "Workers' Compensation Law § 203",
+      "url": "https://www.nysenate.gov/legislation/laws/WKC/203",
+      "text": "Usual eligibility is 26 consecutive weeks with a covered employer; employees regularly working fewer than 20 hours weekly qualify on the 175th day of regular employment.",
+      "exact_text": null,
+      "effective_date": "2026-02-27 revision; 2027 amendment not yet effective",
+      "applicability": "Covered employment in the current statutory period.",
+      "qualifications": "The statute has additional categories and a separate construction-worker provision effective January 1, 2027. Program pages simplify those details.",
+      "corroboration": []
+    },
+    {
+      "id": "pfl:WKC-204",
+      "issue_id": "paid-family-leave",
+      "citation": "Workers' Compensation Law § 204(2)(a)",
+      "url": "https://www.nysenate.gov/legislation/laws/WKC/204",
+      "text": "Current PFL benefits are capped at 12 weeks per 52-week period and 67% of average weekly wage, subject to a state-wage cap.",
+      "exact_text": null,
+      "effective_date": "Current 2026 benefit tier",
+      "applicability": "Eligible paid family leave; not disability benefits.",
+      "qualifications": "Annual state average weekly wage sets the dollar cap; the Superintendent's delay authority and statutory benefit qualifications must be considered.",
+      "corroboration": [
+        {
+          "label": "2026 Board rates announcement",
+          "url": "https://apps.wcb.ny.gov/content/main/PressRe/paid-family-leave-2026.jsp"
+        }
+      ]
     }
   ],
   "claims": [
@@ -1066,6 +1879,154 @@
       "limitations": "Initial bounded comparison; regulation currency and independent review may be outstanding.",
       "independently_reviewed": false,
       "screened_at": "2026-10-26"
+    },
+    {
+      "id": "med:hearing-120",
+      "issue_id": "medicaid-appeals",
+      "source_id": "med:model-handbook",
+      "rule_ids": [
+        "med:CFR-438-408"
+      ],
+      "exact_quote": "If you receive a Final Adverse Determination, you will have 120 calendar days from the date of the Final Adverse Determination to ask for a State Fair Hearing.",
+      "location": "Model handbook, Plan Appeals / Fair Hearings",
+      "surrounding_context": "Only the identified passage was compared; the linked publication supplies full context.",
+      "outcome": "uncertain_lead",
+      "confidence": "Low",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The handbook's 120-day period falls within the current federal 90–120-day range. The state regulation website still displays 60 days for some managed-care hearing requests, so the New York implementation and amendment status must be resolved before any verdict.",
+      "counterargument": "Federal law may displace an inconsistent shorter state window; an amendment or plan-specific rule may explain the difference.",
+      "reviewer_outcome": "Independent challenge pending; no publication as a finding.",
+      "example": "",
+      "potential_consequence": "Not established for this targeted check.",
+      "documented_consequence": "None established.",
+      "limitations": "Do not call the handbook wrong or assume the older state page governs this specific plan-appeal path.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-30"
+    },
+    {
+      "id": "med:aid-10",
+      "issue_id": "medicaid-appeals",
+      "source_id": "med:model-handbook",
+      "rule_ids": [
+        "med:CFR-438-420"
+      ],
+      "exact_quote": "You must ask for a fair hearing within 10 days from the date of the Final Adverse Determination or by the time the action takes effect, whichever is later.",
+      "location": "Model handbook, Aid to Continue after Plan Appeal",
+      "surrounding_context": "Only the identified passage was compared; the linked publication supplies full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The ten-day/effective-date framework is consistent with the federal continuation rule for an adverse appeal resolution, subject to the rule's other eligibility conditions.",
+      "counterargument": "No contrary example established in this targeted check.",
+      "reviewer_outcome": "Independent challenge pending; no publication as a finding.",
+      "example": "",
+      "potential_consequence": "Not established for this targeted check.",
+      "documented_consequence": "None established.",
+      "limitations": "Only the model passage and federal rule were checked; plan-specific notices and state implementation remain to be inspected.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-30"
+    },
+    {
+      "id": "rent:par-35",
+      "issue_id": "rent-overcharge",
+      "source_id": "rent:fact16",
+      "rule_ids": [
+        "rent:NYCRR-2529-2"
+      ],
+      "exact_quote": "The filing of a PAR within 35 days of the Rent Administrator’s order by the owner or tenant will prevent the tenant from collecting the penalty awarded until the Commissioner rules on the PAR.",
+      "location": "Fact Sheet 16, PDF page 2",
+      "surrounding_context": "Only the identified passage was compared; the linked publication supplies full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The 35-day filing period matches HCR's current Appealing an Order page and the unofficial online text of 9 NYCRR § 2529.2. This check found no contrary deadline in the identified NYC rent-stabilization context.",
+      "counterargument": "No contrary example established in this targeted check.",
+      "reviewer_outcome": "Independent challenge pending; no publication as a finding.",
+      "example": "",
+      "potential_consequence": "Not established for this targeted check.",
+      "documented_consequence": "None established.",
+      "limitations": "The official printed code supplement and ETPA counterpart were not directly inspected.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-30"
+    },
+    {
+      "id": "rent:treble-six",
+      "issue_id": "rent-overcharge",
+      "source_id": "rent:fact16",
+      "rule_ids": [],
+      "exact_quote": "For complaints filed on or after the passage of the Housing Stability and Tenant Protection Act (HSTPA) on June 14, 2019, in the event of a willful overcharge, the penalty equals three times the amount of the overcharge beginning up to six years prior to the filing of the complaint.",
+      "location": "Fact Sheet 16, PDF page 2",
+      "surrounding_context": "Only the identified passage was compared; the linked publication supplies full context.",
+      "outcome": "evidence_limitation",
+      "confidence": "Pending",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The 2019 timing distinction and six-year language are consistent with HCR's public HSTPA overview, but this pass did not establish every statutory exception or the exact current code text for a legal-effect verdict.",
+      "counterargument": "No contrary example established in this targeted check.",
+      "reviewer_outcome": "Independent challenge pending; no publication as a finding.",
+      "example": "",
+      "potential_consequence": "Not established for this targeted check.",
+      "documented_consequence": "None established.",
+      "limitations": "The phrasing has not been independently checked against all governing rent-stabilization and ETPA provisions.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-30"
+    },
+    {
+      "id": "pfl:eligibility-26",
+      "issue_id": "paid-family-leave",
+      "source_id": "pfl:eligibility",
+      "rule_ids": [
+        "pfl:WKC-203"
+      ],
+      "exact_quote": "Employees who work a regular schedule of 20 or more hours per week are eligible after 26 consecutive weeks of employment.",
+      "location": "Eligibility page, full-time employees",
+      "surrounding_context": "Only the identified passage was compared; the linked publication supplies full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "This matches the usual current statutory eligibility threshold for covered employment. The page also gives the 175-day rule for regular schedules below 20 hours weekly.",
+      "counterargument": "No contrary example established in this targeted check.",
+      "reviewer_outcome": "Independent challenge pending; no publication as a finding.",
+      "example": "",
+      "potential_consequence": "Not established for this targeted check.",
+      "documented_consequence": "None established.",
+      "limitations": "Special statutory categories and the 2027 construction-worker amendment were not screened as current ordinary eligibility.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-30"
+    },
+    {
+      "id": "pfl:benefit-2026",
+      "issue_id": "paid-family-leave",
+      "source_id": "pfl:2026",
+      "rule_ids": [
+        "pfl:WKC-204"
+      ],
+      "exact_quote": "Employees taking Paid Family Leave receive 67% of their average weekly wage, up to a cap of 67% of the current New York State Average Weekly Wage (NYSAWW).",
+      "location": "2026 benefits page, wage replacement",
+      "surrounding_context": "Only the identified passage was compared; the linked publication supplies full context.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The quoted percentage and state-wage cap match the current statutory benefit tier and Board's 2026 rates notice.",
+      "counterargument": "No contrary example established in this targeted check.",
+      "reviewer_outcome": "Independent challenge pending; no publication as a finding.",
+      "example": "",
+      "potential_consequence": "Not established for this targeted check.",
+      "documented_consequence": "None established.",
+      "limitations": "Specific wage calculations and carrier decisions were not audited.",
+      "independently_reviewed": false,
+      "screened_at": "2026-10-30"
     }
   ],
   "findings": [

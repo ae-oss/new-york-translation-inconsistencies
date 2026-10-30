@@ -1,0 +1,341 @@
+[
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:appeals-index",
+    "title": "Service Authorization and Appeals index",
+    "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/index.htm",
+    "status": 200,
+    "fetched_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/index.htm",
+    "bytes": 30586,
+    "sha256": "b63b0b4de88d3f8b9465ff07d22b20fd989b09c6115d65d64262a152fdb99a81",
+    "file": "research/legal-misrepresentation/evidence/round-two/med-appeals-index.html"
+  },
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:timeframe-chart",
+    "title": "Medicaid Managed Care Service Authorization and Appeals Timeframe Comparison",
+    "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/authorize-appeals_timeframe_comparison.htm",
+    "status": 200,
+    "fetched_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/authorize-appeals_timeframe_comparison.htm",
+    "bytes": 31323,
+    "sha256": "a6ef228a3aac2122e3f60a66de5282045c62cf3ca75c91a1b8bcb2a26675cc3d",
+    "file": "research/legal-misrepresentation/evidence/round-two/med-timeframe-chart.html"
+  },
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:model-handbook",
+    "title": "Medicaid Managed Care Model Member Handbook",
+    "url": "https://www.health.ny.gov/health_care/managed_care/medicaid/mmc_model_member_handbook.htm",
+    "status": 200,
+    "fetched_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/medicaid/mmc_model_member_handbook.htm",
+    "bytes": 176330,
+    "sha256": "b8c44790a4ffcc56f7e34f6d59c7d2175312c8624aa93032de2ec22e06f83f7d",
+    "file": "research/legal-misrepresentation/evidence/round-two/med-model-handbook.html"
+  },
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:fad-guidance",
+    "title": "Guidance for Required Changes to Final Adverse Determination Notices",
+    "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/guidance/final_det_notices.htm",
+    "status": 200,
+    "fetched_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/guidance/final_det_notices.htm",
+    "bytes": 41031,
+    "sha256": "759ce9b451f71974c4cd683b455cfed8f587bc86b2ea8053fe592adc54fd5f98",
+    "file": "research/legal-misrepresentation/evidence/round-two/med-fad-guidance.html"
+  },
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:fair-hearing-guidance",
+    "title": "Enrollee Right to Fair Hearing and Aid Continuing",
+    "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/2017-12-15_fair_hearing.htm",
+    "status": 200,
+    "fetched_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/2017-12-15_fair_hearing.htm",
+    "bytes": 32303,
+    "sha256": "de406efa67a7f202a48139e818c137e47e0e29d2123f17917444269042bc122d",
+    "file": "research/legal-misrepresentation/evidence/round-two/med-fair-hearing-guidance.html"
+  },
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:fad-denial",
+    "title": "Final Adverse Determination denial notice model",
+    "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/guidance/final_fad.htm",
+    "status": 200,
+    "fetched_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/guidance/final_fad.htm",
+    "bytes": 61771,
+    "sha256": "4ad2ddb3d1ccb248662098d1ee496c249e003662fd6cf8fb020e75b64ab78d4c",
+    "file": "research/legal-misrepresentation/evidence/round-two/med-fad-denial.html"
+  },
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:complaints",
+    "title": "Managed Care Complaints and Appeals",
+    "url": "https://www.health.ny.gov/health_care/managed_care/complaints/",
+    "status": 200,
+    "fetched_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/complaints/",
+    "bytes": 36941,
+    "sha256": "f9de56001e951a302faf3ac3bf3b5c9b839032ea6bbd81b5fcadf49d4fe1199e",
+    "file": "research/legal-misrepresentation/evidence/round-two/med-complaints.html"
+  },
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:health-home-policy",
+    "title": "Health Home Notices of Determination and Fair Hearing Policy",
+    "url": "https://www.health.ny.gov/health_care/medicaid/program/medicaid_health_homes/policy/hh0004_fair_hearing_nod_policy.htm",
+    "error": "Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '35', 'https://healthweb-back.health.ny.gov/health_care/medicaid/program/medicaid_health_homes/policy/hh0004_fair_hearing_nod_policy.htm']' returned non-zero exit status 56."
+  },
+  {
+    "issue": "medicaid-appeals",
+    "id": "med:alj-info",
+    "title": "Aid Continuing Information for ALJs",
+    "url": "https://www.health.ny.gov/health_care/managed_care/plans/appeals/2018-04-20_alj_info.htm",
+    "status": 200,
+    "fetched_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/2018-04-20_alj_info.htm",
+    "bytes": 76741,
+    "sha256": "4dd756f2a7b7cdec4144aa0c93fa01a7747f8dbb1b1eb4eb580b866842facb19",
+    "file": "research/legal-misrepresentation/evidence/round-two/med-alj-info.html"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:landing",
+    "title": "Rent Increases and Rent Overcharge",
+    "url": "https://hcr.ny.gov/rent-increases-and-rent-overcharge",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/rent-increases-and-rent-overcharge",
+    "bytes": 59375,
+    "sha256": "ae9f7066e8a92d913a91d1c4bf56779fad62cb2782a755ddfdf73d537df41169",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-landing.html"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:fact16",
+    "title": "Fact Sheet 16: Collecting Overcharges in Rent Stabilized Apartments",
+    "url": "https://hcr.ny.gov/system/files/documents/2025/07/fact-sheet-16-07-2025.pdf",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/system/files/documents/2025/07/fact-sheet-16-07-2025.pdf",
+    "bytes": 336953,
+    "sha256": "2b551514e0fb6a419bf454fb7b3703055151aec619bf42e5450419bc28acd29c",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-fact16.pdf"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:fact26",
+    "title": "Fact Sheet 26: Guide to Rent Increases for Rent Stabilized Apartments",
+    "url": "https://hcr.ny.gov/system/files/documents/2025/07/fact-sheet-26-07-2025.pdf",
+    "error": "Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '35', 'https://hcr.ny.gov/system/files/documents/2025/07/fact-sheet-26-07-2025.pdf']' returned non-zero exit status 56."
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:fact40",
+    "title": "Fact Sheet 40: Preferential Rents",
+    "url": "https://hcr.ny.gov/system/files/documents/2024/05/fact-sheet-40-05-2024_0.pdf",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/system/files/documents/2024/05/fact-sheet-40-05-2024_0.pdf",
+    "bytes": 304433,
+    "sha256": "9c7a6e13d8b71eccd81137feab9cc3b016b912f148b0833b961ace172509c17b",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-fact40.pdf"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:ra89",
+    "title": "Form RA-89: Tenant's Complaint of Rent Overcharge",
+    "url": "https://hcr.ny.gov/system/files/documents/2023/12/ra-89-fillable.pdf",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/system/files/documents/2023/12/ra-89-fillable.pdf",
+    "bytes": 516154,
+    "sha256": "6d5b5216e0b27805899a77494657c9ca2e0bf14ea62eff171b814155118f9c13",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-ra89.pdf"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:ra89-landing",
+    "title": "Form RA-89 webpage",
+    "url": "https://hcr.ny.gov/form-ra-89",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/form-ra-89",
+    "bytes": 516154,
+    "sha256": "6d5b5216e0b27805899a77494657c9ca2e0bf14ea62eff171b814155118f9c13",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-ra89-landing.pdf"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:forms",
+    "title": "Tenant and Owner Forms",
+    "url": "https://hcr.ny.gov/tenant-owner-forms",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/tenant-owner-forms",
+    "bytes": 43455,
+    "sha256": "adce2b68e65d55ab194acb9b096f091ab2fe7d00985d6637ca5ff34d2929531d",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-forms.html"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:leases",
+    "title": "Leases",
+    "url": "https://hcr.ny.gov/leases",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/leases",
+    "bytes": 85009,
+    "sha256": "a7df42d79e8c62c5664a35341be4dbea70b6a811e8051fc14094a5a3b7b7ae9a",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-leases.html"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:stabilization",
+    "title": "Rent Stabilization and Emergency Tenant Protection Act",
+    "url": "https://hcr.ny.gov/rent-stabilization-and-emergency-tenant-protection-act",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/rent-stabilization-and-emergency-tenant-protection-act",
+    "bytes": 67023,
+    "sha256": "2dec9ee58f76f33a4510f248c6a799abf0e6f4efd161f9e3a026293cd37e2a67",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-stabilization.html"
+  },
+  {
+    "issue": "rent-overcharge",
+    "id": "rent:office",
+    "title": "Office of Rent Administration",
+    "url": "https://hcr.ny.gov/office-rent-administration-ora",
+    "status": 200,
+    "fetched_url": "https://hcr.ny.gov/office-rent-administration-ora",
+    "bytes": 48643,
+    "sha256": "06c29cff2ba2a0d35555797eaae331d788a5b6d2d4dcc979bde2e63710673bc4",
+    "file": "research/legal-misrepresentation/evidence/round-two/rent-office.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:eligibility",
+    "title": "Paid Family Leave Eligibility",
+    "url": "https://paidfamilyleave.ny.gov/eligibility",
+    "status": 200,
+    "fetched_url": "https://paidfamilyleave.ny.gov/eligibility",
+    "bytes": 41134,
+    "sha256": "800ce2004bac3ebc02080fc1075c9dcc8847c2d61aa8370864ef63642a16dff2",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-eligibility.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:protections",
+    "title": "Paid Family Leave Protections",
+    "url": "https://paidfamilyleave.ny.gov/protections",
+    "status": 200,
+    "fetched_url": "https://paidfamilyleave.ny.gov/protections",
+    "bytes": 43237,
+    "sha256": "c80d8e23f2b6e7af2ecc3117100f23e0b0a8b296ef553a2536919e59e6cf4a47",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-protections.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:forms",
+    "title": "Paid Family Leave Forms",
+    "url": "https://paidfamilyleave.ny.gov/forms",
+    "status": 200,
+    "fetched_url": "https://paidfamilyleave.ny.gov/forms",
+    "bytes": 110374,
+    "sha256": "089ed128a3135fafdf6279d0c706457c794282d95937564948f4c80ff8467109",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-forms.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:2026",
+    "title": "Paid Family Leave 2026",
+    "url": "https://paidfamilyleave.ny.gov/2026",
+    "status": 200,
+    "fetched_url": "https://paidfamilyleave.ny.gov/2026",
+    "bytes": 34896,
+    "sha256": "c2c8e4c648f9f4b132eb175ecb9ebd4d96ed20dc14da96eabe427fcfec5fe987",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-2026.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:family-care",
+    "title": "Paid Family Leave for Family Care",
+    "url": "https://paidfamilyleave.ny.gov/paid-family-leave-family-care",
+    "status": 200,
+    "fetched_url": "https://paidfamilyleave.ny.gov/paid-family-leave-family-care",
+    "bytes": 51650,
+    "sha256": "41bae6a48e0b2048c0956b017c15592f96df51a5067d85e203515804779f4821",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-family-care.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:bonding",
+    "title": "Bonding Leave for the Birth of a Child",
+    "url": "https://paidfamilyleave.ny.gov/bonding-leave-birth-child",
+    "status": 200,
+    "fetched_url": "https://paidfamilyleave.ny.gov/bonding-leave-birth-child",
+    "bytes": 49319,
+    "sha256": "6d36c4233599928d0eb4a2a0fe0743f01c71078c67b5208a759a5a2033634e6b",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-bonding.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:rights",
+    "title": "Statement of Rights for Paid Family Leave",
+    "url": "https://paidfamilyleave.ny.gov/system/files/documents/2025/09/pfl271s.pdf",
+    "error": "Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '35', 'https://paidfamilyleave.ny.gov/system/files/documents/2025/09/pfl271s.pdf']' returned non-zero exit status 56."
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:request",
+    "title": "Request for Paid Family Leave form and instructions",
+    "url": "https://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/PFL2.pdf",
+    "error": "Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '35', 'https://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/PFL2.pdf']' returned non-zero exit status 60."
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:family-form",
+    "title": "Family Care Paid Family Leave form and instructions",
+    "url": "https://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/PFL3.pdf",
+    "error": "Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '35', 'https://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/PFL3.pdf']' returned non-zero exit status 60."
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:military",
+    "title": "Assisting a Service Member Fact Sheet",
+    "url": "https://paidfamilyleave.ny.gov/assisting-service-member-fact-sheet",
+    "status": 200,
+    "fetched_url": "https://paidfamilyleave.ny.gov/assisting-service-member-fact-sheet",
+    "bytes": 22906,
+    "sha256": "22b424443689add68cd17960c49170aa0ad05821eb4070999b142b4c4581610a",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-military.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:rates",
+    "title": "2026 Paid Family Leave rates announcement",
+    "url": "https://apps.wcb.ny.gov/content/main/PressRe/paid-family-leave-2026.jsp",
+    "status": 200,
+    "fetched_url": "https://apps.wcb.ny.gov/content/main/PressRe/paid-family-leave-2026.jsp",
+    "bytes": 31303,
+    "sha256": "303b2c8255d78aabf7a05c80a2c5a6ef46e0eb566e486dbe938a89d1db71ca4a",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-rates.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:coverage",
+    "title": "Disability and Paid Family Leave Coverage Requirements",
+    "url": "https://www.wcb.ny.gov/content/main/coverage-required-db.jsp",
+    "status": 200,
+    "fetched_url": "https://www.wcb.ny.gov/content/main/coverage-required-db.jsp",
+    "bytes": 80982,
+    "sha256": "a8cc98970b4b07d7af15bf2d2bc78a73757c0472d61501709b3db6587369136c",
+    "file": "research/legal-misrepresentation/evidence/round-two/pfl-coverage.html"
+  },
+  {
+    "issue": "paid-family-leave",
+    "id": "pfl:employer",
+    "title": "Employers' Rights and Responsibilities",
+    "url": "https://docs.paidfamilyleave.ny.gov/content/main/DisabilityBenefits/employers-rights-responsibilities.jsp",
+    "error": "Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '35', 'https://docs.paidfamilyleave.ny.gov/content/main/DisabilityBenefits/employers-rights-responsibilities.jsp']' returned non-zero exit status 60."
+  },
+  {
+    "issue": "paid-sick-leave",
+    "id": "psl:P737",
+    "title": "P737 Employment Laws/Labor Standards FAQ",
+    "url": "https://dol.ny.gov/system/files/documents/2026/03/p737-2-26.pdf",
+    "status": 200,
+    "fetched_url": "https://dol.ny.gov/system/files/documents/2026/03/p737-2-26.pdf",
+    "bytes": 1790986,
+    "sha256": "448eb2b856990143f1dab8c9be80b0ae1db7d50d0a74e7b6e26ccba8c271138e",
+    "file": "research/legal-misrepresentation/evidence/round-two/psl-P737.pdf"
+  }
+]
