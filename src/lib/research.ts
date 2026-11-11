@@ -52,6 +52,7 @@ export type Finding = {
   documented_consequence: string;
   independent_review: string;
   captured_source_sha256: { english: string; target: string };
+  page_image?: { english: string; target: string };
   authority_note: string;
   authorities: { label: string; url: string }[];
   case_law_status: string;
