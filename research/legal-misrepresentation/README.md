@@ -4,7 +4,9 @@ Initial publication research was updated 30 October 2026. The initial publicatio
 
 ## Transition
 
-The new unit is **agency claim → applicable binding rule → same-facts comparison → independent challenge → consequence assessment**. The prior multilingual translation work remains in the site's historical archive and is excluded from the legal-misrepresentation counts. Only New York State agency publications were screened in this round; a New York City rule appears only as context for a state Attorney General statement.
+The new unit is **agency claim → applicable binding rule → same-facts comparison → independent challenge → consequence assessment**. Multilingual translation comparisons are reported separately and excluded from legal-misrepresentation counts. Only New York State agency publications were screened in this round; a New York City rule appears only as context for a state Attorney General statement.
+
+The 11 November 2026 multilingual expansion has separate [worker/housing](investigator-worker-housing-2026-11-11.md) and [education/elections](investigator-education-elections-2026-11-11.md) investigator ledgers, [independent review](reviewer-expansion-2026-11-11.md), [source captures](evidence/round-six-2026-11-11/), and a [13-language NYSED edition inventory](nysed-immigrant-guidance-language-editions-2026-11-11.csv). Two new Limited-potential matched-edition translation findings are published separately. The NYSED edition-label issue has unassigned impact; the BOE, FS14, and FS44 leads remain unapproved.
 
 ## Bounded initial sweeps
 
