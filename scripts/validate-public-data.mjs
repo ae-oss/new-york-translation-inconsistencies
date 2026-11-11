@@ -42,5 +42,10 @@ for (const finding of data.findings) {
   if (!["ltr","rtl"].includes(finding.translated_quote.dir)) throw new Error(`Invalid quotation direction: ${finding.id}`);
   if (!Array.isArray(finding.authorities) || !finding.authorities.length || finding.authorities.some((source) => !source.label || !source.url?.startsWith("https://"))) throw new Error(`Invalid authorities: ${finding.id}`);
   if (!/^[a-f0-9]{64}$/.test(finding.captured_source_sha256?.english ?? "") || !/^[a-f0-9]{64}$/.test(finding.captured_source_sha256?.target ?? "")) throw new Error(`Missing captured-source hash: ${finding.id}`);
+  if (finding.page_image) {
+    for (const name of Object.values(finding.page_image)) {
+      if (!/^[a-z0-9-]+\.png$/.test(name) || !fs.existsSync(new URL(`../public/evidence/${name}`, import.meta.url))) throw new Error(`Missing checked page image: ${finding.id}`);
+    }
+  }
 }
 console.log(`Validated ${ids.size} distinct English sources, ${pairIds.size} translation links, ${data.findings.length} approved findings.`);
