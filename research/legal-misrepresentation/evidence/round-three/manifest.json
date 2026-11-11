@@ -1,0 +1,93 @@
+{
+  "captured_at": "2026-11-02",
+  "items": [
+    {
+      "url": "https://ag.ny.gov/publications/residential-tenants-rights-guide",
+      "file": "ag-tenants-guide.html",
+      "bytes": 201724,
+      "sha256": "c058a45d185ff4d723843f8b50626690f08d794463191217a2d0945f2f39997e",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://es.ag.ny.gov/publications/residential-tenants-rights-guide",
+      "file": "ag-tenants-guide-es.html",
+      "bytes": 221997,
+      "sha256": "08ccf00841f84f873e4bb990520e74af9dd818a10cc3c5c91a6a57894a5ddaeb",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://www.nysenate.gov/legislation/laws/RPP/226-C",
+      "file": "rpp-226-c.html",
+      "bytes": 36719,
+      "sha256": "3ff8ce796b8afb407e9efa78a023583cfd2efb2826ae592dfa74f73b3b13b5aa",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://www.wcb.ny.gov/content/main/Workers/injured-workers-toolkit.jsp",
+      "file": "wcb-toolkit.html",
+      "bytes": 89078,
+      "sha256": "9bc4e5ffdd4c97142a302a2b89fbe0bcbd79ee0c9cfd80673586d2609d89ea8e",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://www.nysenate.gov/legislation/laws/WKC/28",
+      "file": "wkc-28.html",
+      "bytes": 34401,
+      "sha256": "29cef21372806da4e9fe122e591a5db66f839e540e8c00af5e60b5693a43819a",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://www.wcb.ny.gov/content/main/Workers/OccDisease.jsp",
+      "file": "wcb-occupational-disease.html",
+      "bytes": 45157,
+      "sha256": "b6eec593208c27f6eabd317e97174aa249e52692ab7bfa611cd66c98fc7cfb10",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://www.wcb.ny.gov/content/main/Workers/file-claim.jsp",
+      "file": "wcb-file-claim.html",
+      "bytes": 128439,
+      "sha256": "b6f3cf0360f2fe8c74a4fc34ef7dc999b74db98c1624d1534338e7194bc7e516",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://hcr.ny.gov/leases",
+      "file": "hcr-leases.html",
+      "bytes": 85009,
+      "sha256": "a7df42d79e8c62c5664a35341be4dbea70b6a811e8051fc14094a5a3b7b7ae9a",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law",
+      "file": "ag-good-cause.html",
+      "bytes": 90106,
+      "sha256": "8f060ad7a0e8ae27220d31f274d6bfc65623850539169286fcd273ddbf046371",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://www.nysenate.gov/legislation/laws/RPP/216",
+      "file": "rpp-216.html",
+      "bytes": 43207,
+      "sha256": "6a4dd6323727894e96b815f37eec1aa21f3f8c81b135c605788f3178c0c8f3fe",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct HTTP response; content checked"
+    },
+    {
+      "url": "https://ag.ny.gov/sites/default/files/2019-changesinnyrentlaw.pdf",
+      "file": "ag-rent-law-2019.pdf",
+      "bytes": 2949051,
+      "sha256": "54fa93c5bdbed9df66afaa0c03c19bc487ecdbc120253aa124dbfd8a29873126",
+      "captured_at": "2026-11-02",
+      "capture_status": "direct PDF binary; text not independently extracted"
+    }
+  ]
+}

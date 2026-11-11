@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-10-30",
-  "stage": "Published initial findings; second-round targeted screening in progress",
-  "notice": "Two independently reviewed findings remain published. Three new issue sweeps now show verified source inventories and limited claim screens; no new finding has passed independent review.",
+  "as_of": "2026-11-11",
+  "stage": "Two approved initial findings; later research leads remain provisional",
+  "notice": "Two independently reviewed findings remain published. The later expansion has seven provisional issue clusters, none approved as a new finding. Initial claim checks were made in October; the unemployment-source redirect was rechecked on 11 November.",
   "issues": [
     {
       "id": "paid-sick-leave",
@@ -279,7 +279,7 @@
       "language": "en",
       "publication_date": null,
       "accessed_at": "2026-10-30",
-      "current_relevance": "Active",
+      "current_relevance": "Historical",
       "coverage": "partially_screened",
       "claim_ids": [
         "ui:UI-01"
@@ -1689,7 +1689,7 @@
       "outcome": "supported_misrepresentation",
       "confidence": "High",
       "significance": "Major",
-      "current_relevance": "Active",
+      "current_relevance": "Historical",
       "historical_classification": "Undetermined",
       "analysis": "On an ordinary mailed request, 'received' requires agency receipt by day 30, whereas the Appeal Board rule expressly treats a request postmarked within 30 days of the party's receipt of the determination as timely. The public wording can make a claimant believe a timely mailed request is already too late.",
       "counterargument": "The contact page may intend a cautious filing recommendation; other DOL pages accurately explain postmark. Yet the wording uses 'must' and 'received' under a mailing address, so it states a mandatory condition broader than the rule.",
@@ -2052,7 +2052,7 @@
       ],
       "publication_status": "approved",
       "review_date": "2026-10-30",
-      "correction_status": "DOL Contact page still displayed the claim when recaptured on 30 October 2026; DOL's hearing FAQ gives more complete filing guidance. No correction or withdrawal of this contact-page statement was verified."
+      "correction_status": "The DOL Contact page displayed the claim in the saved 30 October 2026 capture. On 11 November 2026 its URL redirected to a new DOL contact page that did not display the sentence. The date and reason for the change, and any formal correction, have not been established. This finding documents the earlier published wording, not a currently displayed claim."
     }
   ],
   "audit": {

@@ -1,0 +1,10 @@
+{
+  "checked_at_utc": "2026-11-02",
+  "requested_url": "https://ag.ny.gov/sites/default/files/publications/tenants_rights.pdf",
+  "http_status": 200,
+  "final_url": "https://ag.ny.gov/publications/residential-tenants-rights-guide",
+  "saved_file": "ag-print-link-redirect.html",
+  "saved_content_type": "HTML",
+  "sha256": "c058a45d185ff4d723843f8b50626690f08d794463191217a2d0945f2f39997e",
+  "assessment": "The purported printable PDF link redirects to the current HTML guide; this check did not establish a separate PDF edition."
+}

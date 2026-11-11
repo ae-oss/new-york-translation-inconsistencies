@@ -13,7 +13,7 @@ export default function Findings() {
     <section><h2>Approved findings</h2>{legal.findings.length === 0 && <p className="empty-state">No claim has passed the publication gate. Reviewed candidates and negative checks remain visible below.</p>}{legal.findings.map(f => {
       const c = claimFor(f); if (!c) return null; const s = sourceFor(c);
       return <article className="finding-card" key={f.id}><div className="eyebrow">{f.publication_status === "approved" ? "Approved" : "Preview · approval pending"}</div><h2><Link href={`/findings/${f.id}/`}>{f.title}</Link></h2><p>{c.analysis}</p><p className="muted">{s?.title} · {c.significance} potential significance · {c.current_relevance}</p><Link href={`/findings/${f.id}/`}>Read evidence →</Link></article>;
-    })}</section>
+    })}<p className="note">The later expansion has <Link href="/research-update/">seven provisional issue clusters</Link>. They remain research leads and are excluded from the approved count.</p></section>
     <section className="context-panel"><h2>All assessed claims</h2>{legal.claims.map(c => {
       const source = sourceFor(c);
       return <article className="claim-row" key={c.id}><div className="eyebrow">{labels[c.outcome]} · {c.confidence} confidence</div><h3>{source?.title ?? c.source_id}</h3><blockquote>{c.exact_quote}</blockquote><p>{c.analysis}</p><p className="muted">{c.independently_reviewed ? "Independent review recorded" : "Independent review pending"} · <Link href={`/issue-sweeps/${c.issue_id}/`}>View issue sweep</Link></p></article>;

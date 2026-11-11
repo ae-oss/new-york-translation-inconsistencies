@@ -3,6 +3,7 @@ import Link from "next/link";
 const links = [
   ["/issue-sweeps/", "Issue sweeps"],
   ["/findings/", "Findings"],
+  ["/research-update/", "Research update"],
   ["/agencies/", "Agencies"],
   ["/coverage/", "Coverage"],
   ["/methodology/", "Method"],

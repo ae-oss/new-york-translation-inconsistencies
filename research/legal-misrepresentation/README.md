@@ -1,6 +1,6 @@
 # New York Legal Misrepresentation — initial publication record
 
-Research updated 30 October 2026. The initial publication set contains two independently reviewed findings in the existing New York website repository.
+Initial publication research was updated 30 October 2026. The initial publication set contains two independently reviewed findings in the existing New York website repository. A [2 November 2026 expansion checkpoint](round-three-checkpoint-2026-11-02.md) records two preliminary candidates and one unresolved wording question in other legal areas. A [second 2 November checkpoint](round-four-checkpoint-2026-11-02.md) indexes 51 additional enacted sections and assesses two further provisional guidance issues. A [third 2 November checkpoint](round-five-checkpoint-2026-11-02.md) examines 36 agency publications with narrow claim or form-field checks across six agencies and records three provisional health-insurance appeal issues. A [supplementary farmworker packet check](round-five-farmworker-packet-addendum-2026-11-02.md) examines one English and one Spanish 2026 packet. The [candidate register](candidate-register-2026-11-02.md) groups repeated pages and language versions into seven underlying preliminary issues. The [one-hour progress snapshot](progress-snapshot-2026-11-02.md) defines the separate units and next markers. None is an additional approved finding.
 
 ## Transition
 
@@ -21,4 +21,4 @@ The independent reviewer examined both serious clusters and selected five of 15 
 
 The 30 October check recaptured the key agency pages, signed sunset legislation, statutes, posted Appeal Board rule, and a May 2026 Board application of the receipt calculation. The rule is supported as currently operative by the Board's own publication and decision. The latest official printed NYCRR supplement was not available for direct inspection; this limitation is stated in the hearing case. No real-world reliance or harm has been established, and no agency has been contacted.
 
-The next research increment should expand claim-level checks across the remaining paid-sick-leave FAQs and sample previously unextracted text; then select another bounded active-guidance issue with a clear statutory rule, such as workers' compensation or housing notice deadlines. Do not optimize for a finding count.
+The next gate is to resolve edition alignment and filing-path questions for the seven preliminary clusters, finish final impact review, and then select another bounded batch of active guidance claims across agencies. Do not optimize for a finding count. The site should change only after a separate publication decision.

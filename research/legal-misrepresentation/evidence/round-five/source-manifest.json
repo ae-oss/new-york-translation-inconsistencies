@@ -1,0 +1,155 @@
+[
+  {
+    "source": "isc-4914.html",
+    "url": "https://www.nysenate.gov/legislation/laws/ISC/4914",
+    "final_url": "https://www.nysenate.gov/legislation/laws/ISC/4914",
+    "http_status": "200",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 51213,
+    "sha256": "3c4595a2f058f62ef755250f1f63128017c80c72490e94713ce271a1267b3f4b"
+  },
+  {
+    "source": "pbh-4914.html",
+    "url": "https://www.nysenate.gov/legislation/laws/PBH/4914",
+    "final_url": "https://www.nysenate.gov/legislation/laws/PBH/4914",
+    "http_status": "200",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 51414,
+    "sha256": "e743af16e9940d118f6002bb3e466608244b80ad625d5c1eb7c579d55cfc492f"
+  },
+  {
+    "source": "gcn-30.html",
+    "url": "https://www.nysenate.gov/legislation/laws/GCN/30",
+    "final_url": "https://www.nysenate.gov/legislation/laws/GCN/30",
+    "http_status": "200",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 33063,
+    "sha256": "be8f9738c4c531c6fe9e74f087fbf4e9e4e414cd65fc1e1aa18a56b588308f3d"
+  },
+  {
+    "source": "wkc-217.html",
+    "url": "https://www.nysenate.gov/legislation/laws/WKC/217",
+    "final_url": "https://www.nysenate.gov/legislation/laws/WKC/217",
+    "http_status": "200",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 37475,
+    "sha256": "6a161cec4fab66a45e1e3e24cfc5e9dad2adcdc279a089199e2da5cbe9e1872f"
+  },
+  {
+    "source": "dfs-external-appeal-page.html",
+    "url": "https://www.dfs.ny.gov/complaints/file_external_appeal",
+    "final_url": "https://www.dfs.ny.gov/complaints/file_external_appeal",
+    "http_status": "saved_prior",
+    "content_type": "unknown",
+    "bytes": 94704,
+    "sha256": "30735494f70847e9e42c9154a5eae66c72b75cca2900f1e84b9d10c966173e5e"
+  },
+  {
+    "source": "dfs-rights-responsibilities.html",
+    "url": "https://www.dfs.ny.gov/consumers/health_insurance/rights_responsibilities",
+    "final_url": "https://www.dfs.ny.gov/consumers/health_insurance/rights_responsibilities",
+    "http_status": "200",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 114551,
+    "sha256": "d76f5cd10a6a47942ae1367a95ddd624e95d536618983fdaf6c8225d007aebe6"
+  },
+  {
+    "source": "wcb-disability-benefits.html",
+    "url": "https://www.wcb.ny.gov/content/main/DisabilityBenefits/employee-disability-benefits.jsp",
+    "final_url": "https://www.wcb.ny.gov/content/main/DisabilityBenefits/employee-disability-benefits.jsp",
+    "http_status": "200",
+    "content_type": "text/html;charset=utf-8",
+    "bytes": 91661,
+    "sha256": "4574073ae0f6daccd013700f7b3294022b08883970836c854d8d3d7ed684e60f"
+  },
+  {
+    "source": "wcb-db450.pdf",
+    "url": "https://www.wcb.ny.gov/content/main/forms/db450.pdf",
+    "final_url": "https://www.wcb.ny.gov/content/main/forms/db450.pdf",
+    "http_status": "200",
+    "content_type": "application/pdf",
+    "bytes": 1525358,
+    "sha256": "ed3a2f6690fbf91db915db65fb79bc2a9399b2feacfe0f54c35a0af53098f37d"
+  },
+  {
+    "source": "wcb-db271s.pdf",
+    "url": "https://www.wcb.ny.gov/content/main/forms/db271s.pdf",
+    "final_url": "https://www.wcb.ny.gov/content/main/forms/db271s.pdf",
+    "http_status": "200",
+    "content_type": "application/pdf",
+    "bytes": 99801,
+    "sha256": "0fa2c9288432d23825238c3e3125934cd23e67debbae5bacabb22db0fb935ba6"
+  },
+  {
+    "source": "doh-external-appeal-mirror.html",
+    "url": "https://healthweb-back.health.ny.gov/health_care/managed_care/appealext.htm",
+    "final_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/appealext.htm",
+    "http_status": "saved_prior",
+    "content_type": "unknown",
+    "bytes": 26552,
+    "sha256": "7249c0b71a23af05b31daeedc2e83676d23b18453fcc1b2e88f3d3a8d7ce9d94"
+  },
+  {
+    "source": "doh-current-model-notice.html",
+    "url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/guidance/final_iad_ac.htm",
+    "final_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/guidance/final_iad_ac.htm",
+    "http_status": "200",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 57929,
+    "sha256": "6778e84ea58a987077f2f211a344c51172e0a8c7b87d86849ff4a564cb095382"
+  },
+  {
+    "source": "doh-managed-care-index.html",
+    "url": "https://healthweb-back.health.ny.gov/health_care/managed_care/",
+    "final_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/",
+    "http_status": "200",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 32597,
+    "sha256": "f475b8612f2b4b10fab7af793d79d908fcb5db63c0aa4defa7d80fd795114688"
+  },
+  {
+    "source": "dfs-health-appeal-flyer-2025.pdf",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2025/09/Health-Plan-Decision.pdf",
+    "final_url": "https://www.dfs.ny.gov/system/files/documents/2025/09/Health-Plan-Decision.pdf",
+    "http_status": "200",
+    "content_type": "application/pdf",
+    "bytes": 571065,
+    "sha256": "2a1b18aa3b2302c01016c672534bd94acad98374651aa429da5fa4160a14fd07"
+  },
+  {
+    "source": "dfs-out-of-network-flyer-2025.pdf",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2025/09/OON-Benefits.pdf",
+    "final_url": "https://www.dfs.ny.gov/system/files/documents/2025/09/OON-Benefits.pdf",
+    "http_status": "200",
+    "content_type": "application/pdf",
+    "bytes": 523205,
+    "sha256": "500e5264fd3afb33a9506da59c887aa28205ca0762678bd8e2fb4f36c04c5be5"
+  },
+  {
+    "source": "dfs-external-appeal-english-2023.pdf",
+    "url": "https://www.dfs.ny.gov/complaints/file_external_appeal/application-english",
+    "final_url": "https://www.dfs.ny.gov/complaints/file_external_appeal/application-english",
+    "http_status": "200",
+    "content_type": "application/pdf",
+    "bytes": 951087,
+    "sha256": "3d6bd21870ecbf5489b17d60d387a746afe880c824f39683fffdd3a347e11ac1"
+  },
+  {
+    "source": "doh-fad-no-ac-2025.pdf",
+    "url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/2025_july/fad_no_ac.pdf",
+    "final_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/plans/appeals/2025_july/fad_no_ac.pdf",
+    "http_status": "200",
+    "content_type": "application/pdf",
+    "bytes": 275878,
+    "sha256": "0bda9084883ff1da693e0ba66ec0436133857bc8fb05a78c39982e6ebffe77f5"
+  },
+  {
+    "source": "doh-complaints-index.html",
+    "url": "https://healthweb-back.health.ny.gov/health_care/managed_care/complaints/",
+    "final_url": "https://healthweb-back.health.ny.gov/health_care/managed_care/complaints/",
+    "http_status": "200",
+    "content_type": "text/html",
+    "bytes": 36941,
+    "sha256": "f9de56001e951a302faf3ac3bf3b5c9b839032ea6bbd81b5fcadf49d4fe1199e"
+  }
+]

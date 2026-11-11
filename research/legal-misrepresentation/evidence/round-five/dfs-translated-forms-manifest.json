@@ -1,0 +1,145 @@
+[
+  {
+    "language": "Arabic",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Arabic.pdf",
+    "file": "dfs-external-appeal-Arabic.pdf",
+    "bytes": 369176,
+    "sha256": "0818ab22bb5e84c2ffd6a3f938dc53f130d3197f8888d925bb0e0b48c15aab3d",
+    "pages": 8,
+    "form_footer_edition": "EA 09/18",
+    "q12_review": "targeted_pdf_structure_check_7_boxes_labels_not_adjudicated",
+    "language_designation": "Arabic"
+  },
+  {
+    "language": "Bengali",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Bengali.pdf",
+    "file": "dfs-external-appeal-Bengali.pdf",
+    "bytes": 283447,
+    "sha256": "3b12d13aead667391465631ed30550a1b3c0e0e6fd02aa1eeeb26eac0decb7d6",
+    "pages": 9,
+    "form_footer_edition": "EA 09/18",
+    "q12_review": "targeted_pdf_structure_check_7_boxes_labels_not_adjudicated",
+    "language_designation": "Bengali"
+  },
+  {
+    "language": "Chinese",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Chinese.pdf",
+    "file": "dfs-external-appeal-Chinese.pdf",
+    "bytes": 490496,
+    "sha256": "357eb8b30b5992f29017d8ada3f5dc201751ba3b3d08b626362ee4dceaaf47bb",
+    "pages": 8,
+    "form_footer_edition": "EA 02/18",
+    "q12_review": "targeted_text_and_pdf_structure_check_7_boxes_no_NSA_choice",
+    "language_designation": "Traditional Chinese script"
+  },
+  {
+    "language": "French",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_French.pdf",
+    "file": "dfs-external-appeal-French.pdf",
+    "bytes": 566812,
+    "sha256": "bb6c3538217f3952cc51cc488acfcd89797e14986f15b3a622d191d198ae20f6",
+    "pages": 9,
+    "form_footer_edition": "EA 09/18",
+    "q12_review": "targeted_text_and_pdf_structure_check_7_boxes_no_NSA_choice",
+    "language_designation": "French"
+  },
+  {
+    "language": "Haitian-Creole",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Haitian-Creole.pdf",
+    "file": "dfs-external-appeal-Haitian-Creole.pdf",
+    "bytes": 218374,
+    "sha256": "0d07c38b5de6bd8a228c872383c66851bcd764685e24bf26f21315fd63fa748a",
+    "pages": 8,
+    "form_footer_edition": "EA 02/18",
+    "q12_review": "targeted_pdf_structure_check_7_boxes_labels_not_adjudicated",
+    "language_designation": "Haitian-Creole"
+  },
+  {
+    "language": "Italian",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Italian.pdf",
+    "file": "dfs-external-appeal-Italian.pdf",
+    "bytes": 238195,
+    "sha256": "af523fc514dddc6cdbe5701f4d6b1d76fc1cbfb4074448e5f78035b33f2d674c",
+    "pages": 8,
+    "form_footer_edition": "EA 02/18",
+    "q12_review": "targeted_pdf_structure_check_7_boxes_labels_not_adjudicated",
+    "language_designation": "Italian"
+  },
+  {
+    "language": "Korean",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Korean.pdf",
+    "file": "dfs-external-appeal-Korean.pdf",
+    "bytes": 520679,
+    "sha256": "1778f1fbec6d3d82fde818b8af40752f9b5bb2c6b711c5787250f1296b3db2cb",
+    "pages": 8,
+    "form_footer_edition": "EA 02/18",
+    "q12_review": "targeted_pdf_structure_check_7_boxes_labels_not_adjudicated",
+    "language_designation": "Korean"
+  },
+  {
+    "language": "Polish",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Polish.pdf",
+    "file": "dfs-external-appeal-Polish.pdf",
+    "bytes": 268550,
+    "sha256": "bb32b2dac836b1735c33470052e1a820ba886a6d042be8bae8f91243ee0a1903",
+    "pages": 8,
+    "form_footer_edition": "EA 09/18",
+    "q12_review": "targeted_pdf_structure_check_7_boxes_labels_not_adjudicated",
+    "language_designation": "Polish"
+  },
+  {
+    "language": "Russian",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Russian.pdf",
+    "file": "dfs-external-appeal-Russian.pdf",
+    "bytes": 320178,
+    "sha256": "d852984a0108754f734e401cb3a3eea4e1898a8c6869898f9815916be44ce877",
+    "pages": 9,
+    "form_footer_edition": "EA 02/18",
+    "q12_review": "targeted_text_and_pdf_structure_check_7_boxes_no_NSA_choice",
+    "language_designation": "Russian"
+  },
+  {
+    "language": "Spanish",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Spanish.pdf",
+    "file": "dfs-external-appeal-Spanish.pdf",
+    "bytes": 253673,
+    "sha256": "7e5adb1ed00cfec5a91acb1e8eb238fe7f31b7f5094e288ee32b5895d9e8463d",
+    "pages": 9,
+    "form_footer_edition": "EA 02/18",
+    "q12_review": "targeted_text_and_pdf_structure_check_7_boxes_no_NSA_choice",
+    "language_designation": "Spanish"
+  },
+  {
+    "language": "Urdu",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Urdu.pdf",
+    "file": "dfs-external-appeal-Urdu.pdf",
+    "bytes": 328914,
+    "sha256": "8e8e27bfa9ae90f28f3505161cc9c1339e10050564023af5a64dda8b18e9a0e9",
+    "pages": 11,
+    "form_footer_edition": "EA 09/18",
+    "q12_review": "targeted_pdf_structure_check_7_boxes_labels_not_adjudicated",
+    "language_designation": "Urdu"
+  },
+  {
+    "language": "Yiddish",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2023/05/External_Appeal_Yiddish.pdf",
+    "file": "dfs-external-appeal-Yiddish.pdf",
+    "bytes": 897678,
+    "sha256": "027e21328c4c43f256efef5eeeb1b0223faa42193d176a2c11757ce85f3f5288",
+    "pages": 8,
+    "form_footer_edition": "EA 09/18",
+    "q12_review": "targeted_pdf_structure_check_7_boxes_labels_not_adjudicated",
+    "language_designation": "Yiddish"
+  },
+  {
+    "language": "Hindi",
+    "url": "https://www.dfs.ny.gov/system/files/documents/2024/03/External_Appeal_Hindi.pdf",
+    "file": "dfs-external-appeal-Hindi.pdf",
+    "bytes": 320578,
+    "sha256": "77a6985223ef835ea1957615114bbf8b3d6c512d52c367bb9ca8f8263fcacd82",
+    "pages": 8,
+    "form_footer_edition": "EA 09/18",
+    "q12_review": "targeted_text_and_pdf_structure_check_7_boxes_no_NSA_choice",
+    "language_designation": "Hindi"
+  }
+]
