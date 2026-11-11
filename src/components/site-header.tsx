@@ -8,7 +8,7 @@ const links = [
   ["/coverage/", "Coverage"],
   ["/methodology/", "Method"],
   ["/limitations/", "Limitations"],
-  ["/archive/translation/", "Translation archive"],
+  ["/archive/translation/", "Translation research"],
 ] as const;
 
 export function SiteHeader() {
