@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 11 Nov 2026 09:54:15 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Drupal-Cache: HIT
+Content-Security-Policy: upgrade-insecure-requests;
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=1000
+Referrer-Policy: no-referrer-when-downgrade
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-UA-Compatible: IE=edge,chrome=1
+X-Generator: Drupal 7 (http://drupal.org)
+Link: <https://www.nysed.gov/student-support-services/new-york-state-guidance-safeguarding-rights-immigrant-students>; rel="canonical"
+Cache-Control: public, max-age=60
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 11 Nov 2026 09:45:37 GMT
+X-Request-ID: v-daf852bc-ddb5-11f1-8a54-377b5f7802f4
+X-AH-Environment: prod
+X-XSS-Protection: 1; mode=block
+X-Geo-Country: US
+Vary: Cookie,Accept-Encoding,X-Geo-Country
+Age: 0
+ETag: W/"1794390337-1"
+Via: varnish
+X-Cache: MISS
+Accept-Ranges: bytes
+

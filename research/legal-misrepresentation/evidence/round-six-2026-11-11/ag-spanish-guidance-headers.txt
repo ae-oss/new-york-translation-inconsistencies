@@ -1,0 +1,23 @@
+HTTP/2 200 
+date: Wed, 11 Nov 2026 09:57:47 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+content-language: es-US
+server: nginx
+strict-transport-security: max-age=31622400; includeSubDomains; preload
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-pantheon-styx-hostname: styx-us-a-684cbff7d7-5vxj8
+x-styx-req-id: 169291b3-ddb6-11f1-b775-8241d9f16f97
+age: 112
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+x-served-by: cache-chi-klot8100078-CHI, cache-iad-kcgs7200159-IAD, cache-iad-kcgs7200026-IAD, cache-iad-kcgs7200026-IAD
+x-cache: MISS, HIT, MISS, MISS
+x-cache-hits: 0, 2, 0, 0
+x-timer: S1794391067.210912,VS0,VE5
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+cache-control: no-cache
+x-server: Smartling
+x-sl-notranslate: 1
+x-sl-norewrite: 1
+
