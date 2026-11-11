@@ -9,6 +9,6 @@ export default function CoveragePage() {
     <p className="muted">Topic-level units come from the sweep inventories and are broader than individually recorded claim comparisons. They are not extra findings or whole-document reviews. The Workers’ Compensation Board was consulted as corroboration in the sick-leave sweep; only the Department of Labor and Attorney General are counted as publishers of in-scope guidance.</p><h2>Coverage by issue</h2><div className="table-wrap"><table><thead><tr><th>Issue</th><th>Sources found</th><th>Partially screened</th><th>Fully screened</th><th>Claims assessed</th><th>Independent reviews</th></tr></thead><tbody>{legal.issues.map(i => {
       const sources = legal.sources.filter(s => s.issue_id === i.id), claims = legal.claims.filter(c => c.issue_id === i.id);
       return <tr key={i.id}><th scope="row">{i.title}</th><td>{sources.length}</td><td>{sources.filter(s => s.coverage === "partially_screened").length}</td><td>{sources.filter(s => s.coverage === "fully_screened").length}</td><td>{claims.length}</td><td>{claims.filter(c => c.independently_reviewed).length}</td></tr>;
-    })}</tbody></table></div><p className="note">{legal.audit.method}. {legal.audit.limitations} Historical translation work is counted separately in the archive.</p>
+    })}</tbody></table></div><p className="note">{legal.audit.method}. {legal.audit.limitations} Translation comparisons are counted separately in their own section.</p>
   </main>;
 }
