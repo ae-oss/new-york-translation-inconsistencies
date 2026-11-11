@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-10-26",
+  "as_of": "2026-11-11",
   "scope": "Model A government guidance, notices, and forms",
-  "notice": "Research updated 26 October 2026. Published findings are independently verified differences in government-published wording; potential consequences are not documented legal outcomes. Coverage is limited to recorded meaning units.",
+  "notice": "Research updated 11 November 2026. Published findings are independently verified differences in government-published wording; potential consequences are not documented legal outcomes. Coverage is limited to recorded meaning units.",
   "documents": [
     {
       "id": "ny-source:ny-dol-psl-faq",
@@ -154,12 +154,12 @@
           "code": "es",
           "url": "https://www.wcb.ny.gov/content/main/forms/C3_S.pdf",
           "status": "eligible_bounded",
-          "targeted_units": 3,
+          "targeted_units": 4,
           "valid_targeted_comparison": true,
-          "target_edition_marker": null,
+          "target_edition_marker": "C-3.0 (6-22)",
           "language_designation": "Spanish",
           "script_variety_note": null,
-          "coverage_note": null
+          "coverage_note": "Four targeted meaning units recorded across the initial pilot and 11 November 2026 review; no full-form examination claimed."
         },
         {
           "id": "ny-lead:ny-wcb-c3:pl",
@@ -791,7 +791,21 @@
         "pdf_pages": 3,
         "revision_marker": "FS-30 (11/2023)"
       },
-      "translations": [],
+      "translations": [
+        {
+          "id": "NY-HCR-FS30-ES",
+          "language": "Spanish",
+          "code": "es",
+          "url": "https://hcr.ny.gov/spanish-fact-sheet-30",
+          "status": "edition_cleared_targeted",
+          "targeted_units": 2,
+          "valid_targeted_comparison": true,
+          "target_edition_marker": "No. 30, Corregido (11/2023)",
+          "language_designation": "Spanish",
+          "script_variety_note": null,
+          "coverage_note": "Two adjacent family-definition clauses were compared; no full-document screening claimed."
+        }
+      ],
       "research_stage": "round2_english_inventory",
       "translation_directory": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
     },
@@ -1255,6 +1269,130 @@
       "captured_source_sha256": {
         "english": "643ee7f912f346dc537d521a6ad87cf3ec77c241e8ac387b36842d1c282f0594",
         "target": "82c1b96ebeb118521b230761705cd64f033f3254a8aa8d509bd014b64034dcf6"
+      }
+    },
+    {
+      "id": "NY-WCB-C3-ES-HEARINGS-AUSENCIAS",
+      "publication_status": "approved_supported",
+      "approval_date": "2026-11-11",
+      "comparison_id": "NY-WCB-C3",
+      "document_id": "ny-source:ny-wcb-c3",
+      "title": "Hearings rendered as absences in a workers' compensation form",
+      "language": "Spanish",
+      "language_code": "es",
+      "language_designation": "Spanish",
+      "original_quote": {
+        "text": "Go to all hearings when notified to appear.",
+        "lang": "en",
+        "anchor": "C-3.0 (6-22), PDF page 4, What Every Worker Should Do, item 5",
+        "url": "https://www.wcb.ny.gov/content/main/forms/c3.pdf"
+      },
+      "translated_quote": {
+        "text": "Preséntese a todas las ausencias cuando reciba notificación de comparecencia.",
+        "lang": "es",
+        "anchor": "C-3.0 (6-22), PDF page 4, Qué deben hacer los trabajadores, item 5",
+        "url": "https://www.wcb.ny.gov/content/main/forms/C3_S.pdf",
+        "dir": "ltr"
+      },
+      "faithful_english": "Appear at all absences when you receive notice to appear.",
+      "difference": "The English form tells workers to attend hearings when notified. The Spanish substitutes ausencias (absences) for hearings, making the instruction incoherent in that clause. This is a wording difference in a form instruction, not a change to the legal hearing rule.",
+      "significance": "Limited",
+      "confidence": "High confidence in the translation contrast; limited confidence in any behavior change",
+      "same_facts_example": "A claimant receives a notice to appear at a workers' compensation hearing and consults item 5 of the Spanish C-3 form. The word ausencias does not tell the claimant plainly that the event is an audiencia (hearing); the separate hearing notice would still supply its own instructions.",
+      "counterargument": "The phrase notificación de comparecencia signals an appearance, and the same Spanish form correctly uses audiencia elsewhere. A reader may infer the intended meaning despite the mistaken noun.",
+      "response": "Those contextual clues limit the likely effect, but ausencias means absences rather than hearings. In the matched English instruction, hearings is the event the worker is told to attend.",
+      "potential_consequence": "The mistranslated instruction could cause momentary confusion about a scheduled hearing. No evidence shows that it caused anyone to miss a hearing or lose a claim.",
+      "documented_consequence": "No missed hearing, claimant reliance, changed ruling, or translation-caused harm was established.",
+      "independent_review": "An independent reviewer checked official WCB English and Spanish C-3.0 (6-22) PDFs, matching four-page structure and footer, SHA-256 hashes, rendered page 4 images, surrounding Spanish wording, Workers' Compensation Law §20, and Board hearing guidance. One new clause was assessed in a form already present in the research inventory.",
+      "authority_note": "Workers' Compensation Law §20 authorizes claim hearings. Board guidance explains attendance in scheduled hearings and distinguishes a claimant's participation from the representative's. The form's short instruction is not a universal statutory duty for every claimant to attend personally at every hearing.",
+      "authorities": [
+        {
+          "label": "Workers' Compensation Law §20",
+          "url": "https://www.nysenate.gov/legislation/laws/WKC/20"
+        },
+        {
+          "label": "Workers' Compensation Board hearing information",
+          "url": "https://apps.wcb.ny.gov/content/main/hearings.jsp"
+        },
+        {
+          "label": "WCB official forms index",
+          "url": "https://www.wcb.ny.gov/content/main/forms/AllForms.jsp"
+        }
+      ],
+      "case_law_status": "No case outcome is claimed from this form wording; the review did not establish a translation-related decision.",
+      "coverage_note": "One additional aligned instruction on page 4 of a four-page form already in the inventory; the entire form has not been certified fully screened.",
+      "current_relevance": "The official WCB forms index linked both C-3.0 (6-22) versions when the pair was retrieved and rechecked on 11 November 2026.",
+      "captured_source_sha256": {
+        "english": "facfc29ace5d31a2d4b35a09e695cdd14fa79df9c920fc8ae6d0c248163f5b17",
+        "target": "def40219674d53e3ca3ad0e5325ec88abff84e4d40f6e7a58666349a47b04e79"
+      },
+      "page_image": {
+        "english": "wcb-c3-english-p4-2026-11-11.png",
+        "target": "wcb-c3-spanish-p4-2026-11-11.png"
+      }
+    },
+    {
+      "id": "NY-HCR-FS30-ES-FAMILY-SCOPE",
+      "publication_status": "approved_supported",
+      "approval_date": "2026-11-11",
+      "comparison_id": "NY-HCR-FS30-ES",
+      "document_id": "ny-source:r2-hcr-fs30",
+      "title": "Succession fact sheet shifts the meaning of permanent tenant",
+      "language": "Spanish",
+      "language_code": "es",
+      "language_designation": "Spanish",
+      "original_quote": {
+        "text": "of the tenant or permanent tenant",
+        "lang": "en",
+        "anchor": "Fact Sheet #30 (11/2023), PDF page 1, Family Member - Definition",
+        "url": "https://hcr.ny.gov/fact-sheet-30"
+      },
+      "translated_quote": {
+        "text": "del inquilino, así como un inquilino permanente",
+        "lang": "es",
+        "anchor": "Hoja Informativa No. 30, Corregido (11/2023), PDF page 1, Familiar - definición",
+        "url": "https://hcr.ny.gov/spanish-fact-sheet-30",
+        "dir": "ltr"
+      },
+      "faithful_english": "of the tenant, as well as a permanent tenant",
+      "difference": "The English lists relatives of a tenant or permanent tenant as family members. The Spanish instead makes a permanent tenant appear to be an additional family-member category. The next paragraph repeats the shift: English refers to people residing with the tenant or permanent tenant, while Spanish refers to someone living with the tenant or being a permanent tenant.",
+      "significance": "Limited",
+      "confidence": "High confidence in the clause contrast; limited confidence in any practical exclusion",
+      "same_facts_example": "A relative who lived with a permanent tenant of a New York City rent-stabilized hotel reads the Spanish definition while considering a succession claim. The wording does not plainly state that relatives of that permanent tenant may qualify, subject to the ordinary co-residency and other requirements.",
+      "counterargument": "In ordinary Spanish, inquilino can also describe a permanent hotel tenant. The sheet's opening and co-residency paragraphs repeatedly discuss family members, so a careful reader may still understand the intended scope.",
+      "response": "Those contextual cues limit the likely effect, but the matched Spanish clauses attach permanent-tenant status to the proposed family member rather than to the person whose family relationship and co-residency matter. The Board's English RA-23.5 form states the intended relationship expressly.",
+      "potential_consequence": "The wording could confuse a qualifying relative about succession rights in the narrow permanent-tenant context. It does not remove a right under the rent rules, and no actual abandoned claim or eviction was identified.",
+      "documented_consequence": "No lost succession claim, eviction, reliance, or translation-caused harm was established.",
+      "independent_review": "An independent reviewer checked the official matched November 2023 English and Spanish fact sheets, saved PDF hashes, rendered both first-page images, examined the two adjacent clauses and mitigating context, checked HCR's RA-23.5 form and related regulatory material, and challenged the initial Major-impact hypothesis down to Limited. A current officially sanctioned consolidated printed §2520.6(o) text was not inspected.",
+      "authority_note": "HCR form RA-23.5 identifies relatives of a tenant, or of a permanent tenant for New York City rent-stabilized hotels, and requires qualifying co-residency. HCR's rulemaking material and a 2025 court quotation corroborate the definition, but the current official consolidated printed supplement was not inspected. This fact sheet is informational; actual succession depends on applicable rent rules and exceptions, including income-restricted housing conditions.",
+      "authorities": [
+        {
+          "label": "HCR family-member succession form RA-23.5",
+          "url": "https://hcr.ny.gov/system/files/documents/2021/06/ra-23.5-fillable.pdf"
+        },
+        {
+          "label": "HCR Rent Stabilization Code rule text",
+          "url": "https://hcr.ny.gov/rsc-rule-text"
+        },
+        {
+          "label": "2025 New York court discussion of family-member definition",
+          "url": "https://www.nycourts.gov/reporter/3dseries/2025/2025_25062.htm"
+        },
+        {
+          "label": "HCR translation disclaimer",
+          "url": "https://hcr.ny.gov/availability-translation-services-and-disclaimer"
+        }
+      ],
+      "case_law_status": "The cited 2025 court decision discusses the regulatory family-member definition; it does not decide a translation dispute or establish reliance on this Spanish fact sheet.",
+      "coverage_note": "Two adjacent definition clauses on page 1 of a three-page English / four-page Spanish fact-sheet pair; no full-document review is claimed.",
+      "current_relevance": "The HCR translation directory linked both November 2023 editions when retrieved on 11 November 2026.",
+      "captured_source_sha256": {
+        "english": "237c58e72f8f8aae468fc39db06c80c1fd843e40319d946fbdf307ae421404e0",
+        "target": "2b9fe977eccf2b14da1185f5be59d329f9d9bebf42f7b239ece34f9a4021eaf8"
+      },
+      "page_image": {
+        "english": "hcr-fs30-english-p1-2026-11-11.png",
+        "target": "hcr-fs30-spanish-p1-2026-11-11.png"
       }
     }
   ]
