@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-11-11",
-  "stage": "Two approved initial findings; later research leads remain provisional",
-  "notice": "Two independently reviewed findings remain published. The later expansion has seven provisional issue clusters, none approved as a new finding. Initial claim checks were made in October; the unemployment-source redirect was rechecked on 11 November.",
+  "as_of": "2026-11-12",
+  "stage": "Reviewed New York guidance-versus-law findings with bounded hospital patient-rights expansion",
+  "notice": "Six independently reviewed guidance-versus-law findings are published, including four from a targeted hospital patient-rights review. Records and discharge claims were checked; the 48-page booklet and New York healthcare sector were not fully screened. Seven older expansion clusters remain provisional.",
   "issues": [
     {
       "id": "paid-sick-leave",
@@ -93,6 +93,25 @@
       "limitations": "Nine official publications were captured; four additional official links were located but their file endpoints rejected stable direct capture. Selected eligibility and 2026 benefit claims were checked. A construction-worker rule taking effect in 2027 is excluded from current-law conclusions. No new finding has passed independent review.",
       "claims_identified_topic_level": 3,
       "claims_screened_topic_level": 2
+    },
+    {
+      "id": "hospital-patient-rights",
+      "title": "Hospital patient rights: medical records and discharge",
+      "summary": "Current Department of Health patient instructions compared with state records-access and hospital-discharge rules and federal Medicare notice and review rules.",
+      "scope": "Targeted review of DOH publication 1449 (March 2023), the DOH records-access page, and publication 1443. The investigators checked 14 records-related and 11 discharge-related claims. This is not a review of all 48 booklet pages or the full healthcare sector.",
+      "legal_questions": [
+        "When must a hospital offer a patient an opportunity to inspect records after a written request?",
+        "What review deadline applies to a non-Medicare inpatient who disputes a discharge decision?",
+        "Which appeal route applies to a Medicare Advantage inpatient disputing discharge?",
+        "Must a Medicare inpatient request the Important Message from Medicare before receiving it?"
+      ],
+      "agency_ids": [
+        "ny-doh"
+      ],
+      "status": "Four bounded findings independently reviewed 12 November 2026",
+      "limitations": "The current DOH hub links the March 2023 PDF. Its relevant pages and edition marker were visually checked against a preserved PDF from an official alternate DOH host; the primary PDF endpoint blocked command-line binary retrieval. The live HTML section 1 has an older January 2018 footer and was used only as corroboration. Eleven discharge and fourteen records claims received targeted checks, not full-document screening. No actual patient harm or hospital practice was documented.",
+      "claims_identified_topic_level": 25,
+      "claims_screened_topic_level": 25
     }
   ],
   "agencies": [
@@ -1037,6 +1056,84 @@
       "claim_ids": [],
       "screen_note": "Official link located; direct binary capture failed, so text and edition not certified.",
       "capture": null
+    },
+    {
+      "id": "hosp:1449",
+      "issue_id": "hospital-patient-rights",
+      "agency_id": "ny-doh",
+      "title": "Your Rights as a Hospital Patient in New York State, publication 1449",
+      "url": "https://www.health.ny.gov/publications/1449.pdf",
+      "language": "en",
+      "publication_date": "2023-03",
+      "accessed_at": "2026-11-12",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "hosp:B2",
+        "hosp:B4",
+        "hosp:D1",
+        "hosp:D2",
+        "hosp:D3",
+        "hosp:D5"
+      ],
+      "screen_note": "Targeted records and discharge passages on printed pp. 4, 7, 8, 12, 14–17; 17 booklet claim units checked in investigators’ ledgers, not all 48 PDF pages.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/hospital-records-doh-1449-2026-11-12.pdf",
+        "sha256": "1ca4bc70dc9f120543b29289f1510bacd661cc9046b62f673fcf249d82b300d9",
+        "captured_at": "2026-11-12",
+        "kind": "official DOH PDF binary from alternate DOH host; page images independently checked",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "hosp:your-records",
+      "issue_id": "hospital-patient-rights",
+      "agency_id": "ny-doh",
+      "title": "You and Your Health Records",
+      "url": "https://www.health.ny.gov/professionals/patients/patient_rights/docs/you_and_your_health_records.htm",
+      "language": "en",
+      "publication_date": "2021-06",
+      "accessed_at": "2026-11-12",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "hosp:Y1",
+        "hosp:Y2"
+      ],
+      "screen_note": "Five targeted claims checked in the access, fees, and appeal portions; not a full-page legal audit.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/hospital-records-doh-your-records-2026-11-12.html",
+        "sha256": "3ee14e8dd4d91779f0430cd2e795cfd3672d5d9d3c3bc5cb6256cb325bc17cf2",
+        "captured_at": "2026-11-12",
+        "kind": "official DOH HTML response from alternate DOH host",
+        "image": null,
+        "image_sha256": null
+      }
+    },
+    {
+      "id": "hosp:1443",
+      "issue_id": "hospital-patient-rights",
+      "agency_id": "ny-doh",
+      "title": "Do I Have the Right to See My Medical Records?, publication 1443",
+      "url": "https://www.health.ny.gov/publications/1443/index.htm",
+      "language": "en",
+      "publication_date": null,
+      "accessed_at": "2026-11-12",
+      "current_relevance": "Active",
+      "coverage": "partially_screened",
+      "claim_ids": [
+        "hosp:F1"
+      ],
+      "screen_note": "Three targeted claims checked as negative controls; not a full-publication audit.",
+      "capture": {
+        "file": "research/legal-misrepresentation/evidence/hospital-records-doh-1443-2026-11-12.html",
+        "sha256": "8015938359c3a83303ab027301b34d457db05805fb5b55e08243eabc119c7e7a",
+        "captured_at": "2026-11-12",
+        "kind": "official DOH HTML response from alternate DOH host",
+        "image": null,
+        "image_sha256": null
+      }
     }
   ],
   "rules": [
@@ -1269,6 +1366,105 @@
           "url": "https://apps.wcb.ny.gov/content/main/PressRe/paid-family-leave-2026.jsp"
         }
       ]
+    },
+    {
+      "id": "hosp:PHL18",
+      "issue_id": "hospital-patient-rights",
+      "citation": "N.Y. Public Health Law §18(2)(a)",
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/18",
+      "text": "A patient who makes a written request must be offered an opportunity to inspect covered patient information within ten days, subject to statutory limitations.",
+      "exact_text": "upon the written request of any subject, a health care provider shall provide an opportunity, within ten days, for such subject to inspect any patient information",
+      "effective_date": "Current text checked 2026-11-12; NY Senate lists revision 2024-10-04",
+      "applicability": "Patient inspection requests to hospitals and other covered providers; copies have a separate reasonable-time rule.",
+      "qualifications": "The ten-day inspection rule is subject to §18(3) access limitations. It is not the deadline for delivery of copies.",
+      "corroboration": [
+        {
+          "label": "DOH publication 1443 also says 10 days",
+          "url": "https://www.health.ny.gov/publications/1443/index.htm"
+        }
+      ]
+    },
+    {
+      "id": "hosp:GCN20",
+      "issue_id": "hospital-patient-rights",
+      "citation": "N.Y. General Construction Law §20",
+      "url": "https://www.nysenate.gov/legislation/laws/GCN/20",
+      "text": "An unspecified period of days is counted as calendar days, excluding the triggering day.",
+      "exact_text": "means such number of calendar days exclusive of the calendar day from which the reckoning is made",
+      "effective_date": "Current text checked 2026-11-12",
+      "applicability": "Computation of New York statutory periods expressed in days.",
+      "qualifications": "The date the request is received is excluded from the count.",
+      "corroboration": []
+    },
+    {
+      "id": "hosp:GCN25A",
+      "issue_id": "hospital-patient-rights",
+      "citation": "N.Y. General Construction Law §25-a",
+      "url": "https://www.nysenate.gov/legislation/laws/GCN/25-A",
+      "text": "A period ending on a Saturday, Sunday or public holiday ordinarily extends to the next business day.",
+      "exact_text": "ends on a Saturday, Sunday or a public holiday, such act may be done on the next succeeding business day",
+      "effective_date": "Current text checked 2026-11-12",
+      "applicability": "New York statutory periods with a weekend or public-holiday final day.",
+      "qualifications": "This endpoint exception does not convert all ten days into business days.",
+      "corroboration": []
+    },
+    {
+      "id": "hosp:NYCRR4059",
+      "issue_id": "hospital-patient-rights",
+      "citation": "10 NYCRR §405.9(b)(14)(ii), (i)(4)(ii), (i)(6)",
+      "url": "https://regs.health.ny.gov/content/section-4059-admissiondischarge",
+      "text": "The required non-Medicare notice uses noon after receipt; the operative accelerated inpatient review rule uses noon of the first working day after receipt. Payment protection is limited by case-based eligibility.",
+      "exact_text": "not later than noon of the first working day after the date the patient, or the appointed personal representative of the patient, receives the written notice",
+      "effective_date": "Official DOH rule page displays effective date 2019-06-12; checked 2026-11-12",
+      "applicability": "New York non-Medicare hospital inpatient discharge review; particular review and payment provisions depend on inpatient and payer status.",
+      "qualifications": "Under subsection (i)(4)(ii), the patient must still be an inpatient to use accelerated review. Subsection (i)(6) payment protection expressly covers case-based-payment patients. The model-notice and operative-rule wording are not identical for weekends and holidays.",
+      "corroboration": []
+    },
+    {
+      "id": "hosp:CFR422622",
+      "issue_id": "hospital-patient-rights",
+      "citation": "42 CFR §422.622(a)–(b)",
+      "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.622",
+      "text": "A Medicare Advantage inpatient has a direct route to immediate QIO review of a discharge decision; a timely request goes to the QIO by the day of discharge.",
+      "exact_text": "The request must be made no later than the day of discharge and may be in writing or by telephone.",
+      "effective_date": "Current eCFR text through 2026-11-09; checked 2026-11-12",
+      "applicability": "Medicare Advantage inpatient when plan or hospital, with physician concurrence, determines inpatient care is no longer necessary.",
+      "qualifications": "A plan expedited reconsideration remains available when the enrollee does not timely request QIO review, but it is not a required first step for a timely QIO appeal. The booklet itself gives a direct QIO route elsewhere.",
+      "corroboration": [
+        {
+          "label": "CMS current IM and detailed-notice guidance",
+          "url": "https://www.cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-im"
+        }
+      ]
+    },
+    {
+      "id": "hosp:CFR4051205",
+      "issue_id": "hospital-patient-rights",
+      "citation": "42 CFR §405.1205(b)(1)",
+      "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205",
+      "text": "Hospitals must deliver the standardized discharge-rights notice to all Medicare inpatients at or near admission, no later than two calendar days after admission.",
+      "exact_text": "For all Medicare beneficiaries, hospitals must deliver valid, written notice of a beneficiary's rights as a hospital inpatient, including discharge appeal rights.",
+      "effective_date": "Current eCFR text through 2026-11-09; checked 2026-11-12",
+      "applicability": "Medicare hospital inpatients, including Medicare Advantage through the linked Part 422 notice rule.",
+      "qualifications": "The later Detailed Notice of Discharge is triggered by a QIO appeal under §405.1206(e). The same DOH booklet correctly says elsewhere that Medicare patients receive the Important Message.",
+      "corroboration": [
+        {
+          "label": "CMS current IM and detailed-notice guidance",
+          "url": "https://www.cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-im"
+        }
+      ]
+    },
+    {
+      "id": "hosp:NYCRR4057",
+      "issue_id": "hospital-patient-rights",
+      "citation": "10 NYCRR §405.7(c)(15)",
+      "url": "https://regs.health.ny.gov/content/section-4057-patients-rights",
+      "text": "The hospital patient bill of rights says patients can review their medical record without charge; copy fees are treated separately.",
+      "exact_text": "Review your medical record without charge",
+      "effective_date": "Official DOH rule page displays effective date 2019-11-13; checked 2026-11-12",
+      "applicability": "Hospital patient record review, not every type of provider or copying request.",
+      "qualifications": "The general DOH records page also covers non-hospital practitioners for whom Public Health Law §18(2)(e) permits reasonable inspection charges.",
+      "corroboration": []
     }
   ],
   "claims": [
@@ -2027,6 +2223,244 @@
       "limitations": "Specific wage calculations and carrier decisions were not audited.",
       "independently_reviewed": false,
       "screened_at": "2026-10-30"
+    },
+    {
+      "id": "hosp:B2",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:1449",
+      "rule_ids": [
+        "hosp:PHL18",
+        "hosp:GCN20",
+        "hosp:GCN25A"
+      ],
+      "exact_quote": "New York State law guarantees you the opportunity to inspect your medical records within 10 business days of your written request.",
+      "location": "DOH booklet, printed p. 7, physical PDF p. 9",
+      "surrounding_context": "The passage addresses seeing records; the next paragraph separately discusses obtaining copies.",
+      "outcome": "supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Moderate",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The booklet adds “business” to a statutory ten-day inspection period. New York’s general day-count rule makes this calendar days, subject to an endpoint weekend or holiday extension. The guidance can state a later inspection opportunity than the law permits.",
+      "counterargument": "The endpoint rule can extend a particular deadline, and a provider may lawfully limit or deny access in the specific circumstances set out in §18(3); neither generally changes ten days to ten business days.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "A written request reaches a hospital on Monday with no holiday. Day 10 is Thursday of the following week; ten business days would run to the next Monday.",
+      "potential_consequence": "A patient or hospital could plan around an inspection date several days later than the statutory opportunity, potentially affecting timely use of records.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "This is inspection access after a written request, not the deadline for receiving copies. No individual delay was found.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12",
+      "evidence_image": "hospital-1449-records-p7-2026-11-12.png",
+      "evidence_image_sha256": "7d3410c548c31896afbbc213587aaacff9b947e14dd893264fa32c938e810494"
+    },
+    {
+      "id": "hosp:D1",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:1449",
+      "rule_ids": [
+        "hosp:NYCRR4059"
+      ],
+      "exact_quote": "To avoid extra charges you must call to appeal no later than your planned discharge date.",
+      "location": "DOH booklet, non-Medicare admission message, printed p. 14, physical PDF p. 16",
+      "surrounding_context": "The booklet says a patient may still appeal later but may face charges if the appeal fails. The current rule text has narrower timing and payment conditions.",
+      "outcome": "supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Major",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The booklet ties the deadline to planned discharge. The required notice and accelerated inpatient review rule instead measure time from receipt of written notice. Depending on notice timing, the booklet may state an earlier or later date than the governing rule.",
+      "counterargument": "The model notice says noon of the next day while the operative rule says noon of the first working day; the exact payment consequence also depends on case-based eligibility. The patient must still be inpatient for accelerated review.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "If written notice is received Monday for a Wednesday discharge, the operative first-working-day deadline is Tuesday noon, although the booklet suggests Wednesday.",
+      "potential_consequence": "A patient relying on the booklet could miss accelerated review or misjudge possible charges; no lost appeal or charge was documented.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "Applies to the non-Medicare message and the relevant New York hospital discharge-review scheme. It does not state one universal deadline for every payer.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12",
+      "evidence_image": "hospital-1449-discharge-p14-2026-11-12.png",
+      "evidence_image_sha256": "b3f48f7882f2dc92bd42fe93eded002c0fef0cdd1543a2e44a7ddee3346d219e"
+    },
+    {
+      "id": "hosp:D2",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:1449",
+      "rule_ids": [
+        "hosp:CFR422622"
+      ],
+      "exact_quote": "If you are a patient enrolled in an HMO or managed care plan, first request/submit an expedited appeal to the HMO or plan's utilization review committee if you feel your benefits are unfairly limited or denied, or you are being asked to leave the hospital too soon, or that medically necessary services are inappropriately excluded from your coverage.",
+      "location": "DOH booklet, managed-care guidance, printed p. 4, physical PDF p. 6",
+      "surrounding_context": "The immediately preceding paragraph expressly mentions Medicare HMO patients; later booklet passages provide the correct QIO route.",
+      "outcome": "supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Major",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "For a Medicare Advantage inpatient disputing a discharge decision, federal rules permit a direct immediate QIO request by the discharge day. A plan appeal is not a required first step. The booklet’s broad HMO/managed-care sentence can steer that patient to the wrong first route.",
+      "counterargument": "The booklet may have intended this paragraph for non-Medicare managed care, and its Medicare section and embedded Important Message separately give the direct QIO route. Those passages mitigate but do not remove the broad plan-first instruction.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "A Medicare Advantage inpatient follows the generic HMO instruction to ask the plan first, and the QIO deadline passes before a plan response.",
+      "potential_consequence": "A timely direct-review opportunity or its financial protections could be jeopardized; no such patient case was found.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "The finding is limited to Medicare Advantage inpatients. It does not assess the plan-first route for other managed-care coverage.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12",
+      "evidence_image": "hospital-1449-managed-care-p4-2026-11-12.png",
+      "evidence_image_sha256": "df640f0d71522822219ead6d022d792d3f7f8bde1ffab48c20594b7fdc096def"
+    },
+    {
+      "id": "hosp:D3",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:1449",
+      "rule_ids": [
+        "hosp:CFR4051205"
+      ],
+      "exact_quote": "Medicare patients must request a written discharge notice (“The Important Message from Medicare”) if they disagree with discharge.",
+      "location": "DOH booklet glossary, printed p. 8, physical PDF p. 10",
+      "surrounding_context": "The same booklet’s later admission notice and Important Message explain automatic delivery and direct QIO appeal.",
+      "outcome": "supported_misrepresentation",
+      "confidence": "High",
+      "significance": "Limited",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The glossary makes the Important Message sound request-triggered when federal law requires hospitals to deliver it to all Medicare inpatients at or near admission. The appeal-triggered notice is the separate Detailed Notice of Discharge.",
+      "counterargument": "Elsewhere the same booklet correctly says Medicare patients receive the Important Message and advises requesting it if it was not received. Its embedded form also describes the appeal route, reducing the chance that the glossary alone determines conduct.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "A Medicare inpatient who has not received the Important Message reads the glossary and assumes it is available only after objecting to discharge.",
+      "potential_consequence": "The wording could delay a request for the missing notice or confuse appeal preparation, though no actual notice failure or harm is documented.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "This is a glossary wording conflict, not evidence that hospitals fail to provide the notice. The booklet contains corrective information elsewhere.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12",
+      "evidence_image": "hospital-1449-medicare-notice-p8-2026-11-12.png",
+      "evidence_image_sha256": "6cdf989a36d684c7f4cf040c5666a0f77ebfe2e27aa75e0c2820c93e4e3f8248"
+    },
+    {
+      "id": "hosp:B4",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:1449",
+      "rule_ids": [
+        "hosp:PHL18"
+      ],
+      "exact_quote": "If you request a copy of your records, the hospital may charge you up to 75 cents per page.",
+      "location": "DOH booklet, printed p. 7",
+      "surrounding_context": "The booklet’s records paragraph links to fuller records-access guidance.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The paper-copy ceiling and other fee exceptions are omitted, but “may” and “up to” do not assert a charge in every case. This wording alone does not establish a false rule.",
+      "counterargument": "Government-benefit support requests are free and inability to pay alone cannot bar access.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "",
+      "potential_consequence": "A reader may not learn all exceptions from this short sentence, but a concrete misleading instruction is not established.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "This negative check is limited to the quoted sentence and its immediate context.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12"
+    },
+    {
+      "id": "hosp:D5",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:1449",
+      "rule_ids": [
+        "hosp:NYCRR4059"
+      ],
+      "exact_quote": "All patients (including Medicare patients) in New York State hospitals must receive a written discharge plan before they leave the hospital.",
+      "location": "DOH booklet glossary, printed p. 8",
+      "surrounding_context": "The booklet repeats this right in its admission notices.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The written discharge-plan requirement is broadly consistent with the New York hospital rule in the tested context.",
+      "counterargument": "Plan content and payer-specific notice details require separate checks.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "",
+      "potential_consequence": "No discrepancy identified for this particular statement.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "Only this discharge-plan entitlement was checked here.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12"
+    },
+    {
+      "id": "hosp:Y1",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:your-records",
+      "rule_ids": [
+        "hosp:PHL18",
+        "hosp:GCN20"
+      ],
+      "exact_quote": "The health care provider then has 10 days after receiving the request to provide an opportunity for you to inspect your records.",
+      "location": "DOH You and Your Health Records, access paragraph",
+      "surrounding_context": "The page discusses written inspection requests and separately mentions copies.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "This separate DOH page correctly uses ten days for inspection rather than ten business days.",
+      "counterargument": "The provider-specific access limitations in §18 still apply.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "",
+      "potential_consequence": "No discrepancy identified for this statement.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "Targeted negative control; not a full-page audit.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12"
+    },
+    {
+      "id": "hosp:Y2",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:your-records",
+      "rule_ids": [
+        "hosp:NYCRR4057",
+        "hosp:PHL18"
+      ],
+      "exact_quote": "Providers are permitted to charge reasonable fees to recover costs for inspections, shipping and copying.",
+      "location": "DOH You and Your Health Records, access paragraph",
+      "surrounding_context": "The page expressly addresses facilities as well as practitioners, but does not say all must charge.",
+      "outcome": "uncertain_lead",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "The general statement can be true for some providers under §18 but omits the hospital-specific free-inspection right in 10 NYCRR §405.7(c)(15). Its application to hospital patients is potentially misleading, not established as a categorical false claim.",
+      "counterargument": "The page covers both hospitals and non-hospital practitioners; “permitted” may be read as conditional on provider-specific rules.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "",
+      "potential_consequence": "A hospital patient could expect an inspection fee that the hospital rule does not allow; no charge was documented.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "Held from findings after independent review because the general statement is qualified by provider type.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12"
+    },
+    {
+      "id": "hosp:F1",
+      "issue_id": "hospital-patient-rights",
+      "source_id": "hosp:1443",
+      "rule_ids": [
+        "hosp:PHL18",
+        "hosp:GCN20"
+      ],
+      "exact_quote": "Once your request is received, a physician or health care facility has 10 days to provide you with an opportunity to inspect your records.",
+      "location": "DOH publication 1443, inspection FAQ",
+      "surrounding_context": "The next sentence explains that the copy deadline is different.",
+      "outcome": "no_supported_misrepresentation",
+      "confidence": "Moderate",
+      "significance": "Pending",
+      "current_relevance": "Active",
+      "historical_classification": "Undetermined",
+      "analysis": "This DOH FAQ gives the statutory ten-day inspection period and distinguishes the less specific time for copies.",
+      "counterargument": "The access limitations in §18 remain applicable.",
+      "reviewer_outcome": "Independently checked against the dated official booklet PDF, operative rule text, source context, and exceptions on 12 November 2026.",
+      "example": "",
+      "potential_consequence": "No discrepancy identified for this statement.",
+      "documented_consequence": "No patient-specific harm, reliance, or hospital practice was documented.",
+      "limitations": "Targeted negative control; not a full-publication audit.",
+      "independently_reviewed": true,
+      "screened_at": "2026-11-12"
     }
   ],
   "findings": [
@@ -2053,17 +2487,55 @@
       "publication_status": "approved",
       "review_date": "2026-10-30",
       "correction_status": "The DOL Contact page displayed the claim in the saved 30 October 2026 capture. On 11 November 2026 its URL redirected to a new DOL contact page that did not display the sentence. The date and reason for the change, and any formal correction, have not been established. This finding documents the earlier published wording, not a currently displayed claim."
+    },
+    {
+      "id": "hospital-records-inspection-deadline",
+      "title": "Hospital booklet adds business days to records-inspection deadline",
+      "claim_id": "hosp:B2",
+      "related_claim_ids": [],
+      "publication_status": "approved",
+      "review_date": "2026-11-12",
+      "correction_status": "The March 2023 booklet and live DOH HTML section 1 displayed this wording on 12 November 2026. No correction or withdrawal was verified."
+    },
+    {
+      "id": "hospital-discharge-appeal-deadline",
+      "title": "Non-Medicare discharge appeal tied to the wrong date",
+      "claim_id": "hosp:D1",
+      "related_claim_ids": [],
+      "publication_status": "approved",
+      "review_date": "2026-11-12",
+      "correction_status": "The March 2023 booklet and live DOH HTML section 2 displayed this wording on 12 November 2026. No correction or withdrawal was verified."
+    },
+    {
+      "id": "medicare-advantage-discharge-review-route",
+      "title": "Managed-care summary puts plan appeal before Medicare QIO review",
+      "claim_id": "hosp:D2",
+      "related_claim_ids": [],
+      "publication_status": "approved",
+      "review_date": "2026-11-12",
+      "correction_status": "The March 2023 booklet displayed this broad plan-first sentence on 12 November 2026, alongside a correct QIO route elsewhere. No correction or withdrawal was verified."
+    },
+    {
+      "id": "medicare-discharge-notice-request",
+      "title": "Medicare notice described as available only on request",
+      "claim_id": "hosp:D3",
+      "related_claim_ids": [],
+      "publication_status": "approved",
+      "review_date": "2026-11-12",
+      "correction_status": "The March 2023 booklet displayed the glossary wording on 12 November 2026, alongside correct automatic-notice wording elsewhere. No correction or withdrawal was verified."
     }
   ],
   "audit": {
-    "method": "From 15 recorded negative claims, an independent reviewer selected every third ID after lexical sorting, beginning at position two. Five were checked; one was escalated into the existing deadline issue.",
+    "method": "From 15 recorded negative claims, an independent reviewer selected every third ID after lexical sorting, beginning at position two. Five were checked; one was escalated into the existing deadline issue. In the 12 November hospital tranche, the independent reviewer also challenged four unflagged statements in the bounded passages: copy-fee cap, access-denial appeal, automatic Medicare notice, and written discharge plan.",
     "sampled_claim_ids": [
       "psl:PSL-BASE-002",
       "psl:PSL-BASE-005",
       "psl:PSL-BASE-008",
       "ui:UI-02",
-      "ui:UI-05"
+      "ui:UI-05",
+      "hosp:B4",
+      "hosp:D5"
     ],
-    "limitations": "This is a small systematic sample of recorded negative claims, not a sample of all unextracted text; no overall error-detection rate is claimed."
+    "limitations": "This is a small systematic sample of recorded negative claims, not a sample of all unextracted text; no overall error-detection rate is claimed. The hospital checks were purposive, not a random or full-text sample; the two additional public claim records are only part of that review."
   }
 }
