@@ -1,0 +1,162 @@
+Browser tab: 5, Title: "FFS & MA IM/DND | CMS", URL: "https://www.cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-im".
+0 AXWebArea FFS & MA IM/DND | CMS, URL: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-im
+	1 container Description: Site header, ID: header
+		2 link Description: Skip to main content, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-im#skipNavTarget
+		3 container Official website of the United States government
+			4 container
+				5 text An official website of the United States government
+				6 button (collapsed) Here's how you know, Secondary Actions: Expand
+		7 container block-cms-evo-sitebranding
+			8 link Description: CMS.gov, Value: cms.gov/
+			9 text Centers for Medicare & Medicaid Services
+		10 container Description: Secondary, ID: block-cms-evo-cmsglobalsecondarymenu
+			11 text CMS Global Secondary Menu
+			12 content list
+				13 link Description: About CMS, Value: cms.gov/about-cms
+				14 link Description: Newsroom, Value: cms.gov/about-cms/contact/newsroom
+				15 link Description: Data & Research, Value: cms.gov/data-research
+		16 container Description: header site search, ID: block-cms-evo-searchform
+			17 container search-block-form
+				18 container
+					19 text Search Search
+				20 container
+					21 button (collapsed) Search, ID: edit-submit--4HiEDM9Ihgo, Secondary Actions: Expand
+					121 text 
+		23 container Description: CMS.gov main menu, ID: block-cmsglobalprimarymenu2
+			24 content list
+				25 pop up button (collapsed) Medicare , ID: Medicare, Secondary Actions: Expand
+					26 text Medicare
+					122 container
+						123 text  
+				27 pop up button (collapsed) Medicaid/CHIP , ID: Medicaid/CHIP, Secondary Actions: Expand
+					28 text Medicaid/CHIP
+					124 container
+						125 text  
+				29 pop up button (collapsed) Marketplace & Private Insurance , ID: Marketplace & Private Insurance, Secondary Actions: Expand
+					30 text Marketplace & Private Insurance
+					126 container
+						127 text  
+				31 pop up button (collapsed) Initiatives , ID: Initiatives, Secondary Actions: Expand
+					32 text Initiatives
+					128 container
+						129 text  
+				33 pop up button (collapsed) Training & Education , ID: Training & Education, Secondary Actions: Expand
+					34 text Training & Education
+					130 container
+						131 text  
+		35 container Breadcrumb
+			36 content list
+				37 container
+					38 link Description: CMS Home, Value: cms.gov/
+					132 text 
+				40 container
+					41 text Medicare  
+				42 container
+					43 text Forms & notices  
+				44 container
+					45 link Description: Beneficiary Notices Initiative (BNI), Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative
+					133 text 
+				47 text FFS & MA IM/DND
+	48 container
+		49 container Pages in this section, ID: block-cmsglobalprimarymenu2-2
+			50 content list
+				51 content list
+					52 content list
+						53 link Description: Beneficiary Notices Initiative (BNI), Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative
+						54 content list
+							55 link Description: FFS ABN, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-abn
+							56 link Description: FFS HHCCN, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-hhccn
+							57 link Description: FFS SNF ABN, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-snf-abn
+							58 link Description: HINNs, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/hinns
+							59 link Description: FFS & MA NOMNC/DENC, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-nomnc-denc
+							60 link Description: MA Denial Notice, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ma-denial-notice
+							61 link Description: FFS & MA IM/DND, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-im
+							62 link Description: Statutory Guidance, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/statutory-guidance
+							63 link Description: FFS & MA MOON, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-moon
+							64 link Description: FFS MCSN, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative-bni/ffs-mcsn
+		65 container block-cms-evo-content
+			66 heading FFS & MA IM/DND, Value: 1
+				67 text FFS & MA IM/DND
+			68 text Hospitals are required to deliver the Important Message from Medicare (IM), formerly CMS-R-193 and now CMS-10065, to all Medicare beneficiaries (Original Medicare beneficiaries and Medicare Advantage plan enrollees) who are hospital inpatients. The IM informs hospitalized inpatient beneficiaries of their hospital discharge appeal rights. A Detailed Notice of Discharge (DND) is given only if a beneficiary requests an appeal.  The DND explains the specific reasons for the discharge. 
+			69 text Full instructions for the Original Medicare, also known as Fee for Service (FFS), process are available in Section 200, of Chapter 30 of the Medicare Claims Processing Manual, available below in "Downloads".
+			70 text Current versions of the Important Message from Medicare (IM), Form CMS-10065, and the Detailed Notice of Discharge (DND), Form CMS-10066, are posted below under "Downloads".
+			71 text Full instructions for Medicare health plans are available in Section 100 of the Parts C & D Enrollee Grievances, Organization/Coverage Determinations, and Appeals Guidance, available below in “Downloads.” 
+			72 text The notices, including Spanish versions, are available below under “Downloads.”
+			73 heading Questions?, Value: 2
+				74 text Questions?
+			75 container
+				76 text Questions regarding the IM and DND can be submitted at: 
+				77 link Description: https://appeals.lmi.org, Value: appeals.lmi.org/
+			78 container
+				79 heading  Downloads, Value: 2
+					134 text 
+					81 text Downloads
+				82 content list
+					83 link Description: Important Message from Medicare - English and Spanish (Incl Large Print) (ZIP), Value: cms.gov/medicare/medicare-general-information/bni/downloads/important-message-english-and-spanish.zip
+					84 link Description: Detailed Notice of Discharge - English and Spanish (Incl Large Print) (ZIP), Value: cms.gov/medicare/medicare-general-information/bni/downloads/detailed-notice-english-and-spanish.zip
+					85 link Description: Parts C & D Enrollee Grievances, Organization/Coverage Determinations, and Appeals Guidance (PDF), Value: cms.gov/medicare/appeals-and-grievances/mmcag/downloads/parts-c-and-d-enrollee-grievances-organization-coverage-determinations-and-appeals-guidance.pdf
+					86 link Description: Chapter 30 - Financial Liability Protections (PDF), Value: cms.gov/regulations-and-guidance/guidance/manuals/downloads/clm104c30.pdf
+			87 container
+				88 text Page Last Modified: 07/17/2026 08:16 AM
+	89 container
+		90 heading Get email updates, Value: 2
+			91 text Get email updates
+		92 text Sign up to get the latest information about your choice of CMS topics. You can decide how often to receive updates.
+		93 container Description: Enter your email address for email updates, ID: email-footer-form
+			94 container email-form
+				95 text Email
+				96 text field (settable) Enter your email address:
+				97 text Sign up - opens in a new window
+				98 button Sign up - opens in a new window, ID: email-submit
+					99 text Sign up
+					135 text 
+		101 container CMS & HHS Websites, ID: block-cms-evo-cmshhswebsitescmsglobalfooter
+			102 text CMS & HHS Websites
+			136 content list
+				137 link Description: Medicare.gov, Value: medicare.gov/
+				138 link Description: Medicaid.gov, Value: medicaid.gov/
+				139 link Description: InsureKidsNow.gov, Value: insurekidsnow.gov/
+				140 link Description: HealthCare.gov, Value: healthcare.gov/
+				141 link Description: HHS.gov, Value: hhs.gov/
+				142 link Description: HHS.gov/Open, Value: hhs.gov/open/index.html
+		103 container About CMS, ID: block-aboutcms
+			104 text About CMS
+			143 content list
+				144 link Description: About Us, Help: About CMS, Value: cms.gov/about-cms
+				145 link Description: Careers, Value: cms.gov/about-cms/work-with-us/careers
+				146 link Description: Newsroom, Value: cms.gov/about-cms/contact/newsroom
+		105 container Tools, ID: block-cms-evo-toolscmsglobalfooter
+			106 text Tools
+			147 content list
+				148 link Description: Acronyms, Value: cms.gov/acronyms
+				149 link Description: Archive, Value: cms.gov/about-cms/web-policies-important-links/about-website/archive
+				150 link Description: Contacts, Value: cms.gov/about-cms/contact/directory
+				151 link Description: Glossary, Value: cms.gov/glossary
+		107 container Helpful Links, ID: block-cms-evo-helpfullinkscmsglobalfooter
+			108 text Helpful Links
+			152 content list
+				153 link Description: Privacy Policy, Value: cms.gov/about-cms/web-policies-important-links/web-policies/privacy
+				154 link Description: Plain Language, Value: medicare.gov/about-us/plain-writing
+				155 link Description: Privacy Settings, Help: Privacy settings, Value: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-im
+				156 link Description: Nondiscrimination & Accessibility, Help: Nondiscrimination/Accessibility, Value: cms.gov/about-cms/web-policies-important-links/accessibility-nondiscrimination-disabilities-notice
+				157 link Description: Developer Information, Help: For Developers, Value: developer.cms.gov/
+				158 link Description: Vulnerability Disclosure Policy, Value: cms.gov/about-cms/information-systems/privacy/vulnerability-disclosure-policy
+		109 container USA Government Sites, ID: block-usagovernmentsites
+			110 text USA Government Sites
+			159 content list
+				160 link Description: Freedom of Information Act, Value: cms.gov/freedom-information-act-foia-service-center
+				161 link Description: No Fear Act, Value: cms.gov/about-cms/web-policies-important-links/no-fear-act
+				162 link Description: Inspector General, Value: oig.hhs.gov/
+				163 link Description: USA.gov, Value: usa.gov/
+		111 link Description: CMS.gov, Value: cms.gov/
+		112 link Description: HHS Logo, Value: hhs.gov/
+		113 heading Connect with CMS, Value: 2, ID: connect-message
+			114 text Connect with CMS
+		115 content list Connect with CMS
+			116 link Description: Linkedin link, Value: linkedin.com/company/centers-for-medicare-&-medicaid-services/
+			117 link Description: Youtube link, Value: youtube.com/user/CMSHHSgov
+			118 link Description: Facebook link, Value: facebook.com/medicare
+			119 link Description: Twitter link, Value: twitter.com/cmsgov
+		120 text A federal government website managed and paid for by the U.S. Centers for Medicare & Medicaid Services. 7500 Security Boulevard, Baltimore, MD 21244
+
+The focused UI element is 0 AXWebArea FFS & MA IM/DND | CMS, URL: cms.gov/medicare/forms-notices/beneficiary-notices-initiative/ffs-ma-im

@@ -1,0 +1,322 @@
+Browser tab: 3, Title: "Your Rights as a Hospital Patient in New York State - Section 1", URL: "https://healthweb-back.health.ny.gov/publications/1449/section_1.htm".
+0 AXWebArea Your Rights as a Hospital Patient in New York State - Section 1, URL: healthweb-back.health.ny.gov/publications/1449/section_1.htm
+	1 container home
+		2 container banner
+			3 link Description: skip to main content, Value: healthweb-back.health.ny.gov/publications/1449/section_1.htm#content, ID: skipnav
+			4 container
+				5 link Description: Visit the NY.gov homepage, Value: ny.gov/, ID: nys_logo_header_svg
+				6 container An official website of New York State.
+					7 text An official website of New York State.
+					8 button (collapsed) Here's how you know, Secondary Actions: Expand
+						9 text Here's how you know
+						10 image
+			11 container Primary
+				12 heading Department of Health, Value: 1
+					13 link Description: Department of Health, Value: healthweb-back.health.ny.gov/
+				14 content list nys-global-nav
+					15 link Description: Individuals/Families, Value: healthweb-back.health.ny.gov/publications/1449/section_1.htm#
+					16 link Description: Providers/Professionals, Value: healthweb-back.health.ny.gov/publications/1449/section_1.htm#
+					17 link Description: Health Facilities, Value: healthweb-back.health.ny.gov/publications/1449/section_1.htm#
+					18 link Description: Health Data, Value: healthweb-back.health.ny.gov/publications/1449/section_1.htm#
+					19 link Description: About Us, Value: healthweb-back.health.ny.gov/publications/1449/section_1.htm#
+					20 link Description: Search, Value: healthweb-back.health.ny.gov/publications/1449/section_1.htm#
+		21 container main
+			22 container breadcrumbs
+				23 text You are Here: 
+				24 container bcHomePageLink
+					25 link Description: Home Page, Value: healthweb-back.health.ny.gov/
+					26 text >
+				27 link Description: Your Rights as a Hospital Patient in New York State, Value: healthweb-back.health.ny.gov/publications/1449/
+				28 text >
+				29 text Your Rights as a Hospital Patient in New York State - Section 1
+			30 container content
+				31 heading Your Rights as a Hospital Patient in New York State - Section 1, Value: 1, ID: pagetitle
+					32 text Your Rights as a Hospital Patient in New York State - Section 1
+				33 heading About Your Rights, Value: 2, ID: aboutrights
+					34 text About Your Rights
+				35 container
+					36 text As a patient in a New York State hospital, you have certain rights and protections guaranteed by state and federal laws and regulations.  These laws and regulations help ensure the quality and safety of your hospital care. To help you understand your rights, the New York State Department of Health developed this booklet.
+				37 container
+					38 text Keep this booklet for reference.  Review it carefully and share the information with family and friends involved in your care.
+				39 container
+					40 text You have the right to participate in decisions about your health care and to understand what you are being told about your care and treatment. For example, you are entitled to a clear explanation of tests, treatments and drugs prescribed for you. Don't hesitate to ask questions of your doctor, nurse or hospital staff members.  You have a right to know what's going on.
+				41 container
+					42 text Every patient is unique, every hospital stay is different.  It is important to know what specific rights apply to you and what to do if you feel you need help. Some rights and protections, such as those that govern when you leave the hospital, depend on receiving correct written notices. You will also be provided with information explaining when and where to call or write for help.
+				43 text If you have a problem or if you don't understand something, speak to your nurse, doctor, social worker or patient representative.
+				44 text They can:
+				45 content list
+					46 container
+						47 AXListMarker • 
+						48 text help you get answers;
+					49 container
+						50 AXListMarker • 
+						51 text arrange special help;
+					52 container
+						53 AXListMarker • 
+						54 text make contacts with your family;
+					55 container
+						56 AXListMarker • 
+						57 text get foreign language and sign language interpreters; and
+					58 container
+						59 AXListMarker • 
+						60 text generally make your hospital stay easier.
+				61 heading About Your Special Needs, Value: 3, ID: aboutneeds
+					62 text About Your Special Needs
+				63 text Each hospital must make staff available to explain or answer questions about your rights and to provide information on how you can protect those rights.
+				64 content list
+					65 container
+						66 AXListMarker • 
+						67 text If you are hearing or vision impaired, or if English is not your first language, skilled interpreters must be provided to assist you. Translations and/or transcriptions of important hospital forms, instructions and information must be provided to you if you feel you need them.
+				68 text But you must speak up and ask questions.
+				69 text You can contact a patient representative before you enter the hospital to be sure your special arrangements are made when you get there.
+				70 content list
+					71 container
+						72 AXListMarker • 
+						73 text If you have a question about any of the information in this booklet or feel that your needs have not been adequately met, ask the patient representative or other hospital staff person for further explanation or contact the New York State Department of Health at 
+						74 link Description: hospinfo@health.ny.gov, Value: mailto:hospinfo@health.ny.gov
+						75 text .
+				76 heading Concerns/Problems/Complaints About Your Hospital Care, Value: 2, ID: concerns
+					77 text Concerns/Problems/Complaints About Your Hospital Care
+				78 text If you have a concern, problem or complaint related to any aspect of care during your hospital stay, speak to your doctor, nurse or hospital staff member. If hospital staff has not resolved the problem, you may contact the New York State Department of Health by mail or phone.
+				79 text You may call the toll-free number 1-800-804-5447 or you may file a complaint in writing and send it to:
+				80 container
+					81 text New York State Department of Health
+					82 text Centralized Hospital Intake Program
+					83 text Mailstop: CA/DCS
+					84 text Empire State Plaza
+					85 text Albany, NY 12237
+				86 heading If You Think You Are Being Asked to Leave the Hospital Too Soon..., Value: 2, ID: if
+					87 text If You Think You Are Being Asked to Leave the Hospital Too Soon...
+				88 container
+					89 text You have the right to appeal decisions  made by your doctor, hospital staff or your managed care plan:
+				90 content list
+					91 container
+						92 AXListMarker • 
+						93 text about when you are to leave the hospital;
+					94 container
+						95 AXListMarker • 
+						96 text if you feel you are being asked to leave the hospital too soon;
+					97 container
+						98 AXListMarker • 
+						99 text if you believe you have not been given adequate or appropriate plans for your medical care and other services you may need after you leave the hospital;
+						100 text or
+					101 container
+						102 AXListMarker • 
+						103 text if needed services are not in place.
+				104 container
+					105 text The law requires that you receive advance notice  in writing  telling you:
+				106 content list
+					107 container
+						108 AXListMarker • 
+						109 text the date the physician and/or hospital plans to discharge you;
+					110 container
+						111 AXListMarker • 
+						112 text how to appeal if you wish to remain in the hospital; and
+					113 container
+						114 AXListMarker • 
+						115 text a special number to call with any problems related to leaving the hospital.
+				116 heading For Assistance/Help, Value: 3
+					117 text For Assistance/Help
+				118 container
+					119 text There is an Independent Professional Review Agent (IPRA) for your area and your insurance coverage. Should you need assistance/help from the IPRA, the hospital will provide you with a phone number/ person to contact. See 
+					120 link Description: the Glossary, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+					121 text  for more information.
+				122 heading For Medicare Patients Only, Value: 3
+					123 text For Medicare Patients Only
+				124 container
+					125 text If you feel that you are being asked to leave the hospital too soon and have not received advance notice telling you when to leave the hospital, ask for your discharge notice (called "The Important Message from Medicare about Your Rights"). If you are in a Healthcare Maintenance Organization (HMO), you should also request "The Important Message from Medicare about Your Rights". You must have this written discharge notice in order to appeal the physician's and hospital's decision about when you are to leave. See an 
+					126 link Description: "Important Message from Medicare about Your Rights", Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm#important
+					127 text  for a complete explanation.
+				128 heading For Managed Care Patients, Value: 3
+					129 text For Managed Care Patients
+				130 container
+					131 text If you are a patient enrolled in an HMO or managed care plan, first request/submit an expedited appeal to the HMO or plan's utilization review committee if you feel your benefits are unfairly limited or denied, or you are being asked to leave the hospital too soon, or that medically necessary services are inappropriately excluded from your coverage. If you are not satisfied with the outcome of that appeal request, you may contact the New York State Department of Health by calling the Bureau of Managed Care Certification and Surveillance at:  1-800-206-8125.
+				132 text The Managed Care Law of 1996 amending Public Health Law 4408, Disclosure of Information
+				133 heading You Have the Right to File A Complaint About:, Value: 2, ID: you
+					134 text You Have the Right to File A Complaint About:
+				135 heading Doctors or Physician Assistants, Value: 3
+					136 text Doctors or Physician Assistants
+				137 text If you feel that you have received incompetent, negligent or fraudulent care from a doctor or physician assistant, you may file a report with the New York State Department of Health Office of Professional Medical Conduct (OPMC). OPMC investigates all reports of possible professional misconduct by physicians and physician assistants. Reports must include the full name and address of the doctor or physician assistant and all relevant information. Reports must be made in writing to:
+				138 container
+					139 text New York State Department of Health
+					140 text Office of Professional Medical Conduct
+					141 text Intake Unit, Suite 355
+					142 text Riverview Center
+					143 text 150 Broadway
+					144 text Albany, NY 12204-2719
+				145 container
+					146 text For more information or to obtain a complaint form, call  1-800-663-6114  or visit the Department of Health website at 
+					147 link Description: www.health.ny.gov/professionals/doctors/conduct/, Value: healthweb-back.health.ny.gov/professionals/doctors/conduct/
+					148 text .
+				149 text Reports are kept confidential. An investigation may result in a formal hearing before a committee of the Board for Professional Medical Conduct. The Board consists of physicians and consumer members appointed by the Commissioner of Health.
+				150 text See the Glossary for examples of "medical misconduct" by a doctor or physician assistant.
+				151 heading Other Health Care Professionals, Value: 3
+					152 text Other Health Care Professionals
+				153 text If you feel you received incompetent, negligent or fraudulent care from any other licensed health care professionals, such as nurses, dentists, social workers, optometrists, psychologists, physical or occupational therapists and podiatrists, you may file a complaint by contacting:
+				154 container
+					155 text New York State Education Department
+					156 text Office of Professional Discipline
+					157 text 475 Park Avenue South
+					158 text 2 nd  Floor
+					159 text New York, New York 10016
+					160 text 1-800-442-8106
+				161 heading Questions or Complaints About Your Hospital Bill or Health Insurance, Value: 2, ID: questions
+					162 text Questions or Complaints About Your Hospital Bill or Health Insurance
+				163 content list
+					164 container
+						165 AXListMarker • 
+						166 text As a hospital patient, you are entitled to an itemized bill.
+					167 container
+						168 AXListMarker • 
+						169 text Your hospital bill may identify a charge called a "surcharge." These surcharges fund important public programs and have existed in previous years, although they may not have appeared as separate costs on the bill. The surcharge represents an additional amount due on total hospital bills in New York State and, depending on your insurance contract, New York State law allows a portion of these costs to be billed to you.
+					170 container
+						171 AXListMarker • 
+						172 text Hospitals negotiate payment rates with insurers, HMOs and other types of managed care plans, as well as commercial insurers and self-insured groups. These rates may vary. Contact your insurer with any questions you may have regarding your coverage.
+					173 container
+						174 AXListMarker • 
+						175 text If you have questions about your coverage, the services billed or amounts paid, contact the hospital's billing office and your insurer to resolve any questions/problems that you may have. .
+				176 heading For Medicare Patients, Value: 3
+					177 text For Medicare Patients
+				178 container
+					179 text If you are a Medicare patient and have questions about your hospital bill, call Medicare:
+					180 text 1-800-MEDICARE (1-800-633-4227)
+				181 heading For Managed Care Patients, Value: 3
+					182 text For Managed Care Patients
+				183 container
+					184 text If you are enrolled in a managed care plan and you are having trouble getting care or feel your care is not satisfactory, you may complain to the plan. The plan's handbook MUST tell you how to complain and how to get an immediate review. If you are not satisfied with the HMO or plan's response to your complaint, contact the New York State Department of Health at:
+					185 text 1-800-206-8125
+				186 container
+					187 text Medicare managed care enrollees may call Livanta:
+					188 text 1-866-815-5440
+				189 heading Access to Your Medical Records, Value: 2, ID: access
+					190 text Access to Your Medical Records
+				191 container
+					192 text New York State law requires all health care practitioners and facilities to grant patients access to their own medical records.  Section 18 of the Public Health Law contains procedures for making these records available and the conditions under which a provider can deny access. Patients may request information, in writing, as may parents or guardians who have authorized their child's care.
+				193 container
+					194 text If you  want to see  your medical records, ask your doctor and/or the director of medical records at the hospital. New York State law guarantees you the opportunity to inspect your medical records within 10 business days of your written request.
+				195 container
+					196 text If you  want to have a copy  of your medical records, you must submit a written request to the hospital. Address the request to the Director of Medical Records at the hospital. If you request a copy of your records, the hospital may charge you up to 75 cents per page.
+				197 container
+					198 text If the hospital  fails to acknowledge  or act on your request, you may complain to the Department of Health by calling 1-800-804-5447.
+				199 container
+					200 text If you have been denied access o all or part of your hospital records, you may appeal to the New York State Department of Health Medical Records Access Review Committee. The hospital/doctor is required to provide a form (DOH-1989) that gives the reason(s) for denial and information on this appeals process. The provider is required to provide the form and complete it under Section 18 of Public Health Law. A description of the entire process, including the form to use, how the appeal works, and what to do if the appeal is denied is available at this link:
+				201 content list
+					202 container
+						203 AXListMarker • 
+						204 link Description: Health.ny.gov/professionals/patients/patient_rights/docs/you_and_your_health_records.htm, Value: healthweb-back.health.ny.gov/professionals/patients/patient_rights/docs/you_and_your_health_records.htm
+				205 container
+					206 link Description: Glossary, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+					207 link Description: Table of Contents, Value: healthweb-back.health.ny.gov/publications/1449/
+		208 container footer
+			209 container footer_container
+				210 container email
+					211 text Questions or comments: 
+					212 link Description: dohweb@health.ny.gov, Value: mailto:dohweb@health.ny.gov
+				213 text Revised: January 2018
+			214 container global_nav_footer
+				215 heading Department of Health, Value: 3
+					216 text Department of Health
+				217 container
+					218 heading General Information, Value: 4
+						219 text General Information
+					220 content list
+						221 link Description: James V. McDonald, M.D., M.P.H., Commissioner, Value: healthweb-back.health.ny.gov/commissioner/
+						222 link Description: About the Department of Health, Value: healthweb-back.health.ny.gov/about/
+						223 link Description: Meetings & Webcasts, Value: healthweb-back.health.ny.gov/events/
+						224 link Description: Employment Opportunities, Value: healthweb-back.health.ny.gov/employment/
+						225 link Description: Wadsworth Center, Value: wadsworth.org/
+						226 link Description: AIDS Institute, Value: healthweb-back.health.ny.gov/diseases/aids/
+						227 link Description: New York State Veterans Homes, Value: apps.health.ny.gov/nysvets/web/
+						228 link Description: Helen Hayes Hospital, Value: helenhayeshospital.org/
+						229 link Description: NY State of Health (Health Plan Marketplace), Value: nystateofhealth.ny.gov/
+						230 link Description: New York State Physician Profile, Value: nydoctorprofile.com/
+						231 link Description: New York State Public Health Corps, Value: ny.gov/programs/new-york-state-public-health-corps
+						232 link Description: Contact, Value: healthweb-back.health.ny.gov/contact/
+						233 link Description: Councils and Boards, Value: healthweb-back.health.ny.gov/councils/
+						234 link Description: Grants & Funding Opportunities, Value: healthweb-back.health.ny.gov/funding/
+						235 link Description: Laws & Regulations, Value: healthweb-back.health.ny.gov/regulations/
+						236 link Description: Press Releases, Reports & Publications, Value: healthweb-back.health.ny.gov/press/
+						237 link Description: Freedom of Information Law (FOIL), Value: healthweb-back.health.ny.gov/regulations/foil/
+						238 link Description: Forms, Value: healthweb-back.health.ny.gov/forms/
+				239 container
+					240 heading Current Issues/Info, Value: 4
+						241 text Current Issues/Info
+					242 content list
+						243 link Description: Abortion in NYS: Know Your Rights, Value: ny.gov/programs/abortion-new-york-state-know-your-rights
+						244 link Description: Bird Flu (Avian Influenza), Value: healthweb-back.health.ny.gov/diseases/communicable/influenza/avian/
+						245 link Description: Consumer Directed Personal Assistance Program (CDPAP), Value: healthweb-back.health.ny.gov/health_care/medicaid/program/longterm/cdpap/
+						246 link Description: Donate Life - Enroll Today!, Value: donatelife.ny.gov/
+						247 link Description: Drinking Water Protection Program, Value: healthweb-back.health.ny.gov/environmental/water/drinking/
+						248 link Description: Ending the Epidemic, Value: healthweb-back.health.ny.gov/diseases/aids/ending_the_epidemic/
+						249 link Description: Lesbian, Gay, Bisexual and Transgender Health, Value: healthweb-back.health.ny.gov/community/lgbt/
+						250 link Description: Long COVID, Value: healthweb-back.health.ny.gov/diseases/long_covid/
+						251 link Description: Measles, Value: healthweb-back.health.ny.gov/diseases/communicable/measles/
+						252 link Description: Medicaid in New York State, Value: healthweb-back.health.ny.gov/health_care/medicaid/
+						253 link Description: Office of Drug User Health, Value: healthweb-back.health.ny.gov/diseases/aids/consumers/prevention/oduh/
+						254 link Description: Polio, Value: healthweb-back.health.ny.gov/diseases/communicable/polio/
+						255 link Description: Reproductive Health, Value: healthweb-back.health.ny.gov/community/reproductive_health/
+						256 link Description: Vaping and E-Cigarettes, Value: healthweb-back.health.ny.gov/prevention/tobacco_control/campaign/e-cigarettes/
+						257 link Description: Wastewater Surveillance, Value: healthweb-back.health.ny.gov/environmental/wastewater.htm
+				258 container
+					259 heading Help, Value: 4
+						260 text Help
+					261 content list
+						262 link Description: Help Increasing the Text Size in Your Web Browser, Value: healthweb-back.health.ny.gov/help/text_size.htm
+						263 link Description: File Formats Used on this Web Site, Value: healthweb-back.health.ny.gov/help/file_types.htm
+						264 link Description: Disclaimer, Value: healthweb-back.health.ny.gov/about/disclaim.htm
+						265 link Description: Privacy Policy, Value: healthweb-back.health.ny.gov/about/privacy.htm
+						266 link Description: Accessibility, Value: healthweb-back.health.ny.gov/contact/accessibility.htm
+				267 container
+					268 heading Language Assistance, Value: 4
+						269 text Language Assistance
+					270 content list
+						271 link Description: English, Value: healthweb-back.health.ny.gov/contact/translate.htm#english
+						272 link Description: Español (Spanish), Value: healthweb-back.health.ny.gov/contact/translate.htm#spanish
+						273 link Description: 中文 (Chinese), Value: healthweb-back.health.ny.gov/contact/translate.htm#chinese
+						274 link Description: Русский (Russian), Value: healthweb-back.health.ny.gov/contact/translate.htm#russian
+						275 link Description: ইংরেজি (Bengali), Value: healthweb-back.health.ny.gov/contact/translate.htm#bengali
+						276 link Description: Italiano (Italian), Value: healthweb-back.health.ny.gov/contact/translate.htm#italian
+						277 link Description: Kreyòl Ayisyen (Haitian-Creole), Value: healthweb-back.health.ny.gov/contact/translate.htm#haitian-creole
+						278 link Description: 한국어 (Korean), Value: healthweb-back.health.ny.gov/contact/translate.htm#korean
+						279 link Description: יידיש (Yiddish), Value: healthweb-back.health.ny.gov/contact/translate.htm#yiddish
+						280 link Description: العربية (Arabic), Value: healthweb-back.health.ny.gov/contact/translate.htm#arabic
+						281 link Description: Polski (Polish), Value: healthweb-back.health.ny.gov/contact/translate.htm#polish
+						282 link Description: Français (French), Value: healthweb-back.health.ny.gov/contact/translate.htm#french
+						283 link Description: اُردُو (Urdu), Value: healthweb-back.health.ny.gov/contact/translate.htm#urdu
+						284 link Description: Website Language Translations, Value: ny.gov/website-language-translations
+				285 container footer_social_media_pod
+					286 heading CONNECT WITH US, Value: 4
+						287 text CONNECT WITH US
+					288 content list
+						289 link Description: FACEBOOK, Value: facebook.com/NYSDOH
+						290 link Description: X, Value: twitter.com/healthnygov
+						291 link Description: YOUTUBE, Value: youtube.com/user/NYSDOH
+						292 link Description: INSTAGRAM, Value: instagram.com/nysdoh/
+						293 link Description: FLICKR, Value: flickr.com/photos/nysdoh/
+						294 link Description: LINKEDIN, Value: linkedin.com/company/nysdoh
+						295 link Description: THREADS, Value: threads.net/nysdoh
+						296 link Description: BLUESKY, Value: bsky.app/profile/nysdoh.bsky.social
+		297 container
+			298 heading Translation Services, Value: 3
+				319 text 
+				300 link Description: Translation Services, Value: ny.gov/web-translation-services
+			301 text This page is available in other languages
+			302 container Translate
+				303 content list
+					304 content list
+						305 link Description: English, Value: health.ny.gov/publications/1449/section_1.htm
+						306 link Description: Español, Value: es.health.ny.gov/publications/1449/section_1.htm
+						307 link Description: 中文, Value: zh.health.ny.gov/publications/1449/section_1.htm
+						308 link Description: 繁體中文, Value: zh-traditional.health.ny.gov/publications/1449/section_1.htm
+						309 link Description: Русский, Value: ru.health.ny.gov/publications/1449/section_1.htm
+						310 link Description: יידיש, Value: …
+						311 link Description: বাংলা, Value: …
+						312 link Description: 한국어, Value: …
+						313 link Description: Kreyòl Ayisyen, Value: …
+						314 link Description: Italiano, Value: …
+						315 link Description: العربية, Value: …
+						316 link Description: Polski, Value: …
+						317 link Description: Français, Value: …
+						318 link Description: اردو, Value: …
+
+The focused UI element is 0 AXWebArea Your Rights as a Hospital Patient in New York State - Section 1, URL: healthweb-back.health.ny.gov/publications/1449/section_1.htm

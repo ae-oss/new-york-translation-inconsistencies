@@ -1,0 +1,585 @@
+Browser tab: 1, Title: "Your Rights as a Hospital Patient in New York State - Section 2", URL: "https://healthweb-back.health.ny.gov/publications/1449/section_2.htm".
+0 AXWebArea Your Rights as a Hospital Patient in New York State - Section 2, URL: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+	1 container home
+		2 container banner
+			3 link Description: skip to main content, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm, ID: skipnav
+			4 container
+				5 link Description: Visit the NY.gov homepage, Value: ny.gov/, ID: nys_logo_header_svg
+				6 container An official website of New York State.
+					7 text An official website of New York State.
+					8 button (collapsed) Here's how you know, Secondary Actions: Expand
+						9 text Here's how you know
+						10 image
+			11 container Primary
+				12 heading Department of Health, Value: 1
+					13 link Description: Department of Health, Value: healthweb-back.health.ny.gov/
+				14 content list nys-global-nav
+					15 link Description: Individuals/Families, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+					16 link Description: Providers/Professionals, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+					17 link Description: Health Facilities, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+					18 link Description: Health Data, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+					19 link Description: About Us, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+					20 link Description: Search, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+		21 container main
+			22 container breadcrumbs
+				23 text You are Here: 
+				24 container bcHomePageLink
+					25 link Description: Home Page, Value: healthweb-back.health.ny.gov/
+					26 text >
+				27 link Description: Your Rights as a Hospital Patient in New York State, Value: healthweb-back.health.ny.gov/publications/1449/
+				28 text >
+				29 text Your Rights as a Hospital Patient in New York State - Section 2
+			30 container content
+				31 heading Your Rights as a Hospital Patient in New York State - Section 2, Value: 1, ID: pagetitle
+					32 text Your Rights as a Hospital Patient in New York State - Section 2
+				33 heading Glossary, Value: 2, ID: glossary
+					34 text Glossary
+				35 definition list
+					36 container Advance Directives
+						37 text Advance Directives
+					38 container
+						39 text Advance directives are verbal or written instructions made by you before an incapacitating illness or injurysss. Advance directives communicate that your wishes about your treatment be followed if you are too sick or unable to make decisions about your care. Advance directives include but are not limited to a  health care proxy , a consent to a  do-not- resuscitate (DNR) order  recorded in your medical record and a  living will .
+					40 container Cardiopulmonary Resuscitation (CPR)
+						41 text Cardiopulmonary Resuscitation (CPR)
+					42 container
+						43 text CPR is a medical procedure used to restart a patient's heart and lungs when your breathing or circulation stops (see 
+						44 link Description: more information, Value: healthweb-back.health.ny.gov/publications/1449/section_3.htm
+						45 text ).
+					46 container Diagnosis Related Groups (DRGs)
+						47 text Diagnosis Related Groups (DRGs)
+					48 container
+						49 text The diagnosis related group (DRG) system categorizes the entire range of reasons people are hospitalized into about 600 groups to determine how much the hospital will be paid by your insurance. The DRG system is based on the average cost of treating a patient within the same age range, diagnosed with the same or similar condition and needing the same type of treatment. For example, one amount is paid for patients with pneumonia and a different amount for patients with a broken hip. It takes into account a hospital's expenses, regional costs, inflation and patient needs. The New York State Department of Health has developed Medicaid and Workers Compensation/No Fault payments rates for each DRG within each hospital.  This does not limit the number of days a patient may stay in the hospital.  Your length of stay depends solely on your medical condition. (Note: Certain specialty units and facilities do not use DRGs.)
+					50 container Discharge Notice
+						51 text Discharge Notice
+					52 container
+						53 text A New York State hospital discharge notice should include information on your discharge date and how to appeal if you disagree with the notice. A discharge notice must be provided to all patients (except Medicare patients who receive a copy of an "Important Message from Medicare")  in writing  24 hours before they leave the hospital.  Medicare patients must request a written discharge notice ("The Important Message from Medicare") if they disagree with discharge.  If requested, the notice must be provided. Once the notice is provided and if the Medicare patient disagrees with the notice, an appeal can be processed.
+					54 container Discharge Plan
+						55 text Discharge Plan
+					56 container
+						57 text All patients (including Medicare patients) in New York State hospitals must receive  a written discharge plan  before they leave the hospital. This plan should describe the arrangements for any health care services you may need after you leave the hospital.  The necessary services described in this plan must be secured or reasonably available before you leave the hospital.
+					58 container Discharge Planning
+						59 text Discharge Planning
+					60 container
+						61 text Discharge planning is the process by which hospital staff work with you and your family or someone acting on your behalf to prepare and make arrangements for your care once you leave the hospital. This care may be self care, care by family members, home health assistance or admission to another health care facility. Discharge planning includes assessing and identifying what your needs will be when you leave the hospital and planning for appropriate care to meet those needs when you are discharged.  A plan must be provided to you in writing before you leave the hospital.  Discharge planning usually involves the patient, family members or the person you designate to act on your behalf, your doctor and a member of the hospital staff. Some hospitals have staff members who are called "discharge planners." In other hospitals, a nurse or social worker may assist in discharge planning.
+					62 container Do-Not-Resuscitate (DNR) Order
+						63 text Do-Not-Resuscitate (DNR) Order
+					64 text At your request, a DNR order may be included in your medical chart. It instructs the medical staff not to try to revive you if your breathing or heartbeat has stopped. This means that doctors, nurses and other health care practitioners will not initiate such emergency procedures as mouth-to-mouth resuscitation, external chest compression, electric shock, insertion of a tube to open your airway, injection of medication into your heart or open chest. Under New York State law, all adult patients can request a DNR order verbally or in writing if two witnesses are present. In addition, the Health Care Proxy Law allows you to appoint someone to make decisions about DNR and other treatments if you become unable to do so.
+					65 container Health Care Proxy form
+						66 text Health Care Proxy form
+					67 container
+						68 text New York State has a law that allows you to appoint someone you trust, for example, a family member or close friend as your Health Care Agent, to decide about your treatment if you lose the ability to decide for yourself. You may also use this form to indicate your wishes regarding organ donation in the event of your death (see 
+						69 link Description: Health Care Proxy, Value: healthweb-back.health.ny.gov/professionals/patients/health_care_proxy/
+						70 text ).
+					71 container Independent Professional Review Agents (IPRA)
+						72 text Independent Professional Review Agents (IPRA)
+					73 text These review agents handle appeals for patients covered by Medicaid, private insurance or those without any insurance if they are having problems getting the care they will need after discharge from the hospital. For example, an IPRA would review the medical records of patients who are discharged before they are medically ready, and if an appropriate discharge plan has not been done or if appropriate services were not in place.
+					74 container Island Peer Review Organizations (IPRO)
+						75 text Island Peer Review Organizations (IPRO)
+					76 text Island Peer Review Organization (IPRO) works with the New York State Department of Health to conduct the review of hospital care provided to people who are eligible for Medicaid. This is the agency Medicaid patients should contact if they think they are being discharged too soon from the hospital. Call toll-free at 1-800-648-4776, or 1-516-326-6131.
+					77 container Livanta, ID: iprodef
+						78 text Livanta
+					79 container
+						80 text This is the quality improvement organization contracted by the federal and state government to review the hospital's care provided to Medicare patients in New York State.
+						81 content list
+							82 container
+								83 AXListMarker • 
+								84 text This is the agency Medicare patients should contact if they think they are being discharged too soon from the hospital. Patients with dual Medicare & Medicaid coverage may call Livanta toll-free at 1-866-815-5440.
+							85 container
+								86 AXListMarker • 
+								87 text If you have complaints about the quality of care you receive as a Medicare patient, call Livanta toll-free at 1-866-815-5440.
+							88 container
+								89 AXListMarker • 
+								90 text TTY users should call 1-866-868-2289.
+							91 container
+								92 AXListMarker • 
+								93 text Livanta provides translation services for all languages.
+					94 container Living Will
+						95 text Living Will
+					96 text A living will is a written document that expresses in advance your specific instructions and choices about various types of medical treatments and certain medical conditions. Living wills may be recognized as evidence of your wishes (if such wishes are expressed in a clear and convincing manner) if you are seriously ill and not able to communicate.
+					97 container Managed Care
+						98 text Managed Care
+					99 text Managed care refers to the way an individual's (or family member's) health care is organized and paid for. While health maintenance organizations (HMOs) are the best known managed care plans, there are many other types. If you are enrolled in a managed care plan, your access to health care services is coordinated by the plan and/or primary care physician. Therefore, you should understand how, when and where to access health care services, including hospital services, according to your plan's rules and benefits. Read your plan's enrollment information carefully and ask questions of your plan representative to be sure you understand your benefits, rights and responsibilities.
+					100 container Medicaid (Title XIX of the Social Security Act)
+						101 text Medicaid (Title XIX of the Social Security Act)
+					102 text Medicaid is a federal program, financed by federal, state and local governments, intended to provide access to health care services for the poor, specifically those who meet certain eligibility requirements such as income level.
+					103 container Medical Misconduct, ID: medmisconduct
+						104 text Medical Misconduct
+					105 container
+						106 text If you feel you have received poor or substandard care (incompetent, negligent or fraudulent care) from a doctor or physician assistant, you may file a report with the New York State Department of Health. Physicians and other health professionals are required by law to report any instance of suspected misconduct.
+						107 text Some examples of medical misconduct are:
+						108 content list
+							109 container
+								110 AXListMarker • 
+								111 text practicing the profession fraudulently, or with gross incompetence or negligence;
+							112 container
+								113 AXListMarker • 
+								114 text practicing while impaired by alcohol, drugs, physical disability or mental disability;
+							115 container
+								116 AXListMarker • 
+								117 text being convicted of a crime;
+							118 container
+								119 AXListMarker • 
+								120 text refusing to provide medical services because of race, creed, color or ethnic origin;
+							121 container
+								122 AXListMarker • 
+								123 text guaranteeing that a cure will result from medical services;
+							124 container
+								125 AXListMarker • 
+								126 text failing to make available to the patient or another physician, upon a patient's written request, copies of X-rays or medical records;
+							127 container
+								128 AXListMarker • 
+								129 text willfully making or filing a false report, or failing to file a report required by law or inducing another person to do so;
+							130 container
+								131 AXListMarker • 
+								132 text willfully harassing, abusing or intimidating a patient;
+							133 container
+								134 AXListMarker • 
+								135 text ordering excessive tests or treatment;
+							136 container
+								137 AXListMarker • 
+								138 text promoting the sale of services, goods, appliances or drugs in a manner that exploits the patient; and
+							139 container
+								140 AXListMarker • 
+								141 text abandoning or neglecting a patient under and in need of immediate professional care.
+					142 container Medicare (Title XVIII of the Social Security Act)
+						143 text Medicare (Title XVIII of the Social Security Act)
+					144 text Medicare is a federal program, administered by the federal government, which pays part of the costs of medical services for people aged 65 or older or who are disabled. Eligibility rests solely upon age or disability.
+					145 container Medical Orders for Life-Sustaining Treatment (MOLST)
+						146 text Medical Orders for Life-Sustaining Treatment (MOLST)
+					147 container
+						148 text Honoring patient preferences is a critical element in providing quality end-of-life care. To help physicians and other health care providers discuss and convey a patient's wishes regarding cardiopulmonary resuscitation (CPR) and other life-sustaining treatment, the Department of Health has approved a physician order form DOH-5003 Medical Orders for Life-Sustaining Treatment (MOLST), which can be used statewide by health care practitioners and facilities. MOLST is intended for patients with serious health conditions who:
+						149 content list
+							150 container
+								151 AXListMarker • 
+								152 text want to avoid or receive any or all life-sustaining treatment;
+							153 container
+								154 AXListMarker • 
+								155 text reside in a long-term care facility or require long-term care services; and/or
+							156 container
+								157 AXListMarker • 
+								158 text might die within the next year.
+						159 text The form and additional information can be accessed through the following link:  health.ny.gov/professionals/patients/patient_rights/molst/
+					160 container Patient Representative
+						161 text Patient Representative
+					162 text The patient representative is a member of the hospital staff who serves as a link between the patient, family, physicians and other hospital staff. The patient representative should be available to answer questions about hospital procedures, help with special needs or concerns and help solve problems. The patient representative is familiar with all hospital services and will assist you. There is no charge for services rendered by the patient representative.
+					163 container Quality Improvement Organization QIO)
+						164 text Quality Improvement Organization QIO)
+					165 container
+						166 text QIOs are the agencies responsible for ongoing review of the inpatient hospital care provided to people who are eligible for Medicare. In New York State, the QIO is IPRO (see 
+						167 link Description: for definition, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+						168 text ).
+					169 container Utilization Review
+						170 text Utilization Review
+					171 text Utilization review is a process where the need, appropriateness and effectiveness of care are evaluated. This is performed by a hospital utilization review (UR) committee, a Quality Improvement Organization (QIO) (see QIO), a public agency (health department, for example) or an independent organization.
+				172 container
+					173 text For additional information, NYS Education Law defines medical misconduct in Sections 6530-6532 at the following link: 
+					174 link Description: https://www.health.ny.gov/professionals/doctors/conduct/laws.htm, Value: healthweb-back.health.ny.gov/professionals/doctors/conduct/laws.htm
+				175 heading Regulations and Information, Value: 2, ID: regulations
+					176 text Regulations and Information
+				177 text This section presents each document that the law requires you receive as an inpatient in a hospital in New York State.
+				178 content list
+					179 container
+						180 link Description: Patients' Rights, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+						181 content list
+							182 container
+								183 AXListMarker ◦ 
+								184 link Description: Patients' Bill of Rights, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+							185 container
+								186 AXListMarker ◦ 
+								187 link Description: An Important Message Regarding Your Rights as a Hospital Inpatient, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+								188 text  (for patients not covered by Medicare)
+							189 container
+								190 AXListMarker ◦ 
+								191 link Description: Admission Notice for Medicare Patients, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+							192 container
+								193 AXListMarker ◦ 
+								194 link Description: Important Message from Medicare, Value: healthweb-back.health.ny.gov/publications/1449/section_2.htm
+					195 container
+						196 link Description: Deciding About Health Care - A Guide for Patients and Families, Value: healthweb-back.health.ny.gov/publications/1503/
+						197 content list
+							198 container
+								199 AXListMarker ◦ 
+								200 link Description: Appointing Your Health Care Agent—New York State's Proxy Law, Value: healthweb-back.health.ny.gov/professionals/patients/health_care_proxy/
+							201 container
+								202 AXListMarker ◦ 
+								203 link Description: Health Care Proxy Form, Value: healthweb-back.health.ny.gov/professionals/patients/health_care_proxy/
+					204 container
+						205 text Data Collection
+						206 content list
+							207 container
+								208 AXListMarker ◦ 
+								209 link Description: Letter from the New York State Department of Health, Value: healthweb-back.health.ny.gov/publications/1449/section_3.htm
+								210 text  (explains the SPARCS data collection system)
+					211 container
+						212 text Information that must be provided upon prebooking if you are a maternity patient:
+						213 content list
+							214 container
+								215 AXListMarker ◦ 
+								216 link Description: Maternity Information, Value: healthweb-back.health.ny.gov/publications/1449/section_3.htm
+					217 container
+						218 text Domestic Violence
+						219 content list
+							220 container
+								221 AXListMarker ◦ 
+								222 link Description: Notice for Prenatal and Maternity Patients, Value: healthweb-back.health.ny.gov/publications/1449/section_3.htm
+							223 container
+								224 AXListMarker ◦ 
+								225 link Description: Victim's Rights Notice, Value: healthweb-back.health.ny.gov/publications/1449/section_3.htm
+					226 container
+						227 link Description: Parents' Bill of Rights, Value: healthweb-back.health.ny.gov/publications/1470.pdf
+						228 text  (Revised 11/2017)
+				229 text Information that must be provided before you leave the hospital:
+				230 content list
+					231 container
+						232 AXListMarker • 
+						233 text All  patients must receive a written discharge plan.
+					234 container
+						235 AXListMarker • 
+						236 text Medicare  patients receive a copy of the "Important Message From Medicare".
+					237 container
+						238 AXListMarker • 
+						239 text All  other patients must receive a hospital discharge notice.
+				240 text If you have trouble understanding anything or have any questions about these materials, ask the hospital staff for an explanation. It is your right!
+				241 heading Patients' Bill of Rights, Value: 2
+					242 text Patients' Bill of Rights
+				243 text As a patient in a hospital in New York State, you have the right, consistent with law, to:
+				244 content list
+					245 container
+						246 AXListMarker 1. 
+						247 text Understand and use these rights. If for any reason you do not understand or you need help, the hospital MUST provide assistance, including an interpreter.
+					248 container
+						249 AXListMarker 2. 
+						250 text Receive treatment without discrimination as to race, color, religion, sex, gender identity, national origin, disability, sexual orientation, age or source of payment.
+					251 container
+						252 AXListMarker 3. 
+						253 text Receive considerate and respectful care in a clean and safe environment free of unnecessary restraints.
+					254 container
+						255 AXListMarker 4. 
+						256 text Receive emergency care if you need it.
+					257 container
+						258 AXListMarker 5. 
+						259 text Be informed of the name and position of the doctor who will be in charge of your care in the hospital.
+					260 container
+						261 AXListMarker 6. 
+						262 text Know the names, positions and functions of any hospital staff involved in your care and refuse their treatment, examination or observation.
+					263 container
+						264 AXListMarker 7. 
+						265 text Identify a caregiver who will be included in your discharge planning and sharing of post-discharge care information or instruction.
+					266 container
+						267 AXListMarker 8. 
+						268 text Receive complete information about your diagnosis, treatment and prognosis.
+					269 container
+						270 AXListMarker 9. 
+						271 text Receive all the information that you need to give informed consent for any proposed procedure or treatment. This information shall include the possible risks and benefits of the procedure or treatment.
+					272 container
+						273 AXListMarker 10. 
+						274 text Receive all the information you need to give informed consent for an order not to resuscitate. You also have the right to designate an individual to give this consent for you if you are too ill to do so. If you would like additional information, please ask for a copy of the pamphlet "Deciding About Health Care - A Guide for Patients and Families."
+					275 container
+						276 AXListMarker 11. 
+						277 text Refuse treatment and be told what effect this may have on your health.
+					278 container
+						279 AXListMarker 12. 
+						280 text Refuse to take part in research. In deciding whether or not to participate, you have the right to a full explanation.
+					281 container
+						282 AXListMarker 13. 
+						283 text Privacy while in the hospital and confidentiality of all information and records regarding your care.
+					284 container
+						285 AXListMarker 14. 
+						286 text Participate in all decisions about your treatment and discharge from the hospital. The hospital must provide you with a written discharge plan and written description of how you can appeal your discharge.
+					287 container
+						288 AXListMarker 15. 
+						289 text Review your medical record without charge and, obtain a copy of your medical record for which the hospital can charge a reasonable fee. You cannot be denied a copy solely because you cannot afford to pay.
+					290 container
+						291 AXListMarker 16. 
+						292 text Receive an itemized bill and explanation of all charges.
+					293 container
+						294 AXListMarker 17. 
+						295 text View a list of the hospital's standard charges for items and services and the health plans the hospital participates with.
+					296 container
+						297 AXListMarker 18. 
+						298 text Challenge an unexpected bill through the Independent Dispute Resolution process.
+					299 container
+						300 AXListMarker 19. 
+						301 text Complain without fear of reprisals about the care and services you are receiving and to have the hospital respond to you and if you request it, a written response. If you are not satisfied with the hospital's response, you can complain to the New York State Health Department. The hospital must provide you with the State Health Department telephone number.
+					302 container
+						303 AXListMarker 20. 
+						304 text Authorize those family members and other adults who will be given priority to visit consistent with your ability to receive visitors.
+					305 container
+						306 AXListMarker 21. 
+						307 text Make known your wishes in regard to anatomical gifts. Persons sixteen years of age or older may document their consent to donate their organs, eyes and/or tissues, upon their death, by enrolling in the NYS Donate Life Registry or by documenting their authorization for organ and/or tissue donation in writing in a number of ways (such as a health care proxy, will, donor card, or other signed paper). The health care proxy is available from the hospital.
+				308 text Public Health Law(PHL)2803 (1)(g)Patient's Rights, 10NYCRR, 405.7,405.7(a)(1),405.7(c)
+				309 text Publication Number 1500, Version 2/2019
+				310 heading Important Message Regarding Your Rights as a Hospital Inpatient, Value: 2
+					311 text Important Message Regarding Your Rights as a Hospital Inpatient
+				312 heading Your Rights While a Hospital Patient, Value: 3
+					313 text Your Rights While a Hospital Patient
+				314 container
+					315 text You have the right to receive all of the hospital care that you need for the treatment of your illness or injury. Your discharge date is determined only by  YOUR  health care needs, not by your DRG category or your insurance.
+				316 container
+					317 text You have the right to be fully informed about decisions affecting your care and your insurance coverage.  ASK QUESTIONS.  You have the right to designate a representative to act on your behalf.
+				318 text You have the right to know about your medical condition. Talk to your doctor about your condition and your health care needs. If you have questions or concerns about hospital services, your discharge date or your discharge plan, consult your doctor or a hospital representative (such as the nurse, social worker or discharge planner).
+				319 text Before you are discharged you must receive a written DISCHARGE NOTICE and a written DISCHARGE PLAN. You and/or your representative have the right to be involved in your discharge planning.
+				320 text You have the right to appeal the written discharge plan or notice you receive from the hospital.
+				321 heading If You Think You are Being Asked to Leave the Hospital Too Soon, Value: 3
+					322 text If You Think You are Being Asked to Leave the Hospital Too Soon
+				323 text Be sure you have received the written notice of discharge that the hospital must give you. You need this discharge notice in order to appeal.
+				324 text This notice will say whom to call and how to appeal. To avoid extra charges you must call to appeal no later than your planned discharge date. If you miss this time you may still appeal. However, you may have to pay for your continued stay in the hospital, if you lose your appeal.
+				325 heading Discharge Plans, Value: 3
+					326 text Discharge Plans
+				327 text In addition to the right to appeal, you have the right to receive a written discharge plan that describes the arrangements for any future health care you may need after discharge. You may not be discharged until the services required in your written discharge plan are secured or determined by the hospital to be reasonably available. You also have the right to appeal this discharge plan.
+				328 heading Patients' Rights*, Value: 3
+					329 text Patients' Rights*
+				330 text A general statement of your additional rights as a patient must be provided to you at this time.
+				331 heading For Assistance/Help, Value: 3
+					332 text For Assistance/Help
+				333 text The independent Professional Review Agent (IPRA) for your area and your insurance coverage is:
+				334 content list
+					335 text to be provided by hospital
+				336 text *This information is now included in this booklet.
+				337 content list
+					338 text Patients are provided with a notice of their rights regarding admission and discharge. Medicare patients will be given the "Hospital Admission Notice for Medicare Patients", and all other patients will be given "An Important Message Regarding Your Rights as a Hospital Inpatient."
+					339 text Public Health Law 2803 (1) (g) Discharge Review
+					340 text 10NYCRR, 405.9 (b) (14) (i) and 405.9 (b) (14) (ii)
+					341 text Patients (or appointed personal representatives) are provided with a written discharge notice and a copy of a discharge plan. Patients (or their representatives) must be given the opportunity to sign the documents and receive a copy of the signed documents.
+					342 text 10NYCRR, 405.9 (g) (1) and 405.9 (g) (3) (i)
+				343 heading Admission Notice for Medicare Patients, Value: 2, ID: admission
+					344 text Admission Notice for Medicare Patients
+				345 text You have the following rights under the New York State law:
+				346 text Before you are discharged, you must receive a written Discharge Plan. You or your representative have the right to be involved in your discharge planning.
+				347 text Your written Discharge Plan must describe the arrangements for any future health care that you may need after discharge. You may not be discharged until the services required in your written Discharge Plan are secured or determined to be reasonably available.
+				348 text If you do not agree with the Discharge Plan or believe the services are not reasonably available, you may call the New York State Health Department to investigate your complaint and the safety of your discharge. The hospital must provide you with the State Health Department's telephone number if you ask for it.
+				349 text For important information about your rights as a Medicare patient, see "Important Message from Medicare," on the following page.
+				350 text Patients are provided with a notice of their rights regarding admission and discharge. Medicare patients will be given "Hospital Admission Notice for Medicare Patients", and all other patients will be given "An Important Message Regarding Your Rights as a Hospital Inpatient"
+				351 content list
+					352 container
+						353 AXListMarker • 
+						354 text Public Health Law 2803 (1) (g) Discharge Review
+					355 container
+						356 AXListMarker • 
+						357 text 10NYCRR 405.9 (b) (14) (i) and 405.9 (b) (14) (ii)
+				358 heading Important Message from Medicare About Your Rights, Value: 2, ID: important
+					359 text Important Message from Medicare About Your Rights
+				360 heading As a Hospital Inpatient, You Have the Right to:, Value: 3
+					361 text As a Hospital Inpatient, You Have the Right to:
+				362 content list
+					363 container
+						364 AXListMarker • 
+						365 text Receive Medicare covered services. This includes medically necessary hospital services and services you may need after you are discharged, if ordered by your doctor. You have a right to know about these services, who will pay for them, and where you can get them.
+					366 container
+						367 AXListMarker • 
+						368 text Be involved in any decisions about your hospital stay, and know who will pay for it.
+					369 container
+						370 AXListMarker • 
+						371 text Report any concerns you have about discharge and the quality of care you receive to the Quality Improvement Organization (QIO) listed here Livanta 1-866-815-5440.
+				372 heading Your Medicare Discharge Rights, Value: 3
+					373 text Your Medicare Discharge Rights
+				374 container
+					375 text Planning For Your Discharge:  During your hospital stay, the hospital staff will be working with you to prepare for your safe discharge and arrange for services you may need after you leave the hospital. When you no longer need inpatient hospital care, your doctor or the hospital staff will inform you of your planned discharge date..
+				376 text If you think you are being discharged too soon:
+				377 content list
+					378 container
+						379 AXListMarker • 
+						380 text You can talk to the hospital staff, your doctor and your managed care plan (if you belong to one) about your concerns.
+					381 container
+						382 AXListMarker • 
+						383 text You also have the right to an appeal, that is, a review of your case by a Quality Improvement Organization (QIO). The QIO is an outside reviewer hired by Medicare to look at your case to decide whether you are ready to leave the hospital.
+						384 content list
+							385 container
+								386 AXListMarker ◦ 
+								387 text If you want to appeal, you must contact the QIO no later than your planned discharge date and before you leave the hospital.
+							388 container
+								389 AXListMarker ◦ 
+								390 text If you do this, you will not have to pay for the services you receive during the appeal (except for charges like copays and deductibles).
+					391 container
+						392 AXListMarker • 
+						393 text If you do not appeal, but decide to stay in the hospital past your planned discharge date, you may have to pay for any services you receive after that date.
+					394 container
+						395 AXListMarker • 
+						396 text Step by step instructions for calling the QIO and filing an appeal are on page 2.
+				397 text To speak with someone at the hospital about this notice, call __________________________.
+				398 text Please sign and date here to show you received this notice and understand your rights.
+				399 text _____________________________________ _________________
+				400 text Signature of Patient or Representative               Date
+				401 text CMS-R-193 (approved 05/07)
+				402 heading STEPS TO APPEAL YOUR DISCHARGE, Value: 3
+					403 text STEPS TO APPEAL YOUR DISCHARGE
+				404 content list
+					405 container
+						406 AXListMarker • 
+						407 text STEP 1:  You must contact the QIO no later than your planned discharge date and before you leave the hospital. If you do this, you will not have to pay for the services you receive during the appeal (except for charges like copays and deductibles).
+						408 content list
+							409 container
+								410 AXListMarker ◦ 
+								411 text Here is the contact information for the QIO:
+								412 content list
+									413 container
+										414 AXListMarker ■ 
+										415 text Livanta
+									416 container
+										417 AXListMarker ■ 
+										418 text 1-866-815-5440
+							419 container
+								420 AXListMarker ◦ 
+								421 text You can file a request for an appeal any day of the week.  Once you speak to someone or leave a message, your appeal has begun.
+							422 container
+								423 AXListMarker ◦ 
+								424 text Ask the hospital if you need help contacting the QIO.
+							425 container
+								426 AXListMarker ◦ 
+								427 text The name of this hospital is __{Name of Hospital}__.
+					428 container
+						429 AXListMarker • 
+						430 text STEP 2:  You will receive a detailed notice from the hospital or your Medicare Advantage or other Medicare managed care plan (if you belong to one) that explains the reasons they think you are ready to be discharged.
+					431 container
+						432 AXListMarker • 
+						433 text STEP 3:  The QIO will ask for your opinion. You or your representative need to be available to speak with the QIO, if requested. You or your representative may give the QIO a written statement, but you are not required to do so.
+					434 container
+						435 AXListMarker • 
+						436 text STEP 4:  The QIO will review your medical records and other important information about your case.
+					437 container
+						438 AXListMarker • 
+						439 text STEP 5: The QIO will notify you of its decision within  1 day after  it receives all necessary information.
+						440 content list
+							441 container
+								442 AXListMarker ◦ 
+								443 text If the QIO finds that you are not ready to be discharged, Medicare will continue to cover your hospital services.
+							444 container
+								445 AXListMarker ◦ 
+								446 text If the QIO finds you are ready to be discharged, Medicare will continue to cover your services until noon of the day  after  the QIO notifies you of its decision.
+				447 heading IF YOU MISS THE DEADLINE TO APPEAL, YOU HAVE OTHER APPEAL RIGHTS:, Value: 3
+					448 text IF YOU MISS THE DEADLINE TO APPEAL, YOU HAVE OTHER APPEAL RIGHTS:
+				449 content list
+					450 container
+						451 AXListMarker • 
+						452 text You can still ask the QIO or your plan (if you belong to one) for a review of your case:
+						453 content list
+							454 container
+								455 AXListMarker ◦ 
+								456 text If you have Original Medicare: Call the QIO listed above.
+							457 container
+								458 AXListMarker ◦ 
+								459 text If you belong to a Medicare Advantage Plan or other Medicare managed care plan: Call your plan.
+					460 container
+						461 AXListMarker • 
+						462 text If you stay in the hospital, the hospital may charge you for any services you receive after your planned discharge date.
+				463 text For more information, call 1-800-MEDICARE (1-800-633-4227), or TTY: 1-877-486-2048.
+				464 heading Additional Information:, Value: 4
+					465 text Additional Information:
+				466 text According to the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it displays a valid OMB control number. The valid OMB control number for this information collection is 0938- 0692. The time required to complete this information collection is estimated to average 15 minutes per response, including the time to review instructions, search existing data resources, gather the data needed, and complete and review the information collection. If you have comments concerning the accuracy of the time estimate(s) or suggestions for improving this form, please write to: CMS, 7500 Security Boulevard, Attn: PRA Reports Clearance Officer, Mail Stop C4-26-05, Baltimore, Maryland 21244-1850.
+				467 container
+					468 link Description: Planning, Value: healthweb-back.health.ny.gov/publications/1449/section_3.htm
+					469 link Description: Patient Rights, Value: healthweb-back.health.ny.gov/publications/1449/section_1.htm
+					470 link Description: Table of Contents, Value: healthweb-back.health.ny.gov/publications/1449/
+		471 container footer
+			472 container footer_container
+				473 container email
+					474 text Questions or comments: 
+					475 link Description: dohweb@health.ny.gov, Value: mailto:dohweb@health.ny.gov
+				476 text Revised: January 2018
+			477 container global_nav_footer
+				478 heading Department of Health, Value: 3
+					479 text Department of Health
+				480 container
+					481 heading General Information, Value: 4
+						482 text General Information
+					483 content list
+						484 link Description: James V. McDonald, M.D., M.P.H., Commissioner, Value: healthweb-back.health.ny.gov/commissioner/
+						485 link Description: About the Department of Health, Value: healthweb-back.health.ny.gov/about/
+						486 link Description: Meetings & Webcasts, Value: healthweb-back.health.ny.gov/events/
+						487 link Description: Employment Opportunities, Value: healthweb-back.health.ny.gov/employment/
+						488 link Description: Wadsworth Center, Value: wadsworth.org/
+						489 link Description: AIDS Institute, Value: healthweb-back.health.ny.gov/diseases/aids/
+						490 link Description: New York State Veterans Homes, Value: apps.health.ny.gov/nysvets/web/
+						491 link Description: Helen Hayes Hospital, Value: helenhayeshospital.org/
+						492 link Description: NY State of Health (Health Plan Marketplace), Value: nystateofhealth.ny.gov/
+						493 link Description: New York State Physician Profile, Value: nydoctorprofile.com/
+						494 link Description: New York State Public Health Corps, Value: ny.gov/programs/new-york-state-public-health-corps
+						495 link Description: Contact, Value: healthweb-back.health.ny.gov/contact/
+						496 link Description: Councils and Boards, Value: healthweb-back.health.ny.gov/councils/
+						497 link Description: Grants & Funding Opportunities, Value: healthweb-back.health.ny.gov/funding/
+						498 link Description: Laws & Regulations, Value: healthweb-back.health.ny.gov/regulations/
+						499 link Description: Press Releases, Reports & Publications, Value: healthweb-back.health.ny.gov/press/
+						500 link Description: Freedom of Information Law (FOIL), Value: healthweb-back.health.ny.gov/regulations/foil/
+						501 link Description: Forms, Value: healthweb-back.health.ny.gov/forms/
+				502 container
+					503 heading Current Issues/Info, Value: 4
+						504 text Current Issues/Info
+					505 content list
+						506 link Description: Abortion in NYS: Know Your Rights, Value: ny.gov/programs/abortion-new-york-state-know-your-rights
+						507 link Description: Bird Flu (Avian Influenza), Value: healthweb-back.health.ny.gov/diseases/communicable/influenza/avian/
+						508 link Description: Consumer Directed Personal Assistance Program (CDPAP), Value: healthweb-back.health.ny.gov/health_care/medicaid/program/longterm/cd…
+						509 link Description: Donate Life - Enroll Today!, Value: donatelife.ny.gov/
+						510 link Description: Drinking Water Protection Program, Value: healthweb-back.health.ny.gov/environmental/water/drinking/
+						511 link Description: Ending the Epidemic, Value: healthweb-back.health.ny.gov/diseases/aids/ending_the_epidemic/
+						512 link Description: Lesbian, Gay, Bisexual and Transgender Health, Value: healthweb-back.health.ny.gov/community/lgbt/
+						513 link Description: Long COVID, Value: healthweb-back.health.ny.gov/diseases/long_covid/
+						514 link Description: Measles, Value: healthweb-back.health.ny.gov/diseases/communicable/measles/
+						515 link Description: Medicaid in New York State, Value: healthweb-back.health.ny.gov/health_care/medicaid/
+						516 link Description: Office of Drug User Health, Value: healthweb-back.health.ny.gov/diseases/aids/consumers/prevention/oduh/
+						517 link Description: Polio, Value: healthweb-back.health.ny.gov/diseases/communicable/polio/
+						518 link Description: Reproductive Health, Value: healthweb-back.health.ny.gov/community/reproductive_health/
+						519 link Description: Vaping and E-Cigarettes, Value: healthweb-back.health.ny.gov/prevention/tobacco_control/campaign/e-ci…
+						520 link Description: Wastewater Surveillance, Value: healthweb-back.health.ny.gov/environmental/wastewater.htm
+				521 container
+					522 heading Help, Value: 4
+						523 text Help
+					524 content list
+						525 link Description: Help Increasing the Text Size in Your Web Browser, Value: healthweb-back.health.ny.gov/help/text_size.htm
+						526 link Description: File Formats Used on this Web Site, Value: healthweb-back.health.ny.gov/help/file_types.htm
+						527 link Description: Disclaimer, Value: healthweb-back.health.ny.gov/about/disclaim.htm
+						528 link Description: Privacy Policy, Value: healthweb-back.health.ny.gov/about/privacy.htm
+						529 link Description: Accessibility, Value: healthweb-back.health.ny.gov/contact/accessibility.htm
+				530 container
+					531 heading Language Assistance, Value: 4
+						532 text Language Assistance
+					533 content list
+						534 link Description: English, Value: healthweb-back.health.ny.gov/contact/translate.htm
+						535 link Description: Español (Spanish), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						536 link Description: 中文 (Chinese), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						537 link Description: Русский (Russian), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						538 link Description: ইংরেজি (Bengali), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						539 link Description: Italiano (Italian), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						540 link Description: Kreyòl Ayisyen (Haitian-Creole), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						541 link Description: 한국어 (Korean), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						542 link Description: יידיש (Yiddish), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						543 link Description: العربية (Arabic), Value: healthweb-back.health.ny.gov/contact/translate.htm
+						544 link Description: Polski (Polish), Value: …
+						545 link Description: Français (French), Value: …
+						546 link Description: اُردُو (Urdu), Value: …
+						547 link Description: Website Language Translations, Value: …
+				548 container footer_social_media_pod
+					549 heading CONNECT WITH US, Value: 4
+						550 text CONNECT WITH US
+					551 content list
+						552 link Description: FACEBOOK, Value: facebook.com/NYSDOH
+						553 link Description: X, Value: …
+						554 link Description: YOUTUBE, Value: …
+						555 link Description: INSTAGRAM, Value: …
+						556 link Description: FLICKR, Value: …
+						557 link Description: LINKEDIN, Value: …
+						558 link Description: THREADS, Value: …
+						559 link Description: BLUESKY, Value: …
+		560 container
+			561 heading Translation Services, Value: 3
+				562 text 
+				563 link Description: Translation Services, Value: …
+			564 text This page is available in other languages
+			565 container Translate
+				566 content list
+					567 content list
+						568 link Description: English, Value: …
+						569 link Description: Español, Value: …
+						570 link Description: 中文, Value: …
+						571 link Description: 繁體中文, Value: …
+						572 link Description: Русский, Value: …
+						573 link Description: יידיש, Value: …
+						574 link Description: বাংলা, Value: …
+						575 link Description: 한국어, Value: …
+						576 link Description: Kreyòl Ayisyen, Value: …
+						577 link Description: Italiano, Value: …
+						578 link Description: العربية, Value: …
+						579 link Description: Polski, Value: …
+						580 link Description: Français, Value: …
+						581 link Description: اردو, Value: …
+
+The focused UI element is 0 AXWebArea Your Rights as a Hospital Patient in New York State - Section 2, URL: healthweb-back.health.ny.gov/publications/1449/section_2.htm

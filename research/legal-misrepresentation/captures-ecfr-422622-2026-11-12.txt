@@ -1,0 +1,374 @@
+Browser tab: 10, Title: "eCFR :: 42 CFR 422.622 -- Requesting immediate QIO review of the decision to discharge from the inpatient hospital.", URL: "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.622".
+0 AXWebArea URL: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.622, eCFR :: 42 CFR 422.622 -- Requesting immediate QIO review of the decision to discharge from the inpatient hospital.
+	1 container
+		2 container feedbackbutton
+			3 text  Site Feedback
+		4 content list
+			5 content list
+				6 link Description: Home, Value: ecfr.gov/
+				7 container nav-browse
+					8 container
+						9 image
+						10 text Browse
+						11 image
+					12 content list
+						13 link Description: Titles, Value: ecfr.gov/titles
+						14 link Description: Agencies, Value: ecfr.gov/agencies
+				15 container nav-recent-changes
+					16 container
+						17 image
+						18 text CFR Updates
+						19 image
+					20 content list
+						21 link Description: eCFR Recent Changes, Value: ecfr.gov/recent-changes
+						22 link Description: eCFR Issue Summaries, Value: ecfr.gov/issues
+						23 link Description: eCFR Corrections, Value: ecfr.gov/corrections/2026
+				24 container nav-finding-aids
+					25 container
+						26 image
+						27 text Finding Aids
+						28 image
+					29 content list
+						30 link Description: Parallel Table of Authorities, Value: ecfr.gov/parallel-table-of-authorities/current
+						31 link Description: eCFR Subject Index, Value: ecfr.gov/subject-index/current
+						32 link Description: Agency-prepared Indexes, Value: ecfr.gov/agency-indexes
+				33 container nav-reader-aids
+					34 container
+						35 image
+						36 text Reader Aids
+						37 image
+					38 content list
+						39 link Description: Reader Aids Home, Value: ecfr.gov/reader-aids
+						40 link Description: Using the eCFR Point-in-Time System, Value: ecfr.gov/reader-aids/using-ecfr
+						41 link Description: Understanding the eCFR, Value: ecfr.gov/reader-aids/understanding-the-ecfr
+						42 link Description: Government Policy and OFR Procedures, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures
+						43 link Description: Developer Resources, Value: ecfr.gov/reader-aids/ecfr-developer-resources
+						44 link Description: Recent Site Updates, Value: ecfr.gov/reader-aids/ecfr-recent-updates
+				45 container nav-my-ecfr
+					46 container
+						47 image
+						48 text My eCFR
+						49 image
+					50 content list
+						51 link Description: Sign In / Sign Up, Value: ecfr.gov/auth/sign_in?jwt=eyJhbGciOiJIUzI1NiJ9.eyJub3RpZmljYXRpb25zIjp7ImluZm8iOiJZb3Ugd2lsbCBiZSByZWRpcmVjdGVkIGJhY2sgdG8gdGhlIGVDRlIgYWZ0ZXIgeW91IGhhdmUgc2lnbmVkIGluIG9yIGNyZWF0ZWQgYW4gYWNjb3VudC4ifX0.-sYkHWfC02yb0CpuUqmPkxxnF0yzlNHaS5520hYIUy8&redirect_to=https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.622
+				52 container
+					53 text field (settable) Description: Search the eCFR, ID: search_query
+					54 button Description: Search the eCFR, Help: Search
+						55 image
+		56 container
+			57 heading eCFR, Value: 1
+				58 link Description: eCFR, Help: eCFR Home, Value: ecfr.gov/
+			59 heading The Electronic Code of Federal Regulations, Value: 2
+				60 text The Electronic Code of Federal Regulations
+		61 container page-top
+			62 heading  Title 42, Value: 1
+				63 text   Title 42
+		64 container
+			65 text  Displaying title 42, up to date as of 11/09/2026. Title 42 was last amended 11/09/2026.
+			66 link Description: view historical versions, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.622#
+		67 container Description: Search with autocomplete suggestions, ID: suggestions
+		68 container
+			69 text field (settable) Description: Search the eCFR, ID: suggestion
+			70 button Search
+		71 container
+			72 content list
+				73 container
+					74 link Description: Title 42 , Value: ecfr.gov/current/title-42
+					75 text / 
+				76 container
+					77 link Description: Chapter IV , Value: ecfr.gov/current/title-42/chapter-IV
+					78 text / 
+				79 container
+					80 link Description: Subchapter B , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B
+					81 text / 
+				82 container
+					83 link Description: Part 422 , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422?toc=1
+					84 text / 
+				85 container
+					86 link Description: Subpart M , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M?toc=1
+					87 text / 
+				88 text § 422.622
+			89 content list
+				90 container
+					91 link Description: Previous, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.620, ID: previous-content-link
+					92 text / 
+				93 container
+					94 link Description: Next, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.624, ID: next-content-link
+					95 text / 
+				96 link Description: Top, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.622#page-top
+		97 container
+			98 content list
+				99 button compress content nav
+				100 container utility-nav-toc
+					101 button Table of Contents
+					102 button Table of Contents
+				103 container utility-nav-details
+					104 button Details
+					105 button Details
+				106 container
+					107 button Print/PDF
+					108 button Print/PDF
+				109 container
+					110 button Display Options
+					111 button Display Options
+				112 container utility-nav-subscribe
+					113 button Subscribe
+					114 button Subscribe
+				115 container utility-nav-timeline
+					116 button Timeline
+					117 button Timeline
+				118 container utility-nav-go-to-date
+					119 button Go to Date
+					120 button Go to Date
+				121 container utility-nav-compare
+					122 button Compare Dates
+					123 button Compare Dates
+				124 container
+					125 button Published Edition
+					126 button Published Edition
+				127 container
+					128 button Developer Tools
+					129 button Developer Tools
+			130 container
+				131 heading ECFR CONTENT, Value: 6
+					132 text ECFR CONTENT
+				133 container
+					134 heading EDITORIAL NOTE ON PART 422, Value: 6
+						135 text EDITORIAL NOTE ON 
+						136 link Description: PART 422, Value: ecfr.gov/current/title-42/part-422?toc=1
+					137 heading Editorial Note:, Value: 4
+						138 text Editorial Note:
+					139 text Nomenclature changes to part 422 appear at 
+					140 link Description: 70 FR 4741, Value: federalregister.gov/citation/70-FR-4741
+					141 text , Jan. 28, 2005.
+				142 container 422.622
+					143 image
+					144 heading § 422.622 Requesting immediate QIO review of the decision to discharge from the inpatient hospital., Value: 4
+						145 text § 422.622 Requesting immediate QIO review of the decision to discharge from the inpatient hospital.
+					146 container
+						147 text ( a ) Enrollee's right to an immediate QIO review.  An enrollee has a right to request an immediate review by the QIO when an MA organization or hospital (acting directly or through its utilization committee), with physician concurrence determines that inpatient care is no longer necessary.
+					148 container p-422.622(b)
+						149 container
+							150 text ( b ) Requesting an immediate QIO review.
+						151 container
+							152 text ( 1 )  An enrollee who wishes to exercise the right to an immediate review must submit a request to the QIO that has an agreement with the hospital as specified in 
+							153 link Description: § 476.78 of this chapter, Value: ecfr.gov/current/title-42/section-476.78
+							154 text . The request must be made no later than the day of discharge and may be in writing or by telephone.
+						155 container
+							156 text ( 2 )  The enrollee, or his or her representative, upon request by the QIO, must be available to discuss the case.
+						157 container
+							158 text ( 3 )  The enrollee may, but is not required to, submit written evidence to be considered by a QIO in making its decision.
+						159 container
+							160 text ( 4 )  An enrollee who makes a timely request for an immediate QIO review in accordance with 
+							161 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(b)(1)
+							162 text  of this section is subject to the financial liability protections under 
+							163 link Description: paragraph (f), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(f)
+							164 text  of this section, as applicable.
+						165 container
+							166 text ( 5 )  When an enrollee does not request an immediate QIO review in accordance with 
+							167 link Description: paragraph (b), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(b)
+							168 text  of this section, he or she may request expedited reconsideration by the MA organization as described in 
+							169 link Description: § 422.584, Value: ecfr.gov/current/title-42/section-422.584
+							170 text , but the financial liability rules of 
+							171 link Description: paragraph (f), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(f)
+							172 text  of this section do not apply.
+					173 container
+						174 text ( c ) Burden of proof.  When an enrollee (or his or her representative, if applicable) requests an immediate review by a QIO, the burden of proof rests with the MA organization to demonstrate that discharge is the correct decision, either on the basis of medical necessity, or based on other Medicare coverage policies. Consistent with 
+						175 link Description: paragraph (e)(2), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(e)(2)
+						176 text  of this section, the MA organization should supply any and all information that a QIO requires to sustain the organization's discharge determination.
+					177 container p-422.622(d)
+						178 container
+							179 text ( d ) Procedures the QIO must follow.
+						180 container
+							181 text ( 1 )  When the QIO receives the enrollee's request for an immediate review under paragraph (b), the QIO must notify the MA organization and the hospital that the enrollee has filed a request for an immediate review.
+						182 container
+							183 text ( 2 )  The QIO determines whether the hospital delivered valid notice consistent with 
+							184 link Description: § 422.620(b)(3), Value: ecfr.gov/current/title-42/section-422.620#p-422.620(b)(3)
+							185 text .
+						186 container
+							187 text ( 3 )  The QIO examines the medical and other records that pertain to the services in dispute.
+						188 container
+							189 text ( 4 )  The QIO must solicit the views of the enrollee (or his or her representative) who requested the immediate QIO review.
+						190 container
+							191 text ( 5 )  The QIO must provide an opportunity for the MA organization to explain why the discharge is appropriate.
+						192 container
+							193 text ( 6 )  When the enrollee requests an immediate QIO review in accordance with 
+							194 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(b)(1)
+							195 text  of this section, the QIO must make a determination and notify the enrollee, the hospital, the MA organization, and the physician of its determination within one calendar day after it receives all requested pertinent information.
+						196 container
+							197 text ( 7 )  If the QIO does not receive the information needed to sustain an MA organization's decision to discharge, it may make its determination based on the evidence at hand, or it may defer a decision until it receives the necessary information. If this delay results in extended Medicare coverage of an individual's hospital services, the MA organization may be held financially liable for these services, as determined by the QIO.
+						198 container p-422.622(d)(8)
+							199 container
+								200 text ( 8 )  When the QIO issues its determination, the QIO must notify the enrollee, the MA organization, the physician, and hospital of its decision by telephone, followed by a written notice that must include the following information:
+							201 container
+								202 text ( i )  The basis for the determination.
+							203 container
+								204 text ( ii )  A detailed rationale for the determination.
+							205 container
+								206 text ( iii )  An explanation of the Medicare payment consequences of the determination and the date an enrollee becomes fully liable for the services.
+							207 container
+								208 text ( iv )  Information about the enrollee's right to a reconsideration of the QIO's determination as set forth in 
+								209 link Description: § 422.626(f), Value: ecfr.gov/current/title-42/section-422.626#p-422.626(f)
+								210 text , including how to request a reconsideration and the time period for doing so.
+					211 container p-422.622(e)
+						212 container
+							213 text ( e ) Responsibilities of the MA organization and hospital.
+						214 container p-422.622(e)(1)
+							215 container
+								216 text ( 1 )  When the QIO notifies an MA organization that an enrollee has requested an immediate QIO review, the MA organization must, directly or by delegation, deliver a detailed notice to the enrollee as soon as possible, but no later than noon of the day after the QIO's notification. The detailed notice must include the following information:
+							217 container
+								218 text ( i )  A detailed explanation of why services are either no longer reasonable and necessary or are no longer covered.
+							219 container
+								220 text ( ii )  A description of any applicable Medicare coverage rule, instruction, or other Medicare policy including information about how the enrollee may obtain a copy of the Medicare policy from the MA organization.
+							221 container
+								222 text ( iii )  Any applicable MA organization policy, contract provision, or rationale upon which the discharge determination was based.
+							223 container
+								224 text ( iv )  Facts specific to the enrollee and relevant to the coverage determination sufficient to advise the enrollee of the applicability of the coverage rule or policy to the enrollee's case.
+							225 container
+								226 text ( v )  Any other information required by CMS.
+						227 container
+							228 text ( 2 )  Upon notification by the QIO of a request for an immediate review, the MA organization must supply any and all information, including a copy of the notices sent to the enrollee, as specified in 
+							229 link Description: § 422.620(b), Value: ecfr.gov/current/title-42/section-422.620#p-422.620(b)
+							230 text  and 
+							231 link Description: (c), Value: ecfr.gov/current/title-42/section-422.620#p-422.620(c)
+							232 text  and 
+							233 link Description: paragraph (e)(1), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(e)(1)
+							234 text  of this section, that the QIO needs to decide on the determination. The MA organization must supply this information as soon as possible, but no later than noon of the day after the QIO notifies the MA organization that a request for an expedited determination has been received from the enrollee. The MA organization must make the information available by phone (with a written record made of any information not transmitted initially in writing) and/or in writing, as determined by the QIO.
+						235 container
+							236 text ( 3 )  In response to a request from the MA organization, the hospital must supply all information that the QIO needs to make its determination, including a copy of the notices required as specified in 
+							237 link Description: § 422.620(b), Value: ecfr.gov/current/title-42/section-422.620#p-422.620(b)
+							238 text  and 
+							239 link Description: (c), Value: ecfr.gov/current/title-42/section-422.620#p-422.620(c)
+							240 text  and 
+							241 link Description: paragraph (e)(1), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(e)(1)
+							242 text  of this section. The hospital must furnish this information as soon as possible, but no later than by close of business of the day the MA organization notifies the hospital of the request for information. At the discretion of the QIO, the hospital must make the information available by phone or in writing (with a written record of any information not transmitted initially in writing).
+						243 container
+							244 text ( 4 )  Upon an enrollee's request, the MA organization must provide the enrollee a copy of, or access to, any documentation sent to the QIO by the MA organization, including written records of any information provided by telephone. The MA organization may charge the enrollee a reasonable amount to cover the costs of duplicating the documentation for the enrollee and/or delivering the documentation to the enrollee. The MA organization must accommodate such a request by no later than close of business of the first day after the day the material is requested.
+					245 container p-422.622(f)
+						246 container
+							247 text ( f ) Coverage during QIO expedited review.
+						248 container
+							249 text ( 1 )  An MA organization is financially responsible for coverage of services as provided in this paragraph, regardless of whether it has delegated responsibility for authorizing coverage or discharge determinations to its providers.
+						250 container p-422.622(f)(2)
+							251 container
+								252 text ( 2 )  When the MA organization determines that hospital services are not, or are no longer, covered,
+							253 container
+								254 text ( i )  If the MA organization authorized coverage of the inpatient admission directly or by delegation (or the admission constitutes emergency or urgently needed care, as described in 
+								255 link Description: §§ 422.2, Value: ecfr.gov/current/title-42/section-422.2
+								256 text  and 
+								257 link Description: 422.112(c), Value: ecfr.gov/current/title-42/section-422.112#p-422.112(c)
+								258 text ), the MA organization continues to be financially responsible for the costs of the hospital stay when an appeal is filed under 
+								259 link Description: paragraph (a)(1), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(a)(1)
+								260 text  of this section until noon of the day after the QIO notifies the enrollee of its review determination, except as provided in 
+								261 link Description: paragraph (b)(5), Value: ecfr.gov/current/title-42/section-422.622#p-422.622(b)(5)
+								262 text  of this section. If coverage of the hospital admission was never approved by the MA organization or the admission does not constitute emergency or urgently needed care as described in 
+								263 link Description: §§ 422.2, Value: ecfr.gov/current/title-42/section-422.2
+								264 text  and 
+								265 link Description: 422.112(c), Value: ecfr.gov/current/title-42/section-422.112#p-422.112(c)
+								266 text , the MA organization is liable for the hospital costs only if it is determined on appeal that the hospital stay should have been covered under the MA plan.
+							267 container p-422.622(f)(2)(ii)
+								268 container
+									269 text ( ii )  The hospital may not charge the MA organization (or the enrollee) if—
+								270 container
+									271 text ( A )  It was the hospital (acting on behalf of the enrollee) that filed the request for immediate QIO review; and
+								272 container
+									273 text ( B )  The QIO upholds the non-coverage determination made by the MA organization.
+						274 container
+							275 text ( 3 )  If the QIO determines that the enrollee still requires inpatient hospital care, the hospital must provide the enrollee with a notice consistent with 
+							276 link Description: § 422.620(c) of this subpart, Value: ecfr.gov/current/title-42/part-422/section-422.620#p-422.620(c)
+							277 text  when the hospital or MA organization once again determines that the enrollee no longer requires inpatient hospital care.
+						278 container
+							279 text ( 4 )  If the hospital determines that inpatient hospital services are no longer necessary, the hospital may not charge the enrollee for inpatient services received before noon of the day after the QIO notifies the enrollee of its review determination.
+					280 container p-422.622(g)
+						281 container
+							282 text ( g ) Effect of an expedited QIO determination.  The QIO determination is binding upon the enrollee, physician, hospital, and MA organization except in the following circumstances:
+						283 container
+							284 text ( 1 ) Right to request a reconsideration.  If the enrollee is still an inpatient in the hospital and is dissatisfied with the determination, he or she may request a reconsideration according to the procedures described in 
+							285 link Description: § 422.626(g), Value: ecfr.gov/current/title-42/section-422.626#p-422.626(g)
+							286 text .
+						287 container
+							288 text ( 2 ) Right to pursue the standard appeal process.  If the enrollee is no longer an inpatient in the hospital and is dissatisfied with this determination, the enrollee may appeal to OMHA for an ALJ hearing, the Council, or a Federal court, as provided for under this subpart.
+					289 container
+						290 text [
+						291 link Description: 71 FR 68723, Value: federalregister.gov/citation/71-FR-68723
+						292 text , Nov. 27, 2006, as amended at 
+						293 link Description: 75 FR 19812, Value: federalregister.gov/citation/75-FR-19812
+						294 text , Apr. 15, 2010; 
+						295 link Description: 76 FR 21569, Value: federalregister.gov/citation/76-FR-21569
+						296 text , Apr. 15, 2011; 
+						297 link Description: 82 FR 5125, Value: federalregister.gov/citation/82-FR-5125
+						298 text , Jan. 17, 2017]
+				299 heading ECFR CONTENT, Value: 6
+					300 text ECFR CONTENT
+		301 container
+			302 heading PAGES, Value: 2
+				303 text PAGES
+			304 content list
+				305 container
+					306 text ■
+					307 link Description: Home, Value: ecfr.gov/
+				308 container
+					309 text ■
+					310 link Description: Titles, Value: ecfr.gov/
+				311 container
+					312 text ■
+					313 link Description: Search, Value: ecfr.gov/search
+				314 container
+					315 text ■
+					316 link Description: Recent Changes, Value: ecfr.gov/recent-changes
+				317 container
+					318 text ■
+					319 link Description: Corrections, Value: ecfr.gov/corrections
+			320 heading READER AIDS, Value: 2
+				321 text READER AIDS
+			322 content list
+				323 container
+					324 text ■
+					325 link Description: Using the eCFR Point-in-Time System, Value: ecfr.gov/reader-aids/using-ecfr
+				326 container
+					327 text ■
+					328 link Description: Understanding the eCFR, Value: ecfr.gov/reader-aids/understanding-the-ecfr
+				329 container
+					330 text ■
+					331 link Description: Government Policy and OFR Procedures, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures
+				332 container
+					333 text ■
+					334 link Description: Developer Resources, Value: ecfr.gov/reader-aids/ecfr-developer-resources
+				335 container
+					336 text ■
+					337 link Description: Recent Site Updates, Value: ecfr.gov/reader-aids/ecfr-recent-updates
+			338 heading INFORMATION, Value: 2
+				339 text INFORMATION
+			340 content list
+				341 container
+					342 text ■
+					343 link Description: About This Site, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/about-this-site
+				344 container
+					345 text ■
+					346 link Description: Legal Status, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/about-this-site#legal-status
+				347 container
+					348 text ■
+					349 link Description: Privacy, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/privacy
+				350 container
+					351 text ■
+					352 link Description: Accessibility, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/accessibility
+				353 container
+					354 text ■
+					355 link Description: FOIA, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/foia
+				356 container
+					357 text ■
+					358 link Description: No Fear Act, Value: archives.gov/eeo/policy/no-fear-notice.html
+				359 container
+					360 text ■
+					361 link Description: Continuity Information, Value: archives.gov/federal-register/contact.html#coop
+			362 heading MY ECFR, Value: 2
+				363 text MY ECFR
+			364 content list
+				365 container
+					366 text ■
+					367 link Description: My Subscriptions, Value: ecfr.gov/my/subscriptions
+				368 container
+					369 text ■
+					370 link Description: Sign In / Sign Up, Value: …
+
+The focused UI element is 0 AXWebArea URL: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-422/subpart-M/section-422.622, eCFR :: 42 CFR 422.622 -- Requesting immediate QIO review of the decision to discharge from the inpatient hospital.

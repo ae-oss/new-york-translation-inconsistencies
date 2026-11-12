@@ -1,0 +1,287 @@
+Browser tab: 7, Title: "eCFR :: 42 CFR 405.1205 -- Notifying beneficiaries of hospital discharge appeal rights.", URL: "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205".
+0 AXWebArea eCFR :: 42 CFR 405.1205 -- Notifying beneficiaries of hospital discharge appeal rights., URL: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205
+	1 container
+		2 container feedbackbutton
+			3 text  Site Feedback
+		4 content list
+			5 content list
+				6 link Description: Home, Value: ecfr.gov/
+				7 container nav-browse
+					8 container
+						9 image
+						10 text Browse
+						11 image
+					12 content list
+						13 link Description: Titles, Value: ecfr.gov/titles
+						14 link Description: Agencies, Value: ecfr.gov/agencies
+				15 container nav-recent-changes
+					16 container
+						17 image
+						18 text CFR Updates
+						19 image
+					20 content list
+						21 link Description: eCFR Recent Changes, Value: ecfr.gov/recent-changes
+						22 link Description: eCFR Issue Summaries, Value: ecfr.gov/issues
+						23 link Description: eCFR Corrections, Value: ecfr.gov/corrections/2026
+				24 container nav-finding-aids
+					25 container
+						26 image
+						27 text Finding Aids
+						28 image
+					29 content list
+						30 link Description: Parallel Table of Authorities, Value: ecfr.gov/parallel-table-of-authorities/current
+						31 link Description: eCFR Subject Index, Value: ecfr.gov/subject-index/current
+						32 link Description: Agency-prepared Indexes, Value: ecfr.gov/agency-indexes
+				33 container nav-reader-aids
+					34 container
+						35 image
+						36 text Reader Aids
+						37 image
+					38 content list
+						39 link Description: Reader Aids Home, Value: ecfr.gov/reader-aids
+						40 link Description: Using the eCFR Point-in-Time System, Value: ecfr.gov/reader-aids/using-ecfr
+						41 link Description: Understanding the eCFR, Value: ecfr.gov/reader-aids/understanding-the-ecfr
+						42 link Description: Government Policy and OFR Procedures, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures
+						43 link Description: Developer Resources, Value: ecfr.gov/reader-aids/ecfr-developer-resources
+						44 link Description: Recent Site Updates, Value: ecfr.gov/reader-aids/ecfr-recent-updates
+				45 container nav-my-ecfr
+					46 container
+						47 image
+						48 text My eCFR
+						49 image
+					50 content list
+						51 link Description: Sign In / Sign Up, Value: ecfr.gov/auth/sign_in?jwt=eyJhbGciOiJIUzI1NiJ9.eyJub3RpZmljYXRpb25zIjp7ImluZm8iOiJZb3Ugd2lsbCBiZSByZWRpcmVjdGVkIGJhY2sgdG8gdGhlIGVDRlIgYWZ0ZXIgeW91IGhhdmUgc2lnbmVkIGluIG9yIGNyZWF0ZWQgYW4gYWNjb3VudC4ifX0.-sYkHWfC02yb0CpuUqmPkxxnF0yzlNHaS5520hYIUy8&redirect_to=https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205
+				52 container
+					53 text field (settable) Description: Search the eCFR, ID: search_query
+					54 button Description: Search the eCFR, Help: Search
+						55 image
+		56 container
+			57 heading eCFR, Value: 1
+				58 link Description: eCFR, Help: eCFR Home, Value: ecfr.gov/
+			59 heading The Electronic Code of Federal Regulations, Value: 2
+				60 text The Electronic Code of Federal Regulations
+		61 container page-top
+			62 heading  Title 42, Value: 1
+				63 text   Title 42
+		64 container
+			65 text  Displaying title 42, up to date as of 11/09/2026. Title 42 was last amended 11/09/2026.
+			66 link Description: view historical versions, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205#
+		67 container Description: Search with autocomplete suggestions, ID: suggestions
+		68 container
+			69 text field (settable) Description: Search the eCFR, ID: suggestion
+			70 button Search
+		71 container
+			72 content list
+				73 container
+					74 link Description: Title 42 , Value: ecfr.gov/current/title-42
+					75 text / 
+				76 container
+					77 link Description: Chapter IV , Value: ecfr.gov/current/title-42/chapter-IV
+					78 text / 
+				79 container
+					80 link Description: Subchapter B , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B
+					81 text / 
+				82 container
+					83 link Description: Part 405 , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405?toc=1
+					84 text / 
+				85 container
+					86 link Description: Subpart J , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J?toc=1
+					87 text / 
+				88 text § 405.1205
+			89 content list
+				90 container
+					91 link Description: Previous, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1204, ID: previous-content-link
+					92 text / 
+				93 container
+					94 link Description: Next, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1206, ID: next-content-link
+					95 text / 
+				96 link Description: Top, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205#page-top
+		97 container
+			98 content list
+				99 button compress content nav
+				100 container utility-nav-toc
+					101 button Table of Contents
+					102 button Table of Contents
+				103 container utility-nav-details
+					104 button Details
+					105 button Details
+				106 container
+					107 button Print/PDF
+					108 button Print/PDF
+				109 container
+					110 button Display Options
+					111 button Display Options
+				112 container utility-nav-subscribe
+					113 button Subscribe
+					114 button Subscribe
+				115 container utility-nav-timeline
+					116 button Timeline
+					117 button Timeline
+				118 container utility-nav-go-to-date
+					119 button Go to Date
+					120 button Go to Date
+				121 container utility-nav-compare
+					122 button Compare Dates
+					123 button Compare Dates
+				124 container
+					125 button Published Edition
+					126 button Published Edition
+				127 container
+					128 button Developer Tools
+					129 button Developer Tools
+			130 container
+				131 heading ECFR CONTENT, Value: 6
+					132 text ECFR CONTENT
+				133 container 405.1205
+					134 image
+					135 heading § 405.1205 Notifying beneficiaries of hospital discharge appeal rights., Value: 4
+						136 text § 405.1205 Notifying beneficiaries of hospital discharge appeal rights.
+					137 container p-405.1205(a)
+						138 container
+							139 text ( a ) Applicability and scope.
+						140 container
+							141 text ( 1 )  For purposes of 
+							142 link Description: §§ 405.1204, Value: ecfr.gov/current/title-42/section-405.1204
+							143 text , 
+							144 link Description: 405.1205, Value: ecfr.gov/current/title-42/section-405.1205
+							145 text , 
+							146 link Description: 405.1206, Value: ecfr.gov/current/title-42/section-405.1206
+							147 text , and 
+							148 link Description: 405.1208, Value: ecfr.gov/current/title-42/section-405.1208
+							149 text , the term “hospital” is defined as any facility providing care at the inpatient hospital level, whether that care is short term or long term, acute or non acute, paid through a prospective payment system or other reimbursement basis, limited to specialty care or providing a broader spectrum of services. This definition includes critical access hospitals.
+						150 container
+							151 text ( 2 )  For purposes of 
+							152 link Description: §§ 405.1204, Value: ecfr.gov/current/title-42/section-405.1204
+							153 text , 
+							154 link Description: 405.1205, Value: ecfr.gov/current/title-42/section-405.1205
+							155 text , 
+							156 link Description: 405.1206, Value: ecfr.gov/current/title-42/section-405.1206
+							157 text , and 
+							158 link Description: 405.1208, Value: ecfr.gov/current/title-42/section-405.1208
+							159 text , a discharge is a formal release of a beneficiary from an inpatient hospital.
+					160 container p-405.1205(b)
+						161 container
+							162 text ( b ) Advance written notice of hospital discharge rights.  For all Medicare beneficiaries, hospitals must deliver valid, written notice of a beneficiary's rights as a hospital inpatient, including discharge appeal rights. The hospital must use a standardized notice, as specified by CMS, in accordance with the following procedures:
+						163 container
+							164 text ( 1 ) Timing of notice.  The hospital must provide the notice at or near admission, but no later than 2 calendar days following the beneficiary's admission to the hospital.
+						165 container p-405.1205(b)(2)
+							166 container
+								167 text ( 2 ) Content of the notice.  The notice must include the following information:
+							168 container
+								169 text ( i )  The beneficiary's rights as a hospital inpatient including the right to benefits for inpatient services and for post-hospital services in accordance with 1866(a)(1)(M) of the Act.
+							170 container
+								171 text ( ii )  The beneficiary's right to request an expedited determination of the discharge decision including a description of the process under 
+								172 link Description: § 405.1206, Value: ecfr.gov/current/title-42/section-405.1206
+								173 text , and the availability of other appeals processes if the beneficiary fails to meet the deadline for an expedited determination.
+							174 container
+								175 text ( iii )  The circumstances under which a beneficiary will or will not be liable for charges for continued stay in the hospital in accordance with 1866(a)(1)(M) of the Act.
+							176 container
+								177 text ( iv )  A beneficiary's right to receive additional detailed information in accordance with 
+								178 link Description: § 405.1206(e), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(e)
+								179 text .
+							180 container
+								181 text ( v )  Any other information required by CMS.
+						182 container p-405.1205(b)(3)
+							183 container
+								184 text ( 3 ) When delivery of the notice is valid.  Delivery of the written notice of rights described in this section is valid if—
+							185 container
+								186 text ( i )  The beneficiary (or the beneficiary's representative) has signed and dated the notice to indicate that he or she has received the notice and can comprehend its contents, except as provided in 
+								187 link Description: paragraph (b)(4), Value: ecfr.gov/current/title-42/section-405.1205#p-405.1205(b)(4)
+								188 text  of this section; and
+							189 container
+								190 text ( ii )  The notice is delivered in accordance with 
+								191 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-405.1205#p-405.1205(b)(1)
+								192 text  of this section and contains all the elements described in 
+								193 link Description: paragraph (b)(2), Value: ecfr.gov/current/title-42/section-405.1205#p-405.1205(b)(2)
+								194 text  of this section.
+						195 container
+							196 text ( 4 ) If a beneficiary refuses to sign the notice.  The hospital may annotate its notice to indicate the refusal, and the date of refusal is considered the date of receipt of the notice.
+					197 container p-405.1205(c)
+						198 container
+							199 text ( c ) Follow up notification.
+						200 container
+							201 text ( 1 )  The hospital must present a copy of the signed notice described in 
+							202 link Description: paragraph (b)(2), Value: ecfr.gov/current/title-42/section-405.1205#p-405.1205(b)(2)
+							203 text  of this section to the beneficiary (or beneficiary's representative) prior to discharge. The notice should be given as far in advance of discharge as possible, but not more than 2 calendar days before discharge.
+						204 container
+							205 text ( 2 )  Follow up notification is not required if the notice required under 
+							206 link Description: § 405.1205(b), Value: ecfr.gov/current/title-42/section-405.1205#p-405.1205(b)
+							207 text  is delivered within 2 calendar days of discharge.
+					208 container
+						209 text [
+						210 link Description: 71 FR 68720, Value: federalregister.gov/citation/71-FR-68720
+						211 text , Nov. 27, 2006]
+				212 heading ECFR CONTENT, Value: 6
+					213 text ECFR CONTENT
+		214 container
+			215 heading PAGES, Value: 2
+				216 text PAGES
+			217 content list
+				218 container
+					219 text ■
+					220 link Description: Home, Value: ecfr.gov/
+				221 container
+					222 text ■
+					223 link Description: Titles, Value: ecfr.gov/
+				224 container
+					225 text ■
+					226 link Description: Search, Value: ecfr.gov/search
+				227 container
+					228 text ■
+					229 link Description: Recent Changes, Value: ecfr.gov/recent-changes
+				230 container
+					231 text ■
+					232 link Description: Corrections, Value: ecfr.gov/corrections
+			233 heading READER AIDS, Value: 2
+				234 text READER AIDS
+			235 content list
+				236 container
+					237 text ■
+					238 link Description: Using the eCFR Point-in-Time System, Value: ecfr.gov/reader-aids/using-ecfr
+				239 container
+					240 text ■
+					241 link Description: Understanding the eCFR, Value: ecfr.gov/reader-aids/understanding-the-ecfr
+				242 container
+					243 text ■
+					244 link Description: Government Policy and OFR Procedures, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures
+				245 container
+					246 text ■
+					247 link Description: Developer Resources, Value: ecfr.gov/reader-aids/ecfr-developer-resources
+				248 container
+					249 text ■
+					250 link Description: Recent Site Updates, Value: ecfr.gov/reader-aids/ecfr-recent-updates
+			251 heading INFORMATION, Value: 2
+				252 text INFORMATION
+			253 content list
+				254 container
+					255 text ■
+					256 link Description: About This Site, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/about-this-site
+				257 container
+					258 text ■
+					259 link Description: Legal Status, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/about-this-site#legal-status
+				260 container
+					261 text ■
+					262 link Description: Privacy, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/privacy
+				263 container
+					264 text ■
+					265 link Description: Accessibility, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/accessibility
+				266 container
+					267 text ■
+					268 link Description: FOIA, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/foia
+				269 container
+					270 text ■
+					271 link Description: No Fear Act, Value: archives.gov/eeo/policy/no-fear-notice.html
+				272 container
+					273 text ■
+					274 link Description: Continuity Information, Value: archives.gov/federal-register/contact.html#coop
+			275 heading MY ECFR, Value: 2
+				276 text MY ECFR
+			277 content list
+				278 container
+					279 text ■
+					280 link Description: My Subscriptions, Value: ecfr.gov/my/subscriptions
+				281 container
+					282 text ■
+					283 link Description: Sign In / Sign Up, Value: ecfr.gov/auth/sign_in?jwt=eyJhbGciOiJIUzI1NiJ9.eyJub3RpZmljYXRpb25zIjp7ImluZm8iOiJZb3Ugd2lsbCBiZSByZWRpcmVjdGVkIGJhY2sgdG8gdGhlIGVDRlIgYWZ0ZXIgeW91IGhhdmUgc2lnbmVkIGluIG9yIGNyZWF0ZWQgYW4gYWNjb3VudC4ifX0.-sYkHWfC02yb0CpuUqmPkxxnF0yzlNHaS5520hYIUy8&redirect_to=https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205
+
+The focused UI element is 0 AXWebArea eCFR :: 42 CFR 405.1205 -- Notifying beneficiaries of hospital discharge appeal rights., URL: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205

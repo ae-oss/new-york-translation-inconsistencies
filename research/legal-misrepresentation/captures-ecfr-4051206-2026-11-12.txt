@@ -1,0 +1,358 @@
+Browser tab: 8, Title: "eCFR :: 42 CFR 405.1206 -- Expedited determination procedures for inpatient hospital care.", URL: "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1206".
+0 AXWebArea eCFR :: 42 CFR 405.1206 -- Expedited determination procedures for inpatient hospital care., URL: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1206
+	1 container
+		2 container feedbackbutton
+			3 text  Site Feedback
+		4 content list
+			5 content list
+				6 link Description: Home, Value: ecfr.gov/
+				7 container nav-browse
+					8 container
+						9 image
+						10 text Browse
+						11 image
+					12 content list
+						13 link Description: Titles, Value: ecfr.gov/titles
+						14 link Description: Agencies, Value: ecfr.gov/agencies
+				15 container nav-recent-changes
+					16 container
+						17 image
+						18 text CFR Updates
+						19 image
+					20 content list
+						21 link Description: eCFR Recent Changes, Value: ecfr.gov/recent-changes
+						22 link Description: eCFR Issue Summaries, Value: ecfr.gov/issues
+						23 link Description: eCFR Corrections, Value: ecfr.gov/corrections/2026
+				24 container nav-finding-aids
+					25 container
+						26 image
+						27 text Finding Aids
+						28 image
+					29 content list
+						30 link Description: Parallel Table of Authorities, Value: ecfr.gov/parallel-table-of-authorities/current
+						31 link Description: eCFR Subject Index, Value: ecfr.gov/subject-index/current
+						32 link Description: Agency-prepared Indexes, Value: ecfr.gov/agency-indexes
+				33 container nav-reader-aids
+					34 container
+						35 image
+						36 text Reader Aids
+						37 image
+					38 content list
+						39 link Description: Reader Aids Home, Value: ecfr.gov/reader-aids
+						40 link Description: Using the eCFR Point-in-Time System, Value: ecfr.gov/reader-aids/using-ecfr
+						41 link Description: Understanding the eCFR, Value: ecfr.gov/reader-aids/understanding-the-ecfr
+						42 link Description: Government Policy and OFR Procedures, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures
+						43 link Description: Developer Resources, Value: ecfr.gov/reader-aids/ecfr-developer-resources
+						44 link Description: Recent Site Updates, Value: ecfr.gov/reader-aids/ecfr-recent-updates
+				45 container nav-my-ecfr
+					46 container
+						47 image
+						48 text My eCFR
+						49 image
+					50 content list
+						51 link Description: Sign In / Sign Up, Value: ecfr.gov/auth/sign_in?jwt=eyJhbGciOiJIUzI1NiJ9.eyJub3RpZmljYXRpb25zIjp7ImluZm8iOiJZb3Ugd2lsbCBiZSByZWRpcmVjdGVkIGJhY2sgdG8gdGhlIGVDRlIgYWZ0ZXIgeW91IGhhdmUgc2lnbmVkIGluIG9yIGNyZWF0ZWQgYW4gYWNjb3VudC4ifX0.-sYkHWfC02yb0CpuUqmPkxxnF0yzlNHaS5520hYIUy8&redirect_to=https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1206
+				52 container
+					53 text field (settable) Description: Search the eCFR, ID: search_query
+					54 button Description: Search the eCFR, Help: Search
+						55 image
+		56 container
+			57 heading eCFR, Value: 1
+				58 link Description: eCFR, Help: eCFR Home, Value: ecfr.gov/
+			59 heading The Electronic Code of Federal Regulations, Value: 2
+				60 text The Electronic Code of Federal Regulations
+		61 container page-top
+			62 heading  Title 42, Value: 1
+				63 text   Title 42
+		64 container
+			65 text  Displaying title 42, up to date as of 11/09/2026. Title 42 was last amended 11/09/2026.
+			66 link Description: view historical versions, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1206#
+		67 container Description: Search with autocomplete suggestions, ID: suggestions
+		68 container
+			69 text field (settable) Description: Search the eCFR, ID: suggestion
+			70 button Search
+		71 container
+			72 content list
+				73 container
+					74 link Description: Title 42 , Value: ecfr.gov/current/title-42
+					75 text / 
+				76 container
+					77 link Description: Chapter IV , Value: ecfr.gov/current/title-42/chapter-IV
+					78 text / 
+				79 container
+					80 link Description: Subchapter B , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B
+					81 text / 
+				82 container
+					83 link Description: Part 405 , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405?toc=1
+					84 text / 
+				85 container
+					86 link Description: Subpart J , Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J?toc=1
+					87 text / 
+				88 text § 405.1206
+			89 content list
+				90 container
+					91 link Description: Previous, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1205, ID: previous-content-link
+					92 text / 
+				93 container
+					94 link Description: Next, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1208, ID: next-content-link
+					95 text / 
+				96 link Description: Top, Value: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1206#page-top
+		97 container
+			98 content list
+				99 button compress content nav
+				100 container utility-nav-toc
+					101 button Table of Contents
+					102 button Table of Contents
+				103 container utility-nav-details
+					104 button Details
+					105 button Details
+				106 container
+					107 button Print/PDF
+					108 button Print/PDF
+				109 container
+					110 button Display Options
+					111 button Display Options
+				112 container utility-nav-subscribe
+					113 button Subscribe
+					114 button Subscribe
+				115 container utility-nav-timeline
+					116 button Timeline
+					117 button Timeline
+				118 container utility-nav-go-to-date
+					119 button Go to Date
+					120 button Go to Date
+				121 container utility-nav-compare
+					122 button Compare Dates
+					123 button Compare Dates
+				124 container
+					125 button Published Edition
+					126 button Published Edition
+				127 container
+					128 button Developer Tools
+					129 button Developer Tools
+			130 container
+				131 heading ECFR CONTENT, Value: 6
+					132 text ECFR CONTENT
+				133 container 405.1206
+					134 image
+					135 heading § 405.1206 Expedited determination procedures for inpatient hospital care., Value: 4
+						136 text § 405.1206 Expedited determination procedures for inpatient hospital care.
+					137 container
+						138 text ( a ) Beneficiary's right to an expedited determination by the QIO.  A beneficiary has a right to request an expedited determination by the QIO when a hospital (acting directly or through its utilization review committee), with physician concurrence, determines that inpatient care is no longer necessary.
+					139 container p-405.1206(b)
+						140 container
+							141 text ( b ) Requesting an expedited determination.
+						142 container
+							143 text ( 1 )  A beneficiary who wishes to exercise the right to an expedited determination must submit a request to the QIO that has an agreement with the hospital as specified in 
+							144 link Description: § 476.78 of this chapter, Value: ecfr.gov/current/title-42/section-476.78
+							145 text . The request must be made no later than the day of discharge and may be in writing or by telephone.
+						146 container
+							147 text ( 2 )  The beneficiary, or his or her representative, upon request by the QIO, must be available to discuss the case.
+						148 container
+							149 text ( 3 )  The beneficiary may, but is not required to, submit written evidence to be considered by a QIO in making its decision.
+						150 container
+							151 text ( 4 )  A beneficiary who makes a timely request for an expedited QIO review in accordance with 
+							152 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)(1)
+							153 text  of this section is subject to the financial liability protections under 
+							154 link Description: paragraphs (f)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(f)(1)
+							155 text  and 
+							156 link Description: (f)(2), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(f)(2)
+							157 text  of this section, as applicable.
+						158 container
+							159 text ( 5 )  A beneficiary who fails to make a timely request for an expedited determination by a QIO, as described in 
+							160 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)(1)
+							161 text  of this section, and remains in the hospital without coverage, still may request an expedited QIO determination at any time during the hospitalization. The QIO will issue a decision in accordance with 
+							162 link Description: paragraph (d)(6)(ii), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(d)(6)(ii)
+							163 text  of this section, however, the financial liability protection under 
+							164 link Description: paragraphs (f)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(f)(1)
+							165 text  and 
+							166 link Description: (f)(2), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(f)(2)
+							167 text  of this section does not apply.
+						168 container
+							169 text ( 6 )  A beneficiary who fails to make a timely request for an expedited determination in accordance with 
+							170 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)(1)
+							171 text  of this section, and who is no longer an inpatient in the hospital, may request QIO review within 30 calendar days after the date of discharge, or at any time for good cause. The QIO will issue a decision in accordance with 
+							172 link Description: paragraph (d)(6)(iii), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(d)(6)(iii)
+							173 text  of this section; however, the financial liability protection under 
+							174 link Description: paragraphs (f)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(f)(1)
+							175 text  and 
+							176 link Description: (f)(2), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(f)(2)
+							177 text  of this section does not apply.
+					178 container
+						179 text ( c ) Burden of proof.  When a beneficiary (or his or her representative, if applicable) requests an expedited determination by a QIO, the burden of proof rests with the hospital to demonstrate that discharge is the correct decision, either on the basis of medical necessity, or based on other Medicare coverage policies. Consistent with 
+						180 link Description: paragraph (e)(2), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(e)(2)
+						181 text  of this section, the hospital should supply any and all information that a QIO requires to sustain the hospital's discharge determination.
+					182 container p-405.1206(d)
+						183 container
+							184 text ( d ) Procedures the QIO must follow.
+						185 container
+							186 text ( 1 )  When the QIO receives the request for an expedited determination under 
+							187 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)(1)
+							188 text  of this section, it must immediately notify the hospital that a request for an expedited determination has been made.
+						189 container
+							190 text ( 2 )  The QIO determines whether the hospital delivered valid notice consistent with 
+							191 link Description: § 405.1205(b)(3), Value: ecfr.gov/current/title-42/section-405.1205#p-405.1205(b)(3)
+							192 text .
+						193 container
+							194 text ( 3 )  The QIO examines the medical and other records that pertain to the services in dispute.
+						195 container
+							196 text ( 4 )  The QIO must solicit the views of the beneficiary (or the beneficiary's representative) who requested the expedited determination.
+						197 container
+							198 text ( 5 )  The QIO must provide an opportunity for the hospital to explain why the discharge is appropriate.
+						199 container p-405.1206(d)(6)
+							200 container
+								201 text ( 6 )
+							202 container
+								203 text ( i )  When the beneficiary requests an expedited determination in accordance with 
+								204 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)(1)
+								205 text  of this section, the QIO must make a determination and notify the beneficiary, the hospital, and physician of its determination within one calendar day after it receives all requested pertinent information.
+							206 container
+								207 text ( ii )  When the beneficiary makes an untimely request for an expedited determination, and remains in the hospital, consistent with 
+								208 link Description: paragraph (b)(5), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)(5)
+								209 text  of this section, the QIO will make a determination and notify the beneficiary, the hospital, and the physician of its determination within 2 calendar days following receipt of the request and pertinent information.
+							210 container
+								211 text ( iii )  When the beneficiary makes an untimely request for an expedited determination, and is no longer an inpatient in the hospital, consistent with 
+								212 link Description: paragraph (b)(6), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)(6)
+								213 text  of this section, the QIO will make a determination and notify the beneficiary, the hospital, and physician of its determination within 30 calendar days after receipt of the request and pertinent information.
+						214 container
+							215 text ( 7 )  If the QIO does not receive the information needed to sustain a hospital's decision to discharge, it may make its determination based on the evidence at hand, or it may defer a decision until it receives the necessary information. If this delay results in extended Medicare coverage of an individual's hospital services, the hospital may be held financially liable for these services, as determined by the QIO.
+						216 container p-405.1206(d)(8)
+							217 container
+								218 text ( 8 )  When the QIO issues an expedited determination, the QIO must notify the beneficiary, the physician, and hospital of its decision by telephone, followed by a written notice that must include the following information:
+							219 container
+								220 text ( i )  The basis for the determination.
+							221 container
+								222 text ( ii )  A detailed rationale for the determination.
+							223 container
+								224 text ( iii )  An explanation of the Medicare payment consequences of the determination and the date a beneficiary becomes fully liable for the services.
+							225 container
+								226 text ( iv )  Information about the beneficiary's right to a reconsideration of the QIO's determination as set forth in 
+								227 link Description: § 405.1204, Value: ecfr.gov/current/title-42/section-405.1204
+								228 text , including how to request a reconsideration and the time period for doing so.
+					229 container p-405.1206(e)
+						230 container
+							231 text ( e ) Responsibilities of hospitals.
+						232 container p-405.1206(e)(1)
+							233 container
+								234 text ( 1 )  When a QIO notifies a hospital that a beneficiary has requested an expedited determination, the hospital must deliver a detailed notice to the beneficiary as soon as possible but no later than noon of the day after the QIO's notification. The detailed notice must include the following information:
+							235 container
+								236 text ( i )  A detailed explanation why services are either no longer reasonable and necessary or are otherwise no longer covered.
+							237 container
+								238 text ( ii )  A description of any applicable Medicare coverage rule, instruction, or other Medicare policy, including information about how the beneficiary may obtain a copy of the Medicare policy.
+							239 container
+								240 text ( iii )  Facts specific to the beneficiary and relevant to the coverage determination that are sufficient to advise the beneficiary of the applicability of the coverage rule or policy to the beneficiary's case.
+							241 container
+								242 text ( iv )  Any other information required by CMS.
+						243 container
+							244 text ( 2 )  Upon notification by the QIO of the request for an expedited determination, the hospital must supply all information that the QIO needs to make its expedited determination, including a copy of the notices required as specified in 
+							245 link Description: § 405.1205 (b), Value: ecfr.gov/current/title-42/section-405.1205#p-405.1205(b)
+							246 text  and 
+							247 link Description: (c), Value: ecfr.gov/current/title-42/section-405.1205#p-405.1205(c)
+							248 text  and 
+							249 link Description: paragraph (e)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(e)(1)
+							250 text  of this section. The hospital must furnish this information as soon as possible, but no later than by noon of the day after the QIO notifies the hospital of the request for an expedited determination. At the discretion of the QIO, the hospital must make the information available by phone or in writing (with a written record of any information not transmitted initially in writing).
+						251 container
+							252 text ( 3 )  At a beneficiary's (or representative's) request, the hospital must furnish the beneficiary with a copy of, or access to, any documentation that it sends to the QIO, including written records of any information provided by telephone. The hospital may charge the beneficiary a reasonable amount to cover the costs of duplicating the documentation and/or delivering it to the beneficiary. The hospital must accommodate such a request by no later than close of business of the first day after the material is requested.
+					253 container p-405.1206(f)
+						254 container
+							255 text ( f ) Coverage during QIO expedited review  —
+						256 container
+							257 text ( 1 ) General rule and liability while QIO review is pending.  If the beneficiary remains in the hospital past midnight of the discharge date ordered by the physician, and the hospital, the physician who concurred with the discharge determination, or the QIO subsequently finds that the beneficiary requires inpatient hospital care, the beneficiary is not financially responsible for continued care (other than applicable coinsurance and deductible) until the hospital once again determines that the beneficiary no longer requires inpatient care, secures concurrence from the physician responsible for the beneficiary's care or the QIO, and notifies the beneficiary with a notice consistent with 405.1205 (c).
+						258 container
+							259 text ( 2 ) Timely filing and limitation on liability.  If a beneficiary files a request for an expedited determination by the QIO in accordance with 
+							260 link Description: paragraph (b)(1), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)(1)
+							261 text  of this section, the beneficiary is not financially responsible for inpatient hospital services (other than applicable coinsurance and deductible) furnished before noon of the calendar day after the date the beneficiary (or his or her representative) receives notification (either orally or in writing) of the expedited determination by the QIO.
+						262 container
+							263 text ( 3 ) Untimely request and liability.  When a beneficiary does not file a request for an expedited determination by the QIO in accordance with 
+							264 link Description: paragraph (b), Value: ecfr.gov/current/title-42/section-405.1206#p-405.1206(b)
+							265 text  of this section, but remains in the hospital past the discharge date, that beneficiary may be held responsible for charges incurred after the date of discharge or as otherwise stated by the QIO.
+						266 container
+							267 text ( 4 ) Hospital requests an expedited review.  When the hospital requests a review in accordance with 
+							268 link Description: § 405.1208, Value: ecfr.gov/current/title-42/section-405.1208
+							269 text , and the QIO concurs with the hospital's discharge determination, a hospital may not charge the beneficiary until the date specified by the QIO.
+					270 container p-405.1206(g)
+						271 container
+							272 text ( g ) Effect of an expedited QIO determination.  The QIO determination is binding upon the beneficiary, physician, and hospital, except in the following circumstances:
+						273 container
+							274 text ( 1 ) Right to request a reconsideration.  If the beneficiary is still an inpatient in the hospital and is dissatisfied with the determination, he or she may request a reconsideration according to the procedures described in 
+							275 link Description: § 405.1204, Value: ecfr.gov/current/title-42/section-405.1204
+							276 text .
+						277 container
+							278 text ( 2 ) Right to pursue the general claims appeal process.  If the beneficiary is no longer an inpatient in the hospital and is dissatisfied with this determination, the determination is subject to the general claims appeal process.
+					279 container
+						280 text [
+						281 link Description: 71 FR 68721, Value: federalregister.gov/citation/71-FR-68721
+						282 text , Nov. 27, 2006]
+				283 heading ECFR CONTENT, Value: 6
+					284 text ECFR CONTENT
+		285 container
+			286 heading PAGES, Value: 2
+				287 text PAGES
+			288 content list
+				289 container
+					290 text ■
+					291 link Description: Home, Value: ecfr.gov/
+				292 container
+					293 text ■
+					294 link Description: Titles, Value: ecfr.gov/
+				295 container
+					296 text ■
+					297 link Description: Search, Value: ecfr.gov/search
+				298 container
+					299 text ■
+					300 link Description: Recent Changes, Value: ecfr.gov/recent-changes
+				301 container
+					302 text ■
+					303 link Description: Corrections, Value: ecfr.gov/corrections
+			304 heading READER AIDS, Value: 2
+				305 text READER AIDS
+			306 content list
+				307 container
+					308 text ■
+					309 link Description: Using the eCFR Point-in-Time System, Value: ecfr.gov/reader-aids/using-ecfr
+				310 container
+					311 text ■
+					312 link Description: Understanding the eCFR, Value: ecfr.gov/reader-aids/understanding-the-ecfr
+				313 container
+					314 text ■
+					315 link Description: Government Policy and OFR Procedures, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures
+				316 container
+					317 text ■
+					318 link Description: Developer Resources, Value: ecfr.gov/reader-aids/ecfr-developer-resources
+				319 container
+					320 text ■
+					321 link Description: Recent Site Updates, Value: ecfr.gov/reader-aids/ecfr-recent-updates
+			322 heading INFORMATION, Value: 2
+				323 text INFORMATION
+			324 content list
+				325 container
+					326 text ■
+					327 link Description: About This Site, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/about-this-site
+				328 container
+					329 text ■
+					330 link Description: Legal Status, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/about-this-site#legal-status
+				331 container
+					332 text ■
+					333 link Description: Privacy, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/privacy
+				334 container
+					335 text ■
+					336 link Description: Accessibility, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/accessibility
+				337 container
+					338 text ■
+					339 link Description: FOIA, Value: ecfr.gov/reader-aids/government-policy-and-ofr-procedures/foia
+				340 container
+					341 text ■
+					342 link Description: No Fear Act, Value: archives.gov/eeo/policy/no-fear-notice.html
+				343 container
+					344 text ■
+					345 link Description: Continuity Information, Value: archives.gov/federal-register/contact.html#coop
+			346 heading MY ECFR, Value: 2
+				347 text MY ECFR
+			348 content list
+				349 container
+					350 text ■
+					351 link Description: My Subscriptions, Value: ecfr.gov/my/subscriptions
+				352 container
+					353 text ■
+					354 link Description: Sign In / Sign Up, Value: …
+
+The focused UI element is 0 AXWebArea eCFR :: 42 CFR 405.1206 -- Expedited determination procedures for inpatient hospital care., URL: ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-J/section-405.1206
