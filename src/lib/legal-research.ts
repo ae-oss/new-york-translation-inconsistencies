@@ -16,6 +16,7 @@ export type Claim = {
   analysis: string; counterargument: string; reviewer_outcome: string; example: string;
   potential_consequence: string; documented_consequence: string; limitations: string;
   independently_reviewed: boolean; screened_at: string;
+  evidence_image?: string; evidence_image_sha256?: string;
 };
 export type Issue = { id: string; title: string; summary: string; scope: string; legal_questions: string[]; agency_ids: string[]; status: string; limitations: string; claims_identified_topic_level: number; claims_screened_topic_level: number };
 export type Agency = { id: string; name: string; jurisdiction: string; url: string };
