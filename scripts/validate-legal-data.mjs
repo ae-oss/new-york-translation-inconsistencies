@@ -42,6 +42,12 @@ for (const claim of data.claims) {
   if (!claim.exact_quote || !claim.location || !claim.analysis) errors.push(`claim ${claim.id}: incomplete source comparison`);
   for (const ruleId of claim.rule_ids) if (!rules.has(ruleId)) errors.push(`claim ${claim.id}: missing binding rule ${ruleId}`);
   if (claim.outcome === "supported_misrepresentation" && (!claim.independently_reviewed || claim.confidence !== "High")) errors.push(`claim ${claim.id}: supported without high-confidence independent review`);
+  if (claim.evidence_image) {
+    try {
+      const image = readFileSync(join(root, "public/evidence", claim.evidence_image));
+      if (createHash("sha256").update(image).digest("hex") !== claim.evidence_image_sha256) errors.push(`claim ${claim.id}: page image hash mismatch`);
+    } catch { errors.push(`claim ${claim.id}: page image missing`); }
+  }
 }
 for (const finding of data.findings) {
   const claim = claims.get(finding.claim_id), source = sources.get(claim?.source_id);
